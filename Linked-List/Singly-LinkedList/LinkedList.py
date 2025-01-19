@@ -61,7 +61,7 @@ class SLL:
     def delete_at_end(self, temp):
         if self.start is None:
             pass
-        elif self.start.next is None:
+        elif self.start.next is None:   #for 1(one) element in the List
             self.start = None
         else:
             temp = self.start
