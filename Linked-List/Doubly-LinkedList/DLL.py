@@ -77,13 +77,15 @@ class DLL:
         while temp is not None:
             print(temp.item, end=" ")
             temp = temp.next
+        print()
 
     def delete_at_first(self):
-        temp = self.start
-        if temp is not None:
-            temp = temp.next
-            if temp is not None:
-                temp.prev = None
+        # temp = self.start
+        if self.start is not None:
+            self.start = self.start.next
+            if self.start is not None:
+                self.start.prev = None
+
 
     def delete_at_last(self):
         temp = self.start
@@ -96,25 +98,15 @@ class DLL:
 
     def delete_after(self, data):
         temp = self.start
-        if temp is None:
-            pass
-        elif temp.next is None:
-            if temp.item == data:
-                temp = None
-            else:
-                return None
-        else:
-            while temp is not None:
-                if temp.item == data:
-
-                    if temp.next is None:
-                        pass
-
-                    temp.next = temp.next.next
-                    if temp.next is not None:
-                        temp.next.prev = temp
-                    return
-                temp = temp.next  # move to next node or cleaning
+        while temp.next is not None and temp.item != data : 
+            temp = temp.next
+            
+        if temp is None or temp.next is None : 
+            return
+        
+        temp.next = temp.next.next
+        if temp.next is not None:
+             temp.next.prev = temp
 
 
 myList = DLL()
@@ -126,8 +118,13 @@ myList.insert_at_start(14)
 myList.insert_after(12, 39)
 myList.insert_after(13, 39)
 myList.insert_at_last(69)
-# myList.display()
+myList.display()
+
 myList.delete_at_first()
+myList.display()
+
 myList.delete_at_last()
-# myList.delete_after(myList.search(13))
+myList.display()
+
+myList.delete_after(13)
 myList.display()
