@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.java": "java",
+        "*.md": "code-text-binary",
+        "iostream": "cpp",
+        "iomanip": "cpp"
+    }
+}
