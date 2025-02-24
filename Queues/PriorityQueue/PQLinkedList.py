@@ -29,7 +29,10 @@ class priorityQueue :
         self.item_count = 0 
         
     def push(self,data, priority):
-        n = Node(data, priority):
+        n = Node(data, priority)
+        if not self.start or priority < self.start.priority : 
+             n.next = self.start 
+             self.start = n
             
 
 
