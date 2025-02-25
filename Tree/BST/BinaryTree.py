@@ -48,9 +48,7 @@ class BST:
         return self.rsearch(self.root, data)
         # return self.root
 
-    def rsearch(
-        self, root, data
-    ):  # recursive function to atraverse and search, delete, getData, etc
+    def rsearch(self, root, data):  # recursive function to atraverse and search, delete, getData, etc
         if (root is None) or (root.item == data):
             return root
 
