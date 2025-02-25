@@ -38,5 +38,54 @@ class BST:
         # elif data == root.item():
         return root
     
+    def search(self,data):
+        self.root = self.rsearch(self.root, data)
     
+    def rsearch(self, root, data):
+        if (root is None )or (root.item == data) : 
+            return root
         
+        if data < root.item : 
+            return self.rsearch(root.left, data)
+        elif data > root.item : 
+            return self.rsearch(root.right, data)
+    
+    def inorder(self):
+        result = [] #empty list to store the traverse data 
+        self.rinorder(self.root, result)
+        
+    def rindorder(self, root, result) :
+        if root : #continue until finds none
+            self.inorder(root.left, result)
+            result.append(root.item)
+            self.inorder(root.right, result)
+            
+    def preorder(self):
+        result = [] #empty list to store the traverse data 
+        self.rpreorder(self.root, result)
+        
+    def rpredorder(self, root, result) :
+        if root : #continue until finds none
+            result.append(root.item)    #changes here
+            self.preorder(root.left, result)
+            self.preorder(root.right, result)
+    
+    def postorder(self):
+        result = [] #empty list to store the traverse data 
+        self.rpostorder(self.root, result)
+        
+    def rpostorder(self, root, result) :
+        if root : #continue until finds none
+            self.postorder(root.left, result)
+            self.postorder(root.right, result)
+            result.append(root.item) #changes here
+            
+    # deletion functionality 
+    '''
+    1. find min value item node
+    2. find max value item node
+    3. delete method to delete node 
+    4. size method to return tree size
+    '''
+    
+    
