@@ -14,8 +14,13 @@ if [ "$1" == "ids" ]; then
 elif [ "$1" == "discover" ]; then
   shift
   QUERY="$1"
-  java -cp out:lib/json.jar com.example.movierecommender.tmdb.TmdbBulkImporter "--discover $QUERY"
+  START_PAGE=${2:-1}
+  END_PAGE=${3:-$START_PAGE}
+  for ((p=START_PAGE; p<=END_PAGE; p++)); do
+    echo "Ingesting discover page $p"
+    java -cp out:lib/json.jar com.example.movierecommender.tmdb.TmdbBulkImporter "--discover ${QUERY}&page=${p}"
+  done
 else
-  echo "Usage: ingest.sh ids 550,551  OR ingest.sh discover 'with_genres=28&language=en-US'"
+  echo "Usage: ingest.sh ids 550,551  OR ingest.sh discover 'with_genres=28&language=en-US' [startPage endPage]"
   exit 2
 fi

@@ -178,12 +178,10 @@ function App() {
       <footer className="footer">
         <div className="container">
           <p>
-            🎥 Movie Recommendation System • Powered by Hybrid Collaborative & Content-Based
+            Movie Recommendation System • Powered by Hybrid Collaborative & Content-Based
             Filtering
           </p>
-          <p style={{ fontSize: '0.875rem', marginTop: '0.5rem' }}>
-            💾 Using JSON for persistence • No database required
-          </p>
+       
         </div>
       </footer>
     </div>
