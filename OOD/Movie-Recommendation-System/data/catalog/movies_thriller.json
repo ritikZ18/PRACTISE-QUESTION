@@ -1,96 +1,912 @@
 {
-  "genre": "THRILLER",
   "movies": [
     {
-      "id": 5,
-      "title": "Get Out",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Get+Out",
       "year": 2017,
       "director": "Jordan Peele",
-      "genres": ["HORROR", "THRILLER"],
+      "genres": [
+        "HORROR",
+        "THRILLER"
+      ],
       "runtime": 104,
-      "language": "English",
       "description": "A young Black man visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Get+Out",
+      "language": "English",
       "avgRating": 4.6,
+      "id": 5,
+      "title": "Get Out",
       "ratingCount": 0
     },
     {
-      "id": 9,
-      "title": "Se7en",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Se7en",
       "year": 1995,
       "director": "David Fincher",
-      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "genres": [
+        "THRILLER",
+        "CRIME",
+        "DRAMA"
+      ],
       "runtime": 127,
-      "language": "English",
       "description": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Se7en",
+      "language": "English",
       "avgRating": 4.7,
+      "id": 9,
+      "title": "Se7en",
       "ratingCount": 0
     },
     {
-      "id": 14,
-      "title": "Zodiac",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Zodiac",
       "year": 2007,
       "director": "David Fincher",
-      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "genres": [
+        "THRILLER",
+        "CRIME",
+        "DRAMA"
+      ],
       "runtime": 158,
-      "language": "English",
       "description": "A chronicle of the hunt for the Zodiac killer, one of the most elusive and mysterious killers in American history.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Zodiac",
+      "language": "English",
       "avgRating": 4.5,
+      "id": 14,
+      "title": "Zodiac",
       "ratingCount": 0
     },
     {
-      "id": 21,
-      "title": "Prisoners",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Prisoners",
       "year": 2013,
       "director": "Denis Villeneuve",
-      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "genres": [
+        "THRILLER",
+        "CRIME",
+        "DRAMA"
+      ],
       "runtime": 153,
-      "language": "English",
       "description": "When his daughter goes missing, a man takes matters into his own hands with the help of his neighbor.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Prisoners",
+      "language": "English",
       "avgRating": 4.4,
+      "id": 21,
+      "title": "Prisoners",
       "ratingCount": 0
     },
     {
-      "id": 26,
-      "title": "The Silence of the Lambs",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Silence+Lambs",
       "year": 1991,
       "director": "Jonathan Demme",
-      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "genres": [
+        "THRILLER",
+        "CRIME",
+        "DRAMA"
+      ],
       "runtime": 118,
-      "language": "English",
       "description": "A young FBI cadet seeks the advice of an incarcerated and manipulative cannibal killer to help catch another serial killer.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Silence+Lambs",
+      "language": "English",
       "avgRating": 4.8,
+      "id": 26,
+      "title": "The Silence of the Lambs",
       "ratingCount": 0
     },
     {
-      "id": 34,
-      "title": "Gone Girl",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Gone+Girl",
       "year": 2014,
       "director": "David Fincher",
-      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "genres": [
+        "THRILLER",
+        "CRIME",
+        "DRAMA"
+      ],
       "runtime": 149,
-      "language": "English",
       "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Gone+Girl",
+      "language": "English",
       "avgRating": 4.5,
+      "id": 34,
+      "title": "Gone Girl",
       "ratingCount": 0
     },
     {
-      "id": 43,
-      "title": "Memories of Murder",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Memories+Murder",
       "year": 2003,
       "director": "Bong Joon-ho",
-      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "genres": [
+        "THRILLER",
+        "CRIME",
+        "DRAMA"
+      ],
       "runtime": 131,
-      "language": "Korean",
       "description": "Two detectives hunt a serial killer in South Korea while carrying personal demons.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Memories+Murder",
+      "language": "Korean",
       "avgRating": 4.6,
+      "id": 43,
+      "title": "Memories of Murder",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+      "year": 2020,
+      "genres": [
+        "THRILLER",
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Ric Roman Waugh",
+      "description": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garritys experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+      "runtime": 120,
+      "language": "en",
+      "avgRating": 0,
+      "id": 87,
+      "title": "Greenland",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
+      "year": 2026,
+      "genres": [
+        "THRILLER",
+        "HORROR",
+        "ACTION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Jo-Anne Brechin",
+      "description": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto.",
+      "runtime": 89,
+      "language": "en",
+      "avgRating": 0,
+      "id": 121,
+      "title": "Killer Whale",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2FKjLRt7oK1bRRIrxgWmthbBdFh.jpg",
+      "year": 2022,
+      "genres": [
+        "THRILLER",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Dan Trachtenberg",
+      "description": "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
+      "runtime": 100,
+      "language": "en",
+      "avgRating": 0,
+      "id": 144,
+      "title": "Prey",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
+      "year": 2011,
+      "genres": [
+        "THRILLER",
+        "ACTION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Rupert Wyatt",
+      "description": "A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.",
+      "runtime": 105,
+      "language": "en",
+      "avgRating": 0,
+      "id": 245,
+      "title": "Rise of the Planet of the Apes",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "year": 1997,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "DRAMA",
+        "ROMANCE"
+      ],
+      "director": "Andrew Niccol",
+      "description": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 264,
+      "title": "Gattaca",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+      "year": 2019,
+      "genres": [
+        "THRILLER",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "M. Night Shyamalan",
+      "description": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+      "runtime": 129,
+      "language": "en",
+      "avgRating": 0,
+      "id": 304,
+      "title": "Glass",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "year": 1997,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "DRAMA",
+        "ROMANCE"
+      ],
+      "director": "Andrew Niccol",
+      "description": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 334,
+      "title": "Gattaca",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg",
+      "year": 2012,
+      "genres": [
+        "THRILLER",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Peter Berg",
+      "description": "When mankind beams a radio signal into space, a reply comes from \u2018Planet G\u2019, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential that his brother, and his fiancée's father\u2014an Admiral\u2014expect of him.",
+      "runtime": 131,
+      "language": "en",
+      "avgRating": 0,
+      "id": 339,
+      "title": "Battleship",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "year": 2020,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "HORROR"
+      ],
+      "director": "Leigh Whannell",
+      "description": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+      "runtime": 124,
+      "language": "en",
+      "avgRating": 0,
+      "id": 373,
+      "title": "The Invisible Man",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+      "year": 2002,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "HORROR"
+      ],
+      "director": "M. Night Shyamalan",
+      "description": "A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 374,
+      "title": "Signs",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/olMvhbCRuhTbf6EMKxKGHi2on3L.jpg",
+      "year": 2025,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "CRIME",
+        "ACTION"
+      ],
+      "director": "Cédric Jimenez",
+      "description": "In the near future, Paris is divided into three zones that separate social classes, and no one can escape ALMA, a predictive AI that has revolutionized law enforcement. When ALMA\u2019s creator is assassinated, Salia, a top agent, and Zem, a jaded cop, are forced to work together to solve a murder that may expose the dark secrets of the system they serve.",
+      "runtime": 100,
+      "language": "fr",
+      "avgRating": 0,
+      "id": 380,
+      "title": "Dog 51",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
+      "year": 1954,
+      "genres": [
+        "THRILLER",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Ishirō Honda",
+      "description": "Japan is thrown into a panic after several ships are sunk near Odo Island. An expedition to the island led by Dr. Kyohei Yamane soon discover something far more devastating than imagined in the form of a 50 meter tall monster whom the natives call Gojira. Now the monster begins a rampage that threatens to destroy not only Japan, but the rest of the world as well.",
+      "runtime": 96,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 419,
+      "title": "Godzilla",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/3ZWsuP5rExMSji7erxnb1P5SK6F.jpg",
+      "year": 2001,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Tim Burton",
+      "description": "After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Davidson finds himself trapped in a savage world where talking apes dominate the human race. Desperate to find a way home, Leo must evade the invincible gorilla army led by Ruthless General Thade.",
+      "runtime": 120,
+      "language": "en",
+      "avgRating": 0,
+      "id": 439,
+      "title": "Planet of the Apes",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
+      "year": 2025,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Philip Koch",
+      "description": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
+      "runtime": 99,
+      "language": "de",
+      "avgRating": 0,
+      "id": 472,
+      "title": "Brick",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
+      "year": 2025,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Philip Koch",
+      "description": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
+      "runtime": 99,
+      "language": "de",
+      "avgRating": 0,
+      "id": 493,
+      "title": "Brick",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
+      "year": 2014,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "James Ward Byrkit",
+      "description": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
+      "runtime": 89,
+      "language": "en",
+      "avgRating": 0,
+      "id": 508,
+      "title": "Coherence",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
+      "year": 2014,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "James Ward Byrkit",
+      "description": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
+      "runtime": 89,
+      "language": "en",
+      "avgRating": 0,
+      "id": 530,
+      "title": "Coherence",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+      "year": 2014,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Jonathan Glazer",
+      "description": "A seductive stranger prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 533,
+      "title": "Under the Skin",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pUWIjaMMYJjeBm5bJyE3mIXdQ62.jpg",
+      "year": 2011,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "J.J. Abrams",
+      "description": "In late 1970s Ohio, a group of friends filming a homemade zombie movie witness a devastating train derailment. Soon after, their quiet town is gripped by unexplained disappearances, strange phenomena, and a growing sense of fear, as they uncover that something terrifying has been set loose.",
+      "runtime": 112,
+      "language": "en",
+      "avgRating": 0,
+      "id": 550,
+      "title": "Super 8",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/uOVGbT6TR8qiZiruX66yBRXq9Nv.jpg",
+      "year": 2019,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Josh Janowicz",
+      "description": "An idealistic attractive young couple acquires a stunning, life-like robot for guilt free help, but as the three grow closer, their perception of humanity will be altered forever.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 554,
+      "title": "Life Like",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg",
+      "year": 1992,
+      "genres": [
+        "THRILLER",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Roland Emmerich",
+      "description": "An American soldier who had been killed during the Vietnam War is revived 25 years later by the military as a semi-android, UniSols, a high-tech soldier of the future. After the failure of the initiative to erase all the soldier's memories, he begins to experience flashbacks that are forcing him to recall his past.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 590,
+      "title": "Universal Soldier",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/l67ir3kU53FYd6Vjwhqrkih1H1P.jpg",
+      "year": 2024,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Asif Kapadia",
+      "description": "Inspired by Chris Marker's iconic 1962 featurette La Jetée; the year is 2073\u2014a not-so-distant dystopian future\u2014and the setting is New San Francisco, the scorched-earth tech-dominant police state where democracy and personal freedom have been well and truly obliterated.",
+      "runtime": 83,
+      "language": "en",
+      "avgRating": 0,
+      "id": 602,
+      "title": "2073",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/uOVGbT6TR8qiZiruX66yBRXq9Nv.jpg",
+      "year": 2019,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Josh Janowicz",
+      "description": "An idealistic attractive young couple acquires a stunning, life-like robot for guilt free help, but as the three grow closer, their perception of humanity will be altered forever.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 618,
+      "title": "Life Like",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/b9Q2WR62yB5Aq0hd6kyRFS9cc3Y.jpg",
+      "year": 2014,
+      "genres": [
+        "THRILLER",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Vic Armstrong",
+      "description": "A small group of survivors are left behind after millions of people suddenly vanish during the rapture and the world is plunged into chaos and destruction.",
+      "runtime": 110,
+      "language": "en",
+      "avgRating": 0,
+      "id": 651,
+      "title": "Left Behind",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg",
+      "year": 1994,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "ACTION",
+        "CRIME"
+      ],
+      "director": "Peter Hyams",
+      "description": "In 2004, an officer for a security agency that regulates time travel must fend for his life against a shady politician who has a tie to his past.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 684,
+      "title": "Timecop",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg",
+      "year": 2014,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Gabe Ibáñez",
+      "description": "Jacq Vaucan, an insurance agent of ROC robotics corporation, routinely investigates the case of manipulating a robot. What he discovers will have profound consequences for the future of humanity.",
+      "runtime": 110,
+      "language": "en",
+      "avgRating": 0,
+      "id": 689,
+      "title": "Automata",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg",
+      "year": 1983,
+      "genres": [
+        "THRILLER",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "David Cronenberg",
+      "description": "Johnny Smith is a schoolteacher with his whole life ahead of him but, after leaving his fiancee's home one night, is involved in a car crash which leaves him in a coma for 5 years. When he wakes, he discovers he has an ability to see into the past, present and future life of anyone with whom he comes into physical contact.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 696,
+      "title": "The Dead Zone",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg",
+      "year": 2014,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Gabe Ibáñez",
+      "description": "Jacq Vaucan, an insurance agent of ROC robotics corporation, routinely investigates the case of manipulating a robot. What he discovers will have profound consequences for the future of humanity.",
+      "runtime": 110,
+      "language": "en",
+      "avgRating": 0,
+      "id": 701,
+      "title": "Automata",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/22olUUiyt5CHWZUgATipg4N9wbn.jpg",
+      "year": 2020,
+      "genres": [
+        "THRILLER",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Lee Chung-hyun",
+      "description": "Connected by phone in the same home but 20 years apart, a caller puts a woman\u2019s past \u2014 and life \u2014 on the line to change her own fate.",
+      "runtime": 112,
+      "language": "ko",
+      "avgRating": 0,
+      "id": 714,
+      "title": "The Call",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",
+      "year": 2021,
+      "genres": [
+        "THRILLER",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Mikael Håfström",
+      "description": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+      "runtime": 116,
+      "language": "en",
+      "avgRating": 0,
+      "id": 730,
+      "title": "Outside the Wire",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/55jsexep1uh1ieMwyJMVapTETMM.jpg",
+      "year": 2024,
+      "genres": [
+        "THRILLER",
+        "ACTION",
+        "HORROR",
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Kim Tae-gon",
+      "description": "Due to sudden deteriorating weather conditions, visibility on the Airport Bridge is severely impaired, leaving people stranded and at risk of the bridge collapsing due to a series of chain collisions and explosions. Amidst the chaos, the canine subjects \"Echo\" from the military experiment \"Project Silence,\" who were being transported in secret, break free, and all human survivors become targets of relentless attacks.",
+      "runtime": 96,
+      "language": "ko",
+      "avgRating": 0,
+      "id": 744,
+      "title": "Project Silence",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg",
+      "year": 2023,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Rusty Cundieff",
+      "description": "When a tech blogger lands an interview with a tech guru and stops an attack on him, he finds a mysterious ring that takes him back 57 seconds into the past.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 750,
+      "title": "57 Seconds",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4ahjVHwXXsq5zK57ds8FwWY73MS.jpg",
+      "year": 1996,
+      "genres": [
+        "THRILLER",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Andrew Davis",
+      "description": "At the University of Chicago, a research team that includes brilliant student machinist Eddie Kasalivich experiences a breakthrough: a stable form of fusion that may lead to a waste-free energy source. However, a private company wants to exploit the technology, so Kasalivich and physicist Dr. Lily Sinclair are framed for murder, and the fusion device is stolen. On the run from the FBI, they must recover the technology and exonerate themselves.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 766,
+      "title": "Chain Reaction",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg",
+      "year": 1994,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "ACTION",
+        "CRIME"
+      ],
+      "director": "Peter Hyams",
+      "description": "In 2004, an officer for a security agency that regulates time travel must fend for his life against a shady politician who has a tie to his past.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 777,
+      "title": "Timecop",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/x4BTjxdrOKC27FcSkBh8KPEgnum.jpg",
+      "year": 1998,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Vincenzo Natali",
+      "description": "A group of strangers find themselves trapped in a maze-like prison. It soon becomes clear that each of them possesses the peculiar skills necessary to escape, if they don't wind up dead first.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 786,
+      "title": "Cube",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/b9Q2WR62yB5Aq0hd6kyRFS9cc3Y.jpg",
+      "year": 2014,
+      "genres": [
+        "THRILLER",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Vic Armstrong",
+      "description": "A small group of survivors are left behind after millions of people suddenly vanish during the rapture and the world is plunged into chaos and destruction.",
+      "runtime": 110,
+      "language": "en",
+      "avgRating": 0,
+      "id": 842,
+      "title": "Left Behind",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mEWKXuCMv7mFMxXVSTI3v8UOQuq.jpg",
+      "year": 1984,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Peter Hyams",
+      "description": "While planet Earth poises on the brink of nuclear self-destruction, a team of Russian and American scientists aboard the Leonov hurtles to a rendezvous with the still-orbiting Discovery spacecraft and its sole known survivor, the homicidal computer HAL.",
+      "runtime": 116,
+      "language": "en",
+      "avgRating": 0,
+      "id": 854,
+      "title": "2010",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg",
+      "year": 2023,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Rusty Cundieff",
+      "description": "When a tech blogger lands an interview with a tech guru and stops an attack on him, he finds a mysterious ring that takes him back 57 seconds into the past.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 855,
+      "title": "57 Seconds",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg",
+      "year": 2018,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "David Slade",
+      "description": "In 1984, a young programmer begins to question reality as he adapts a dark fantasy novel into a video game. A mind-bending tale with multiple endings.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 856,
+      "title": "Black Mirror: Bandersnatch",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/sotBnRlFJ67cPisjAUXzbPxi9kC.jpg",
+      "year": 1960,
+      "genres": [
+        "THRILLER",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI",
+        "ROMANCE"
+      ],
+      "director": "George Pal",
+      "description": "A Victorian Englishman travels to the far future and finds that humanity has divided into two hostile species.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 883,
+      "title": "The Time Machine",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg",
+      "year": 2018,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "David Slade",
+      "description": "In 1984, a young programmer begins to question reality as he adapts a dark fantasy novel into a video game. A mind-bending tale with multiple endings.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 902,
+      "title": "Black Mirror: Bandersnatch",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xMAmOu6xl4CsstixcuecBle9krd.jpg",
+      "year": 2009,
+      "genres": [
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Richard Kelly",
+      "description": "Norma and Arthur Lewis, a suburban couple with a young child, receive a simple wooden box as a gift, which bears fatal and irrevocable consequences. A mysterious stranger delivers the message that the box promises to bestow upon its owner $1 million with the press of a button. However pressing this button will simultaneously cause the death of another human being somewhere in the world; someone they don't know. With just 24 hours to have the box in their possession, Norma and Arthur find themselves in the cross-hairs of a startling moral dilemma and must face the true nature of their humanity.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 907,
+      "title": "The Box",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",
+      "year": 2000,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "David Twohy",
+      "description": "When their ship crash-lands on a remote planet, the marooned passengers soon learn that escaped convict Riddick isn't the only thing they have to fear. Deadly creatures lurk in the shadows, waiting to attack in the dark, and the planet is rapidly plunging into the utter blackness of a total eclipse. With the body count rising, the doomed survivors are forced to turn to Riddick with his eerie eyes to guide them through the darkness to safety. With time running out, there's only one rule: Stay in the light.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1009,
+      "title": "Pitch Black",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/h4cPVVNPZUHVeoF6dH2grBvSEKs.jpg",
+      "year": 2020,
+      "genres": [
+        "THRILLER",
+        "HORROR",
+        "DRAMA",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Neasa Hardiman",
+      "description": "The crew of a West of Ireland trawler\u2014marooned at sea\u2014struggle for their lives against a growing parasite in their water supply.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1011,
+      "title": "Sea Fever",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cBwZIq1QFasmsC9Wi3HvyEljfYN.jpg",
+      "year": 2015,
+      "genres": [
+        "THRILLER",
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Brian A. Miller",
+      "description": "Julian Michaels has designed the ultimate resort: VICE, where anything goes and the customers can play out their wildest fantasies with artificial inhabitants who look, think and feel like humans. When an artificial becomes self-aware and escapes, she finds herself caught in the crossfire between Julian's mercenaries and a cop who is hell-bent on shutting down Vice, and stopping the violence once and for all.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1012,
+      "title": "Vice",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gANKh0Vm00CTE1Hf2aTh2IIXn8X.jpg",
+      "year": 2004,
+      "genres": [
+        "THRILLER",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Joseph Ruben",
+      "description": "Telly Paretta is a grieving mother struggling to cope with the loss of her 9-year-old son. She is stunned when her psychiatrist reveals that she has created nine years of memories about a son she never had. But when she remembers a man who had a similar experience, Telly embarks on a search to prove her son's existence, and her sanity.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1044,
+      "title": "The Forgotten",
       "ratingCount": 0
     }
-  ]
+  ],
+  "genre": "THRILLER"
 }

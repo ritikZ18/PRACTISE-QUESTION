@@ -1,0 +1,92 @@
+{
+  "movies": [
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
+      "year": 2015,
+      "genres": [
+        "CRIME",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Neill Blomkamp",
+      "description": "Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings\u2014some good, some bad\u2014and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot.",
+      "runtime": 120,
+      "language": "en",
+      "avgRating": 0,
+      "id": 215,
+      "title": "Chappie",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+      "year": 1993,
+      "genres": [
+        "CRIME",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Marco Brambilla",
+      "description": "In 1996, brash L.A. detective John Spartan and maniac killer Simon Phoenix are both sentenced to decades in a cryogenic prison as punishment for a rescue mission gone wrong. When Phoenix escapes 36 years later to wreak havoc on the future, Spartan is awakened to capture his nemesis the old-fashioned way.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 371,
+      "title": "Demolition Man",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+      "year": 1993,
+      "genres": [
+        "CRIME",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Marco Brambilla",
+      "description": "In 1996, brash L.A. detective John Spartan and maniac killer Simon Phoenix are both sentenced to decades in a cryogenic prison as punishment for a rescue mission gone wrong. When Phoenix escapes 36 years later to wreak havoc on the future, Spartan is awakened to capture his nemesis the old-fashioned way.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 422,
+      "title": "Demolition Man",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
+      "year": 1995,
+      "genres": [
+        "CRIME",
+        "DRAMA",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Kathryn Bigelow",
+      "description": "In the last days of 1999, ex-cop turned street hustler Lenny Nero receives a disc which contains the memories of the murder of a prostitute. With the help of bodyguard Mace, he starts to investigate and is pulled deeper and deeper in a whirl of murder, blackmail and intrigue.",
+      "runtime": 145,
+      "language": "en",
+      "avgRating": 0,
+      "id": 998,
+      "title": "Strange Days",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
+      "year": 1995,
+      "genres": [
+        "CRIME",
+        "DRAMA",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Kathryn Bigelow",
+      "description": "In the last days of 1999, ex-cop turned street hustler Lenny Nero receives a disc which contains the memories of the murder of a prostitute. With the help of bodyguard Mace, he starts to investigate and is pulled deeper and deeper in a whirl of murder, blackmail and intrigue.",
+      "runtime": 145,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1031,
+      "title": "Strange Days",
+      "ratingCount": 0
+    }
+  ],
+  "genre": "CRIME"
+}

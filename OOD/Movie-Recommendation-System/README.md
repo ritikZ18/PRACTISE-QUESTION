@@ -183,12 +183,20 @@ npm run preview
 
 ### Testing the Backend
 
-The system comes with **5 pre-loaded users**:
-- Alice (likes Sci-Fi, Thriller)
-- Bob (likes Action, Crime)
-- Carol (likes Drama)
-- David (likes Horror, Thriller)
-- Emma (likes Comedy, Romance)
+The system comes with **pre-loaded users**:
+- Alice (Sci-Fi, Thriller)
+- Bob (Action, Crime)
+- Carol (Drama)
+- David (Horror, Thriller)
+- Emma (Comedy, Romance)
+- Fiona (Documentary, Drama)
+- Hiro (Animation, Adventure, Fantasy)
+- Aisha (Romance, Drama)
+- Mateo (Crime, Thriller)
+- Zara (Horror, Thriller)
+- Priya (Sci-Fi, Action)
+- Chen (Comedy, Animation)
+- Luca (Adventure, Action)
 
 Each user has rated 4-5 movies, giving the hybrid algorithm training data.
 
@@ -216,7 +224,7 @@ All endpoints are prefixed with `http://localhost:8080/api`
 | `/users` | GET | All registered users |
 | `/recommend?userId=1&limit=10` | GET | Personalized recommendations |
 | `/search?userId=1&feeling=text` | GET | Mood-based search |
-| `/trending?limit=10` | GET | Trending movies by rating |
+| `/trending?limit=10` | GET | Charts: TMDB Trending + TMDB Top Rated + community top-rated (TMDB requires `TMDB_API_KEY`) |
 | `/mood?mood=HAPPY&limit=10` | GET | Movies for specific mood |
 | `/rate` | POST | Rate a movie (JSON body) |
 

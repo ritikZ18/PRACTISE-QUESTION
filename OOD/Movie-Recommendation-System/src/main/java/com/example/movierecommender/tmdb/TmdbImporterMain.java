@@ -28,7 +28,12 @@ public class TmdbImporterMain {
         mapped.put("description", movie.optString("overview", ""));
         mapped.put("runtime", movie.optInt("runtime", 0));
         mapped.put("language", movie.optString("original_language", ""));
-        mapped.put("posterUrl", movie.optString("poster_path", ""));
+        String posterPath = movie.optString("poster_path", "");
+        if (posterPath != null && !posterPath.isBlank()) {
+            mapped.put("posterUrl", "https://image.tmdb.org/t/p/w342" + posterPath.trim());
+        } else {
+            mapped.put("posterUrl", "");
+        }
 
         JSONArray genres = movie.optJSONArray("genres");
         if (genres != null) {

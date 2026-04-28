@@ -7,8 +7,12 @@ import com.example.movierecommender.repository.RatingRegister;
 import com.example.movierecommender.strategy.FilterEngine;
 import com.example.movierecommender.strategy.MoodParser;
 
+import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Locale;
+import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
@@ -49,12 +53,16 @@ public class SearchService {
         List<Movie> filtered = filterEngine.apply(register.getAllMovies(), filter);
 
         // If user has rating history, rerank using hybrid recommendation strategy
-        int userRatingCount = register.getRatingCountForUser(userId);
-        if (userRatingCount > 0) {
-            filtered = rerankByRecommendations(userId, filtered);
+        try {
+            int userRatingCount = register.getRatingCountForUser(userId);
+            if (userRatingCount > 0) {
+                filtered = rerankByRecommendations(userId, filtered);
+            }
+        } catch (Exception e) {
+            System.err.println("Search rerank failed, returning filtered results: " + e.getMessage());
         }
 
-        return filtered;
+        return dedupeByFingerprint(filtered, filtered.size());
     }
 
     /**
@@ -77,7 +85,7 @@ public class SearchService {
      * Get trending movies (by average rating and rating count)
      */
     public List<Movie> getTrending(int limit) {
-        return register.getAllMovies().stream()
+        List<Movie> trending = register.getAllMovies().stream()
             .filter(m -> m.getRatingCount() > 0)
             .sorted(
                 Comparator.comparingDouble(Movie::getAverageRating)
@@ -86,6 +94,7 @@ public class SearchService {
             )
             .limit(limit)
             .collect(Collectors.toList());
+        return dedupeByFingerprint(trending, limit);
     }
 
     /**
@@ -100,9 +109,10 @@ public class SearchService {
      */
     public List<Movie> getByMood(Mood mood, int limit) {
         Filter filter = Filter.builder().mood(mood).build();
-        return filterEngine.apply(register.getAllMovies(), filter).stream()
-            .limit(limit)
+        List<Movie> raw = filterEngine.apply(register.getAllMovies(), filter).stream()
+            .limit(limit * 3L)
             .collect(Collectors.toList());
+        return dedupeByFingerprint(raw, limit);
     }
 
     /**
@@ -118,6 +128,30 @@ public class SearchService {
             filtered = rerankByRecommendations(userId, filtered);
         }
 
-        return filtered.stream().limit(limit).collect(Collectors.toList());
+        return dedupeByFingerprint(filtered, limit);
+    }
+
+    private static List<Movie> dedupeByFingerprint(List<Movie> movies, int limit) {
+        if (movies == null || movies.isEmpty() || limit <= 0) {
+            return List.of();
+        }
+
+        Map<String, Movie> unique = new LinkedHashMap<>();
+        for (Movie movie : movies) {
+            if (movie == null) {
+                continue;
+            }
+            unique.putIfAbsent(fingerprint(movie), movie);
+            if (unique.size() >= limit) {
+                break;
+            }
+        }
+        return new ArrayList<>(unique.values());
+    }
+
+    private static String fingerprint(Movie movie) {
+        String title = movie.getTitle() == null ? "" : movie.getTitle().trim().toLowerCase(Locale.ROOT);
+        String language = movie.getLanguage() == null ? "" : movie.getLanguage().trim().toLowerCase(Locale.ROOT);
+        return title + "|" + movie.getYear() + "|" + movie.getRuntime() + "|" + language;
     }
 }

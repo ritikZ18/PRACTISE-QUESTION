@@ -20,7 +20,7 @@ public class TmdbClient {
         this.apiKey = key;
     }
 
-    private JSONObject getJson(String path) throws Exception {
+    public JSONObject getJson(String path) throws Exception {
         String url = base + path + (path.contains("?") ? "&" : "?") + "api_key=" + apiKey;
         HttpURLConnection con = (HttpURLConnection) new URL(url).openConnection();
         con.setRequestMethod("GET");

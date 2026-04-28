@@ -1,0 +1,99 @@
+.movie-rail {
+  margin: 1.75rem 0 2.25rem;
+}
+
+.rail-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.9rem;
+}
+
+.rail-title {
+  font-size: 1.2rem;
+  margin: 0;
+  letter-spacing: 0.2px;
+}
+
+.rail-subtitle {
+  margin: 0.35rem 0 0;
+  color: var(--gray-400);
+  font-size: 0.95rem;
+}
+
+.rail-actions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.rail-nav {
+  width: 40px;
+  height: 40px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: var(--gray-100);
+  font-size: 1.35rem;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.15s ease, background 0.15s ease, border-color 0.15s ease;
+  backdrop-filter: blur(10px);
+}
+
+.rail-nav:hover {
+  transform: translateY(-1px);
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.16);
+}
+
+.rail-wrap {
+  position: relative;
+}
+
+.rail-scroller {
+  display: flex;
+  gap: 0.9rem;
+  overflow-x: auto;
+  padding: 0.25rem 0.5rem 0.9rem;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.rail-scroller::-webkit-scrollbar {
+  display: none;
+}
+
+.rail-scroller > * {
+  scroll-snap-align: start;
+}
+
+.rail-fade {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 64px;
+  pointer-events: none;
+  z-index: 3;
+}
+
+.rail-fade.left {
+  left: 0;
+  background: linear-gradient(90deg, rgba(9, 10, 15, 1) 0%, rgba(9, 10, 15, 0) 100%);
+}
+
+.rail-fade.right {
+  right: 0;
+  background: linear-gradient(270deg, rgba(9, 10, 15, 1) 0%, rgba(9, 10, 15, 0) 100%);
+}
+
+@media (max-width: 768px) {
+  .rail-actions {
+    display: none;
+  }
+  .rail-scroller {
+    padding-right: 1.25rem;
+  }
+}

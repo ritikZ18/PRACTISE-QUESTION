@@ -1,44 +1,2316 @@
 {
-  "genre": "ANIMATION",
   "movies": [
     {
-      "id": 36,
-      "title": "Spirited Away",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Spirited+Away",
       "year": 2001,
       "director": "Hayao Miyazaki",
-      "genres": ["ANIMATION", "ADVENTURE", "FANTASY"],
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "FANTASY"
+      ],
       "runtime": 125,
-      "language": "Japanese",
       "description": "During her family's move to the suburbs, a sullen girl wanders into a world ruled by gods, witches, and spirits, and meets a mysterious boy who claims to know her.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Spirited+Away",
+      "language": "Japanese",
       "avgRating": 4.7,
+      "id": 36,
+      "title": "Spirited Away",
       "ratingCount": 0
     },
     {
-      "id": 46,
-      "title": "Your Name",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Your+Name",
       "year": 2016,
       "director": "Makoto Shinkai",
-      "genres": ["ANIMATION", "ROMANCE", "DRAMA"],
+      "genres": [
+        "ANIMATION",
+        "ROMANCE",
+        "DRAMA"
+      ],
       "runtime": 107,
-      "language": "Japanese",
       "description": "Two strangers find themselves mysteriously swapping bodies, leading to a magical love story.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Your+Name",
+      "language": "Japanese",
       "avgRating": 4.5,
+      "id": 46,
+      "title": "Your Name",
       "ratingCount": 0
     },
     {
-      "id": 47,
-      "title": "Coco",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Coco",
       "year": 2017,
       "director": "Lee Unkrich",
-      "genres": ["ANIMATION", "FAMILY", "FANTASY"],
+      "genres": [
+        "ANIMATION",
+        "FAMILY",
+        "FANTASY"
+      ],
       "runtime": 105,
-      "language": "English",
       "description": "Aspiring musician Miguel, faced with his family's ban on music, enters the Land of the Dead to find his great-great-grandfather.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Coco",
+      "language": "English",
       "avgRating": 4.6,
+      "id": 47,
+      "title": "Coco",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "year": 2026,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "SCI_FI",
+        "COMEDY",
+        "ADVENTURE"
+      ],
+      "director": "Daniel Chong",
+      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "runtime": 105,
+      "language": "en",
+      "avgRating": 0,
+      "id": 57,
+      "title": "Hoppers",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "year": 2023,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Kemp Powers",
+      "description": "After reuniting with Gwen Stacy, Brooklyn\u2019s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+      "runtime": 140,
+      "language": "en",
+      "avgRating": 0,
+      "id": 85,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "year": 2018,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Bob Persichetti",
+      "description": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+      "runtime": 117,
+      "language": "en",
+      "avgRating": 0,
+      "id": 104,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "year": 2008,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Andrew Stanton",
+      "description": "After hundreds of years doing what he was built for, WALL\u2022E\u2014 a robot designed to clean up the earth\u2014discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL\u2022E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL\u2022E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 124,
+      "title": "WALL·E",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "year": 2010,
+      "genres": [
+        "ANIMATION",
+        "COMEDY",
+        "CRIME",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Pierre Coffin",
+      "description": "Gru is a supervillain determined to prove he\u2019s the greatest by stealing the Moon. To pull off his plan, he adopts three orphaned girls\u2014Margo, Edith, and Agnes\u2014intending to use them as part of his scheme. However, as Gru bonds with the girls, his cold, villainous exterior begins to melt.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 141,
+      "title": "Despicable Me",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
+      "year": 2025,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Mamoru Hosoda",
+      "description": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not achieve her revenge against her nemesis and reach the \"No End Place,\" she will become \"Void\" and cease to exist. Can Scarlet find a way to live at the end of her endless journey?",
+      "runtime": 112,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 192,
+      "title": "Scarlet",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
+      "year": 2026,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Shingo Yamashita",
+      "description": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world together.",
+      "runtime": 141,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 200,
+      "title": "Cosmic Princess Kaguya!",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
+      "year": 2025,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Mamoru Hosoda",
+      "description": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not achieve her revenge against her nemesis and reach the \"No End Place,\" she will become \"Void\" and cease to exist. Can Scarlet find a way to live at the end of her endless journey?",
+      "runtime": 112,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 206,
+      "title": "Scarlet",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hpHarddVj34j53T7NsoUGdKj4mP.jpg",
+      "year": 2009,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Rob Letterman",
+      "description": "When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk on her wedding day, she mysteriously grows to 49-feet-11-inches. The military jumps into action and captures Susan, secreting her away to a covert government compound. She is renamed Ginormica and placed in confinement with a ragtag group of Monsters...",
+      "runtime": 94,
+      "language": "en",
+      "avgRating": 0,
+      "id": 210,
+      "title": "Monsters vs Aliens",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+      "year": 2024,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Josh Cooley",
+      "description": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+      "runtime": 104,
+      "language": "en",
+      "avgRating": 0,
+      "id": 216,
+      "title": "Transformers One",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1aEfyTWUK8ZBk4aw7Ck0qEoF8PW.jpg",
+      "year": 2025,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Shigeyuki Miya",
+      "description": "In a Kaiju-filled Japan, Kafka Hibino works in monster disposal. After reuniting with his childhood friend Mina Ashiro, a rising star in the anti-Kaiju Defense Force, he decides to pursue his abandoned dream of joining the Force, when he suddenly transforms into the powerful \"Kaiju No. 8.\" An action-packed recap of the first season of Kaiju No. 8 and a new original episode, Hoshina's Day Off.",
+      "runtime": 110,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 243,
+      "title": "Kaiju No. 8: Mission Recon",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+      "year": 1997,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Kazuya Tsurumaki",
+      "description": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
+      "runtime": 87,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 251,
+      "title": "Neon Genesis Evangelion: The End of Evangelion",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
+      "year": 2026,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Shingo Yamashita",
+      "description": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world together.",
+      "runtime": 141,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 272,
+      "title": "Cosmic Princess Kaguya!",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+      "year": 1988,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Katsuhiro Otomo",
+      "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+      "runtime": 124,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 278,
+      "title": "Akira",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/25csgA1l0jpvvSRwdFgjrI7PDnk.jpg",
+      "year": 2026,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Naoyuki Asano",
+      "description": "A short film celebrating the 30th anniversary of Neon Genesis Evangelion starring both the classic and Rebuild iterations of Asuka. The short comedically explores alternate timelines.",
+      "runtime": 0,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 310,
+      "title": "EVANGELION 30th Anniversary Special Screening",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg",
+      "year": 2005,
+      "genres": [
+        "ANIMATION",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Chris Wedge",
+      "description": "Rodney Copperbottom is a young robot inventor who dreams of making the world a better place, until the evil Ratchet takes over Bigweld Industries. Now, Rodney's dreams \u2013 and those of his friends \u2013 are in danger of becoming obsolete.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 315,
+      "title": "Robots",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tTrI6PwqzxkgO3dvQ7BEKXM7SYR.jpg",
+      "year": 2024,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Tensai Okamura",
+      "description": "In a society devastated by the effects of an all-out war between heroes and villains, a mysterious giant fortress suddenly appears, engulfing towns and people one after another. Then, a man reminiscent of All Might, the 'symbol of peace', stands in front of Izuku and his friends...",
+      "runtime": 110,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 367,
+      "title": "My Hero Academia: You're Next",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mWlvHFxTDhq9O5WSOHywa32QIez.jpg",
+      "year": 2025,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Ugo Bienvenu",
+      "description": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by all means to help send him back to his era.",
+      "runtime": 89,
+      "language": "fr",
+      "avgRating": 0,
+      "id": 382,
+      "title": "Arco",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+      "year": 1999,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Brad Bird",
+      "description": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+      "runtime": 86,
+      "language": "en",
+      "avgRating": 0,
+      "id": 387,
+      "title": "The Iron Giant",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2Dn39hUknCFPcgNBk1YBeGdCDGx.jpg",
+      "year": 2025,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Yasuomi Umetsu",
+      "description": "In an unforgiving world, Ubu Kamigori hunts criminals as a bounty hunter. But one day, waiting in her home is the man she shares a sordid history with\u2014Mr. Elegance. And so, her destiny begins to unravel.",
+      "runtime": 35,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 392,
+      "title": "VIRGIN PUNK Clockwork Girl",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/md5wZRRj8biHrGtyitgBZo7674t.jpg",
+      "year": 2021,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Kazuya Tsurumaki",
+      "description": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each lives a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon\u2014one that will prove to be the true end of Evangelion.",
+      "runtime": 155,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 398,
+      "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hPcImYndWESKHzT2GHVCDsUxzYg.jpg",
+      "year": 2014,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "COMEDY",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Rob Minkoff",
+      "description": "A young boy and his dog, who happens to have a genius-level IQ, spring into action when their time-machine is stolen and moments in history begin to be changed.",
+      "runtime": 92,
+      "language": "en",
+      "avgRating": 0,
+      "id": 418,
+      "title": "Mr. Peabody & Sherman",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg",
+      "year": 2022,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "DRAMA",
+        "ADVENTURE"
+      ],
+      "director": "Angus MacLane",
+      "description": "Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.",
+      "runtime": 105,
+      "language": "en",
+      "avgRating": 0,
+      "id": 420,
+      "title": "Lightyear",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/uiQ6wj8TPYHueuIJRsNlPruzogT.jpg",
+      "year": 2025,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Hiroyuki Hata",
+      "description": "Ichika is a high school musician who can enter a mysterious place called \u201cSEKAI,\u201d where she and her friends express their innermost emotions through music alongside Hatsune Miku. One day after giving a live performance, Ichika meets a new Miku that she has never seen before. No matter how hard this new Miku tries to sing, she struggles connecting with the hearts of her listeners. Miku must rely on the help of others to find a way to sing again.",
+      "runtime": 105,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 433,
+      "title": "COLORFUL STAGE! The Movie: A Miku Who Can't Sing",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg",
+      "year": 2022,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Tetsuro Kodama",
+      "description": "The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.",
+      "runtime": 100,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 434,
+      "title": "Dragon Ball Super: Super Hero",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg",
+      "year": 2022,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "DRAMA",
+        "ADVENTURE"
+      ],
+      "director": "Angus MacLane",
+      "description": "Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.",
+      "runtime": 105,
+      "language": "en",
+      "avgRating": 0,
+      "id": 442,
+      "title": "Lightyear",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gyh0eECE2IqrW8GWl3KoHBfc45j.jpg",
+      "year": 2023,
+      "genres": [
+        "ANIMATION",
+        "COMEDY",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Jeff Rowe",
+      "description": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
+      "runtime": 100,
+      "language": "en",
+      "avgRating": 0,
+      "id": 444,
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg",
+      "year": 1993,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Shigeyasu Yamauchi",
+      "description": "While the Saiyan Paragus persuades Vegeta to rule a new planet, King Kai alerts Goku of the South Galaxy's destruction by an unknown Super Saiyan.",
+      "runtime": 70,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 449,
+      "title": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hPcImYndWESKHzT2GHVCDsUxzYg.jpg",
+      "year": 2014,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "COMEDY",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Rob Minkoff",
+      "description": "A young boy and his dog, who happens to have a genius-level IQ, spring into action when their time-machine is stolen and moments in history begin to be changed.",
+      "runtime": 92,
+      "language": "en",
+      "avgRating": 0,
+      "id": 452,
+      "title": "Mr. Peabody & Sherman",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/g0D94CrNm8bTCgHdpURTmR46s1Q.jpg",
+      "year": 2006,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Ayumu Watanabe",
+      "description": "After bringing a fossilized egg back to life with the Time Cloth, Nobita finds himself the owner of a baby dinosaur. Everything is fine until it grows up. Nobita and friends use Doraemon's time machine to return it back to its own time.",
+      "runtime": 107,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 468,
+      "title": "Doraemon: Nobita's Dinosaur",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2szdEK0Mr0RG0nWGFVTseNQHbnP.jpg",
+      "year": 2017,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Tomohiko Ito",
+      "description": "In 2026, a new machine called the Augma is developed to compete against the NerveGear and its successor, the Amusphere. A next-gen wearable device, the Augma doesn't have a full-dive function like its predecessors. Instead, it uses Augmented Reality to get players into the game. It is safe, user-friendly and lets users play while they are conscious, making it an instant hit on the market. The most popular game on the system is \u201cOrdinal Scale\u201d an ARMMORPG developed exclusively for the Augma. Asuna and the gang have already been playing OS for a while, by the time Kirito decides to join them. They\u2019re about to find out that Ordinal Scale isn\u2019t all fun and games\u2026",
+      "runtime": 119,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 477,
+      "title": "Sword Art Online the Movie: Ordinal Scale",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/naya0zF4kT401Sx15AtwB9vpcJr.jpg",
+      "year": 2007,
+      "genres": [
+        "ANIMATION",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Stephen J. Anderson",
+      "description": "Lewis, a brilliant young inventor, is keen on creating a time machine to find his mother, who abandoned him in an orphanage. Things take a turn when he meets Wilbur Robinson and his family.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 487,
+      "title": "Meet the Robinsons",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6gw8onh4FKsruBA7Oouv01EFxzn.jpg",
+      "year": 2021,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Shukou Murase",
+      "description": "Twelve years after Char's rebellion, Hathaway Noa leads an insurgency against Earth Federation, but meeting an enemy officer and a mysterious woman alters his fate.",
+      "runtime": 96,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 519,
+      "title": "Mobile Suit Gundam Hathaway",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/AbgADjLIYoLAc3mayVWGBWSbjT.jpg",
+      "year": 2002,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI",
+        "CRIME"
+      ],
+      "director": "Kenji Kodama",
+      "description": "Noah's Ark, the latest innovation in VR technology, is set for a showcase to Japan's privileged children. However, their carefree fun is cut short when a company employee is found murdered, with his dying message pointing to a clue hidden within the Ark.  Along with the Detective Boys and Ran Mouri, Conan Edogawa enters Noah's Ark to solve this mystery and ensure the perpetrator is caught.",
+      "runtime": 107,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 522,
+      "title": "Detective Conan: The Phantom of Baker Street",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9ipbQRgOq6Ilxpwagfa98ikgR9v.jpg",
+      "year": 2001,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "HORROR",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Yoshiaki Kawajiri",
+      "description": "D, a legendary dhampir competes with a motley family of bounty hunters to track down Charlotte Elbourne, a young woman who has seemingly been abducted by vampire nobleman Meier Link.",
+      "runtime": 103,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 523,
+      "title": "Vampire Hunter D: Bloodlust",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg",
+      "year": 2021,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Mamoru Hosoda",
+      "description": "Suzu is a 17-year-old high-school student living in a rural town with her father. Wounded by the loss of her mother at a young age, Suzu one day discovers the massive online world \"U\" and dives into this alternate reality as her avatar, Belle. Before long, all of U's eyes are fixed on Belle, when, suddenly, a mysterious, dragon-like figure appears before her.",
+      "runtime": 121,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 532,
+      "title": "Belle",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6gw8onh4FKsruBA7Oouv01EFxzn.jpg",
+      "year": 2021,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Shukou Murase",
+      "description": "Twelve years after Char's rebellion, Hathaway Noa leads an insurgency against Earth Federation, but meeting an enemy officer and a mysterious woman alters his fate.",
+      "runtime": 96,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 549,
+      "title": "Mobile Suit Gundam Hathaway",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pETU4GurpeEjBOM8oytMH0yNBHx.jpg",
+      "year": 2007,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Masayuki",
+      "description": "After the Second Impact, Tokyo-3 is being attacked by giant monsters called Angels that seek to eradicate humankind. The child Shinji\u2019s objective is to fight the Angels by piloting one of the mysterious Evangelion mecha units. A remake of the first six episodes of GAINAX\u2019s famous 1996 anime series. The film was retitled \u201cEvangelion: 1.01\u201d for its DVD release and \u201cEvangelion: 1.11\u201d for a release with additional scenes.",
+      "runtime": 101,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 553,
+      "title": "Evangelion: 1.0 You Are (Not) Alone",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+      "year": 2021,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "DRAMA",
+        "COMEDY"
+      ],
+      "director": "Sarah Smith",
+      "description": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 574,
+      "title": "Ron's Gone Wrong",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/lXBjqzo6c4NyLuJtqOiH39kswji.jpg",
+      "year": 1997,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Hideaki Anno",
+      "description": "Originally a collection of clips from the Neon Genesis Evangelion TV series, Death was created as a precursor to the re-worked ending of the series. Rebirth was intended as that re-worked ending, but after production overruns Rebirth became only the first half of the first part of The End of Evangelion, with some minor differences.",
+      "runtime": 101,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 584,
+      "title": "Neon Genesis Evangelion: Death and Rebirth",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/sVVT6GYFErVv0Lcc9NvqCu0iOxO.jpg",
+      "year": 2025,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Jumpei Mizusaki",
+      "description": "The Batman family has returned to the present to discover that Japan has disappeared, and a giant island - Hinomoto - is now in the sky over Gotham City.  At the top sit the Yakuza, a group of superpowered individuals who reign without honor or humanity and look suspiciously like the Justice League. Now, it\u2019s up to Batman and his allies to save Gotham!",
+      "runtime": 90,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 588,
+      "title": "Batman Ninja vs. Yakuza League",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kznh3ACnXYVyyAYes7JN6i1wy2d.jpg",
+      "year": 2026,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Kenichiro Akimoto",
+      "description": "When a massive alien flower known as \"Darol\" unexpectedly erupts in a deadly event, unleashing monstrous creatures that decimate the population of Japan, Rita is caught in the destruction\u2014and killed. But then she wakes up again. And again. Caught in an endless time loop, Rita must navigate the trauma and repetition of death until she crosses paths with Keiji, a shy young man trapped in the same cycle. Together, they fight to break free from the loop and find meaning in the chaos around them.",
+      "runtime": 86,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 594,
+      "title": "ALL YOU NEED IS KILL",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+      "year": 2024,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "DRAMA",
+        "DRAMA",
+        "ADVENTURE",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Kazuaki Imai",
+      "description": "When a malevolent entity intent on eradicating music from the world surfaces, Nobita and his friends must unite with supernatural companions to safeguard the planet.",
+      "runtime": 115,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 601,
+      "title": "Doraemon the Movie: Nobita's Earth Symphony",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg",
+      "year": 2023,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Pablo Berger",
+      "description": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
+      "runtime": 102,
+      "language": "es",
+      "avgRating": 0,
+      "id": 604,
+      "title": "Robot Dreams",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4goL6NMtUXYUDjI9N8CUBk9SrEt.jpg",
+      "year": 2027,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Bob Persichetti",
+      "description": "Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles finds himself in the darkest corners of the Spider-Verse in search of a way home. Knowing that his family has been not only fractured but endangered by his calling, it's a race against the clock for Miles to travel across the wildest reaches of time and space to fight for and reunite everything he holds most dear.",
+      "runtime": 0,
+      "language": "en",
+      "avgRating": 0,
+      "id": 610,
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/docwOsWZuwJKQdwcYJtQPBcg6bm.jpg",
+      "year": 1990,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Mitsuo Hashimoto",
+      "description": "Bardock, Son Goku's father, is a low-ranking Saiyan soldier who was given the power to see into the future by the last remaining alien on a planet he just destroyed. He witnesses the destruction of his race and must now do his best to stop Frieza's impending massacre.",
+      "runtime": 48,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 611,
+      "title": "Dragon Ball Z: Bardock - The Father of Goku",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eDjIG2hAeMU5cxLrd6oiQqdqoZt.jpg",
+      "year": 2003,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI"
+      ],
+      "director": "Peter Chung",
+      "description": "Straight from the creators of the groundbreaking Matrix trilogy, this collection of short animated films from the world's leading anime directors fuses computer graphics and Japanese anime to provide the background of the Matrix universe and the conflict between man and machines. The shorts include Final Flight of the Osiris, The Second Renaissance, Kid's Story, Program, World Record, Beyond, A Detective Story and Matriculated.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 613,
+      "title": "The Animatrix",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/x0FCkSSdOGTA3gC99QayGJH0Dqx.jpg",
+      "year": 1993,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Yoshihiro Ueda",
+      "description": "It has been thirteen years since the Androids began their killing rampage and Son Gohan is the only person fighting back. He takes Bulma's son Trunks as a student and even gives his own life to save Trunks's. Now Trunks must figure out a way to change this apocalyptic future",
+      "runtime": 48,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 628,
+      "title": "Dragon Ball Z: The History of Trunks",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1ZJRbLDVr90KLtKdmTT4WZhT26E.jpg",
+      "year": 2004,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Mamoru Oshii",
+      "description": "Cyborg detective Batou is assigned to investigate a series of murders committed by gynoids\u2014doll-like cyborgs, which all malfunctioned, killed, then self-destructed afterwards. The brains of the gynoids initialize in order to protect their manufacturer's software, but in one gynoid, which Batou himself neutralized, one file remains: a voice speaking the phrase \"Help me.\"",
+      "runtime": 100,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 633,
+      "title": "Ghost in the Shell 2: Innocence",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/moqO24uCB0k6q4qPyAwb7O0xeWM.jpg",
+      "year": 1996,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION",
+        "DRAMA",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Tsutomu Shibayama",
+      "description": "Doraemon went missing for 3 days. But it turns out later that he went to the 22nd century to buy a mystery galactic express train ticket whose destination is a secret until the passengers arrive there and see for themselves.",
+      "runtime": 97,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 634,
+      "title": "Doraemon: Nobita and the Galaxy Super-express",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7AHvaEAeQfkfJ4OqcBePxa2ao09.jpg",
+      "year": 1995,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Shigeyasu Yamauchi",
+      "description": "Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.",
+      "runtime": 55,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 637,
+      "title": "Dragon Ball Z: Fusion Reborn",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7VLYN2CfJpB6PrcuzDKKqdGSUi6.jpg",
+      "year": 2009,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Masayuki",
+      "description": "Under constant attack by monstrous creatures called Angels that seek to eradicate humankind, U.N. Special Agency NERV introduces two new EVA pilots to help defend the city of Tokyo-3: the mysterious Makinami Mari Illustrous and the intense Asuka Langley Shikinami. Meanwhile, Gendo Ikari and SEELE proceed with a secret project that involves both Rei and Shinji.",
+      "runtime": 112,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 646,
+      "title": "Evangelion: 2.0 You Can (Not) Advance",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/docwOsWZuwJKQdwcYJtQPBcg6bm.jpg",
+      "year": 1990,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Mitsuo Hashimoto",
+      "description": "Bardock, Son Goku's father, is a low-ranking Saiyan soldier who was given the power to see into the future by the last remaining alien on a planet he just destroyed. He witnesses the destruction of his race and must now do his best to stop Frieza's impending massacre.",
+      "runtime": 48,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 647,
+      "title": "Dragon Ball Z: Bardock - The Father of Goku",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/57ighjFjXpRwg7VeQ1GN6nf4OZH.jpg",
+      "year": 2011,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI",
+        "DRAMA",
+        "COMEDY"
+      ],
+      "director": "Yukiyo Teramoto",
+      "description": "Nobita and Doraemon find a giant robot in pieces which they later assemble. It turns out to be a destructive weapon and the gang must save Earth from an imminent invasion.",
+      "runtime": 108,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 648,
+      "title": "Doraemon: Nobita and the New Steel Troops: Winged Angels",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/t1YkpYAxzD1lxNbjoZBpvYWkucO.jpg",
+      "year": 2018,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI",
+        "COMEDY",
+        "DRAMA"
+      ],
+      "director": "Kazuaki Imai",
+      "description": "Upon hearing about the story of Treasure Island, Nobita dreams of discovering and exploring his own treasure island, despite the fact all of the Earth has been mapped already.",
+      "runtime": 108,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 650,
+      "title": "Doraemon: Nobita's Treasure Island",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/zAZ43208e643rB3pcx8jsLqc6B9.jpg",
+      "year": 2019,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "COMEDY",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Shinnosuke Yakuwa",
+      "description": "When Nobita's class makes fun of him for believing in the moon rabbit, he embarks on an adventure with Doraemon to create a civilisation of rabbits on the moon.",
+      "runtime": 111,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 654,
+      "title": "Doraemon: Nobita's Chronicle of the Moon Exploration",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/a9x70QUXs6uEwtin1SGNKoFXoia.jpg",
+      "year": 2022,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Don Hall",
+      "description": "A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades\u2014a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 655,
+      "title": "Strange World",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4Pu26TQNiyl8kjNe1sI3NMG2OQG.jpg",
+      "year": 2006,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "ACTION",
+        "COMEDY",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Konosuke Uda",
+      "description": "The Straw Hats visits an island, known as Mecha Island, where a fisherman sings an old folk song about a Golden Crown. Searching for that mysterious treasure, they find a hidden entrance into the island. The island's leader, Ratchet, impressed with the find and in search of the Golden Crown himself, invites the crew to join him in his search and the crew along with Ratchet and his henchmen enter the cave. As it turns out, the islands true form, is that of a giant turtle. Ratchet, who had known this all along, uses his mechanical castle to take control of the turtle, in order to use it, to take over the world. Now the Straw Hats have to stop not only Ratchet, but also the helpless turtle, from crashing into a nearby island.",
+      "runtime": 94,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 661,
+      "title": "One Piece: Giant Mecha Soldier of Karakuri Castle",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg",
+      "year": 2017,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Hiroyuki Seshita",
+      "description": "A desperate group of refugees attempts to recolonize Earth 20,000 years after Godzilla took over. But one young man wants revenge above all else.",
+      "runtime": 89,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 669,
+      "title": "Godzilla: Planet of the Monsters",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pTIXM2yu8McSlcQVs1VjVSNC45x.jpg",
+      "year": 2005,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Tetsuya Nomura",
+      "description": "Two years have passed since the final battle with Sephiroth. Though Midgar, city of mako, city of prosperity, has been reduced to ruins, its people slowly but steadily walk the road to reconstruction. However, a mysterious illness called Geostigma torments them. With no cure in sight, it brings death to the afflicted, one after another, robbing the people of their fledgling hope.",
+      "runtime": 101,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 672,
+      "title": "Final Fantasy VII: Advent Children",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jzP5rPwwNqUGERlrUzKKljfyulf.jpg",
+      "year": 2021,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Kenji Nagasaki",
+      "description": "A mysterious group called Humarize strongly believes in the Quirk Singularity Doomsday theory which states that when quirks get mixed further in with future generations, that power will bring forth the end of humanity. In order to save everyone, the Pro-Heroes around the world ask UA Academy heroes-in-training to assist them and form a world-class selected hero team. It\u2019s up to the heroes to save the world and the future of heroes in what is the most dangerous crisis to take place yet in My Hero Academia.",
+      "runtime": 105,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 673,
+      "title": "My Hero Academia: World Heroes' Mission",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg",
+      "year": 2021,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Mamoru Hosoda",
+      "description": "Suzu is a 17-year-old high-school student living in a rural town with her father. Wounded by the loss of her mother at a young age, Suzu one day discovers the massive online world \"U\" and dives into this alternate reality as her avatar, Belle. Before long, all of U's eyes are fixed on Belle, when, suddenly, a mysterious, dragon-like figure appears before her.",
+      "runtime": 121,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 683,
+      "title": "Belle",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/x7Itcg3ZdExKwdKguy73WPEqosW.jpg",
+      "year": 2009,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "COMEDY",
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Jorge Blanco",
+      "description": "When Earth astronaut Capt. Chuck Baker arrives on Planet 51 -- a world reminiscent of American suburbia circa 1950 -- he tries to avoid capture, recover his spaceship and make it home safely, all with the help of an empathetic little green being.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 690,
+      "title": "Planet 51",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wszfXaMx74a91yRTBgO1fwSvMj3.jpg",
+      "year": 2004,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Katsuhiro Otomo",
+      "description": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
+      "runtime": 126,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 700,
+      "title": "Steamboy",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg",
+      "year": 2012,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Hideaki Anno",
+      "description": "Fourteen years after Third Impact, Shinji Ikari awakens to a world he does not remember. He hasn't aged. Much of Earth is laid in ruins, NERV has been dismantled, and people who he once protected have turned against him. Befriending the enigmatic Kaworu Nagisa, Shinji continues the fight against the angels and realizes the fighting is far from over, even when it could be against his former allies. The characters' struggles continue amidst the battles against the angels and each other, spiraling down to what could inevitably be the end of the world.",
+      "runtime": 96,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 708,
+      "title": "Evangelion: 3.0 You Can (Not) Redo",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/57ighjFjXpRwg7VeQ1GN6nf4OZH.jpg",
+      "year": 2011,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI",
+        "DRAMA",
+        "COMEDY"
+      ],
+      "director": "Yukiyo Teramoto",
+      "description": "Nobita and Doraemon find a giant robot in pieces which they later assemble. It turns out to be a destructive weapon and the gang must save Earth from an imminent invasion.",
+      "runtime": 108,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 709,
+      "title": "Doraemon: Nobita and the New Steel Troops: Winged Angels",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
+      "year": 2005,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Michael LaBash",
+      "description": "Now, we find the rowdy extraterrestrial getting used to life with his new ʻohana. However, a malfunction in the ultimate creation of Dr. Jumba soon emerges, which reinstates his destructive programming and threatens to both ruin his friendship with Lilo and to short him out for good!",
+      "runtime": 68,
+      "language": "en",
+      "avgRating": 0,
+      "id": 712,
+      "title": "Lilo & Stitch 2: Stitch Has a Glitch",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/d0s1xvykzl0kz7fP5S2ROYqphdz.jpg",
+      "year": 2012,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Hideaki Anno",
+      "description": "Fourteen years after Third Impact, Shinji Ikari awakens to a world he does not remember. He hasn't aged. Much of Earth is laid in ruins, NERV has been dismantled, and people who he once protected have turned against him. Befriending the enigmatic Kaworu Nagisa, Shinji continues the fight against the angels and realizes the fighting is far from over, even when it could be against his former allies. The characters' struggles continue amidst the battles against the angels and each other, spiraling down to what could inevitably be the end of the world.",
+      "runtime": 96,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 718,
+      "title": "Evangelion: 3.0 You Can (Not) Redo",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jzP5rPwwNqUGERlrUzKKljfyulf.jpg",
+      "year": 2021,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Kenji Nagasaki",
+      "description": "A mysterious group called Humarize strongly believes in the Quirk Singularity Doomsday theory which states that when quirks get mixed further in with future generations, that power will bring forth the end of humanity. In order to save everyone, the Pro-Heroes around the world ask UA Academy heroes-in-training to assist them and form a world-class selected hero team. It\u2019s up to the heroes to save the world and the future of heroes in what is the most dangerous crisis to take place yet in My Hero Academia.",
+      "runtime": 105,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 719,
+      "title": "My Hero Academia: World Heroes' Mission",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg",
+      "year": 2014,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Takashi Yamazaki",
+      "description": "Sewashi and Doraemon find themselves way back in time and meet Nobita. It is up to Doraemon to take care of Nobita or else he will not return to the present.",
+      "runtime": 94,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 725,
+      "title": "Stand by Me Doraemon",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg",
+      "year": 2024,
+      "genres": [
+        "ANIMATION",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Eric Fogel",
+      "description": "Megamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends (Roxanne, Ol' Chum and Keiko) to stop his former evil teammates from launching Metro City to the Moon.",
+      "runtime": 83,
+      "language": "en",
+      "avgRating": 0,
+      "id": 728,
+      "title": "Megamind vs. the Doom Syndicate",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/lXBjqzo6c4NyLuJtqOiH39kswji.jpg",
+      "year": 1997,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Hideaki Anno",
+      "description": "Originally a collection of clips from the Neon Genesis Evangelion TV series, Death was created as a precursor to the re-worked ending of the series. Rebirth was intended as that re-worked ending, but after production overruns Rebirth became only the first half of the first part of The End of Evangelion, with some minor differences.",
+      "runtime": 101,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 734,
+      "title": "Neon Genesis Evangelion: Death and Rebirth",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/Apnw8FWoPOIsu14d5dvaNZzFSJE.jpg",
+      "year": 1994,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Shigeyasu Yamauchi",
+      "description": "A Saiyan Space pod crash-lands on Earth out of which a wounded Saiyan crawls: Broly, the Legendary Super Saiyan. The wounded Broly shouts out in frustration and turns into normal form. The place soon freezes, trapping him in it and he falls into a coma.",
+      "runtime": 48,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 735,
+      "title": "Dragon Ball Z: Broly - Second Coming",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yUkH0y9OsY7J08Dvfzi1P0di559.jpg",
+      "year": 2009,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Takeshi Koike",
+      "description": "A daredevil driver is determined to compete in Redline, the most popular race in the galaxy. The race only occurs every five years, but in order to participate he must overcome the mafia, the government and even love.",
+      "runtime": 102,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 737,
+      "title": "Redline",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4gGIYi40x3G6UPm1IMGqdseK0Ro.jpg",
+      "year": 1998,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "ADVENTURE",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Tsutomu Shibayama",
+      "description": "Nobita coaxes his friends to join him for a treasure hunt but an eerie event transports them to the past. However, their hunt for treasure is not easy as they come face-to-face with pirates.",
+      "runtime": 91,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 756,
+      "title": "Doraemon: Nobita's Great Adventure in the South Seas",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/p2R4mhZcikWEBlqv80VfJ7M9xql.jpg",
+      "year": 2005,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Michael LaBash",
+      "description": "Now, we find the rowdy extraterrestrial getting used to life with his new ʻohana. However, a malfunction in the ultimate creation of Dr. Jumba soon emerges, which reinstates his destructive programming and threatens to both ruin his friendship with Lilo and to short him out for good!",
+      "runtime": 68,
+      "language": "en",
+      "avgRating": 0,
+      "id": 757,
+      "title": "Lilo & Stitch 2: Stitch Has a Glitch",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yMrO4LcdoSI1PLd9oKLuY5W8cDG.jpg",
+      "year": 1991,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Tsutomu Shibayama",
+      "description": "Shizuka ends up in the fantasy world of the 'Arabian Nights' story. However, Doraemon, Nobita, Suneo, and Jyaian must find her from the imaginary Middle East and bring her back to the real life.",
+      "runtime": 91,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 769,
+      "title": "Doraemon: Nobita's Dorabian Nights",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/x7Itcg3ZdExKwdKguy73WPEqosW.jpg",
+      "year": 2009,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "COMEDY",
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Jorge Blanco",
+      "description": "When Earth astronaut Capt. Chuck Baker arrives on Planet 51 -- a world reminiscent of American suburbia circa 1950 -- he tries to avoid capture, recover his spaceship and make it home safely, all with the help of an empathetic little green being.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 776,
+      "title": "Planet 51",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1N7terrMeZPwK5qq31MUD0HQ3IG.jpg",
+      "year": 2024,
+      "genres": [
+        "ANIMATION",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Eric Fogel",
+      "description": "Megamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends (Roxanne, Ol' Chum and Keiko) to stop his former evil teammates from launching Metro City to the Moon.",
+      "runtime": 83,
+      "language": "en",
+      "avgRating": 0,
+      "id": 780,
+      "title": "Megamind vs. the Doom Syndicate",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cCVRivpiVUJ4Wn6gHm8pLXppXla.jpg",
+      "year": 2019,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Hiroyuki Imaishi",
+      "description": "Galo and the Burning Rescue Fire Department face off against BURNISH, a group of mutants who are able to control and wield flames, and the fire disaster they have unleashed on Earth.",
+      "runtime": 111,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 784,
+      "title": "Promare",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7VLYN2CfJpB6PrcuzDKKqdGSUi6.jpg",
+      "year": 2009,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Masayuki",
+      "description": "Under constant attack by monstrous creatures called Angels that seek to eradicate humankind, U.N. Special Agency NERV introduces two new EVA pilots to help defend the city of Tokyo-3: the mysterious Makinami Mari Illustrous and the intense Asuka Langley Shikinami. Meanwhile, Gendo Ikari and SEELE proceed with a secret project that involves both Rei and Shinji.",
+      "runtime": 112,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 785,
+      "title": "Evangelion: 2.0 You Can (Not) Advance",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yMrO4LcdoSI1PLd9oKLuY5W8cDG.jpg",
+      "year": 1991,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Tsutomu Shibayama",
+      "description": "Shizuka ends up in the fantasy world of the 'Arabian Nights' story. However, Doraemon, Nobita, Suneo, and Jyaian must find her from the imaginary Middle East and bring her back to the real life.",
+      "runtime": 91,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 789,
+      "title": "Doraemon: Nobita's Dorabian Nights",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7uRu9EA3nie0n2mlVDDLlTI3IzC.jpg",
+      "year": 1995,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Mitsuo Hashimoto",
+      "description": "The Z Warriors discover an unopenable music box and are told to open it with the Dragon Balls. The contents turn out to be a warrior named Tapion who had sealed himself inside along with a monster called Hildegarn. Goku must now perfect a new technique to defeat the evil monster.",
+      "runtime": 51,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 793,
+      "title": "Dragon Ball Z: Wrath of the Dragon",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg",
+      "year": 2014,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Takashi Yamazaki",
+      "description": "Sewashi and Doraemon find themselves way back in time and meet Nobita. It is up to Doraemon to take care of Nobita or else he will not return to the present.",
+      "runtime": 94,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 794,
+      "title": "Stand by Me Doraemon",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hUlhPosXp62uuTS0c2aINdg8cvV.jpg",
+      "year": 2015,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Naoyoshi Shiotani",
+      "description": "In a futuristic Japan, the Sibyl System is charged with keeping the peace. When the state of SEAUn brings the Sibyl System in to test its effectiveness, it becomes a haven of peace and safety\u2014for a time. Eventually, terrorists from SEAUn begin appearing in Japan, somehow slipping through the System's security and attacking from within. Desperate for answers, Inspector Akane Tsunemori is sent overseas to bring the terrorists to justice. But when her investigation forces her into a standoff with an old ally, will she be able to pull the trigger?",
+      "runtime": 113,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 797,
+      "title": "PSYCHO-PASS: The Movie",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/63EMBxmcafkc4cWuUWQh2Ttd2jh.jpg",
+      "year": 1999,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "ROMANCE",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Hiroyuki Okiura",
+      "description": "A member of an elite paramilitary counter-terrorism unit becomes traumatized after witnessing the suicide bombing of a young girl and is forced to undergo retraining. However, unbeknownst to him, he becomes a key player in a dispute between rival police divisions, as he finds himself increasingly involved with the sister of the girl he saw die.",
+      "runtime": 102,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 800,
+      "title": "Jin-Roh: The Wolf Brigade",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oCQtdezF7Ap5wm8ICiB3Pzx6wM4.jpg",
+      "year": 1994,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "ADVENTURE",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Tsutomu Shibayama",
+      "description": "Nobita is exhausted from having constant nightmares and pleads Doraemon to arrange a dream machine that will enable him to dream of anything he wishes for. As Nobita dreams of him and his friends in the roles of gallant musketeers, the dream world starts to break down due to a dark force, and Nobita will have to put his fantasy to the test and become a hero, both in the real world and imagined.",
+      "runtime": 99,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 801,
+      "title": "Doraemon: Nobita's Three Visionary Swordsmen",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xGMgspge6uYoypRiasAmlluDlXH.jpg",
+      "year": 2016,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Takeshi Nozue",
+      "description": "The magical kingdom of Lucis is home to the world\u2019s last remaining Crystal, and the menacing empire of Niflheim is determined to steal it. King Regis of Lucis commands an elite force of soldiers called the Kingsglaive. Wielding their king\u2019s magic, they fight to protect Lucis. As the overwhelming military might of the empire bears down, King Regis is faced with an impossible ultimatum \u2013 to marry his son, Prince Noctis to Princess Lunafreya of Tenebrae, captive of Niflheim, and surrender his lands to Niflheim rule.  Although the king concedes, it becomes clear that the empire will stop at nothing to achieve their devious goals, with only the Kingsglaive standing between them and world domination.",
+      "runtime": 115,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 811,
+      "title": "Kingsglaive: Final Fantasy XV",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/41WtqvaObaYE3RuqgBfQFPV3aV1.jpg",
+      "year": 2001,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI"
+      ],
+      "director": "Rintaro",
+      "description": "In the midst of societal conflict in the futuristic city of Metropolis, Kenichi and his uncle Shunsaku Ban set out to uncover the mystery behind the first human-like robot, Tima.",
+      "runtime": 107,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 817,
+      "title": "Metropolis",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eySv5rdYLW1k6LxepxCNl8ND26R.jpg",
+      "year": 2002,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "ACTION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Kunihiko Yuyama",
+      "description": "Ash, Pikachu and the gang try and stop a pair of thieves hiding out in the canals and alleyways of Altomare, the age-old water capital. Joining the adventure are two new legendary Pokémon, a pair of siblings named Latias and Latios, who serve as peacekeepers and protectors of the Soul Dew \u2014 a priceless treasure with a mysterious power.",
+      "runtime": 80,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 821,
+      "title": "Pokémon Heroes",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8I8gWpTtzMLt2lBlBoS7lM436nA.jpg",
+      "year": 1988,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Yoshiyuki Tomino",
+      "description": "In UC 0093, the Federation has recovered from its defeat and has created a new anti-colonial special forces unit to deal with rebel forces: Londo Bell. Elsewhere in space, Char Aznable reappears out of self-imposed hiding with a declaration that he now commands his own Neo-Zeon movement, and intends to force the emigration of Earth's inhabitants to space by bringing about an apocalypse.",
+      "runtime": 120,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 824,
+      "title": "Mobile Suit Gundam: Char's Counterattack",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
+      "year": 2024,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Jeff Wamester",
+      "description": "Death is coming. Worse than death: oblivion. Not just for our Earth, but for everyone, everywhere, in every universe! Against this ultimate destruction, the mysterious Monitor has gathered the greatest team of Super Heroes ever assembled. But what can the combined might of Superman, Wonder Woman, Batman, The Flash, Green Lantern and hundreds of Super Heroes from multiple Earths even do to save all of reality from an unstoppable antimatter armageddon?!",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 827,
+      "title": "Justice League: Crisis on Infinite Earths Part One",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg",
+      "year": 2018,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Jumpei Mizusaki",
+      "description": "Batman, along with many of his allies and adversaries, finds himself transported to feudal Japan by Gorilla Grodd's time displacement machine.",
+      "runtime": 85,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 831,
+      "title": "Batman Ninja",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/el2iHk3LTJWfEnwrvcRkvWY501G.jpg",
+      "year": 2000,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Don Bluth",
+      "description": "A young man finds out that he holds the key to restoring hope and ensuring survival for the human race, while an alien species called the Drej are bent on mankind's destruction.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 847,
+      "title": "Titan A.E.",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iJQfixW818LUdSXlCDL3JZm0S0g.jpg",
+      "year": 2008,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Dave Filoni",
+      "description": "As the Clone Wars sweep through the galaxy, the heroic Jedi Knights struggle to maintain order and restore peace. More and more systems are falling prey to the forces of the dark side as the Galactic Republic slips further and further under the sway of the Separatists and their never-ending droid army. Anakin Skywalker and his Padawan learner Ahsoka Tano find themselves on a mission with far-reaching consequences, one that brings them face-to-face with crime lord Jabba the Hutt. But Count Dooku and his sinister agents, including the nefarious Asajj Ventress, will stop at nothing to ensure that Anakin and Ahsoka fail at their quest. Meanwhile, on the front lines of the Clone Wars, Obi-Wan Kenobi and Master Yoda lead the massive clone army in a valiant effort to resist the forces of the dark side...",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 850,
+      "title": "Star Wars: The Clone Wars",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/YcR1C8Sevnwz63ig1cctGAlk13.jpg",
+      "year": 1999,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI"
+      ],
+      "director": "Satoshi Kuwabara",
+      "description": "The film begins with the Phoenix retelling the tales and hopes of Astro Boy. Many of the visual being directly taken from the 1980s TV series as it recaps some of his adventures.  Following this recap, Astro Boy confronts Blue Bon and tries to convince him to change his mind about the humans. But Blue Bon misunderstands, assuming that if Astro Boy does not agree then he is an enemy. Blue Bon hates humans because they broke apart his family (Maria and Tonto). A battle begins between the two after Astro Boy fails to convince Blue Bon that they aren't each others' enemy.",
+      "runtime": 11,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 871,
+      "title": "Astro Boy: Volume of the Blue Knight",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wxCZmXRJa8hSv1Tpih8TBSR4o6b.jpg",
+      "year": 2020,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Kazuaki Imai",
+      "description": "Nobita accidentally finds a fossil dinosaur egg mixed with rocks in the dinosaur fossil exhibition site that he had visited before. He returns it to its original state with the 'time blanket'.",
+      "runtime": 111,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 879,
+      "title": "Doraemon: Nobita's New Dinosaur",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cCVRivpiVUJ4Wn6gHm8pLXppXla.jpg",
+      "year": 2019,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Hiroyuki Imaishi",
+      "description": "Galo and the Burning Rescue Fire Department face off against BURNISH, a group of mutants who are able to control and wield flames, and the fire disaster they have unleashed on Earth.",
+      "runtime": 111,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 892,
+      "title": "Promare",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9yTuw6ddf28lItHwgeqFSNtXsaG.jpg",
+      "year": 2016,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Yasushi Kawamura",
+      "description": "After being brutally murdered in a subway station, a teen boy awakens to find himself resurrected by a strange computer named Gantz, and forced to fight a large force of invading aliens in Osaka.",
+      "runtime": 95,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 914,
+      "title": "GANTZ:O",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/uux6M8z3hxLDkq8LXSzq8528mrq.jpg",
+      "year": 2023,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "ADVENTURE",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Takumi Doyama",
+      "description": "Doraemon, Nobita and his friends go to find Utopia, a perfect land in the sky where everyone lives with happiness, using an airship having a time warp function.",
+      "runtime": 107,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 922,
+      "title": "Doraemon the Movie: Nobita's Sky Utopia",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vFIHbiy55smzi50RmF8LQjmpGcx.jpg",
+      "year": 2020,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Sung Jin Ahn",
+      "description": "The assassin Deathstroke tries to save his family from the wrath of H.I.V.E. and the murderous Jackal.",
+      "runtime": 87,
+      "language": "en",
+      "avgRating": 0,
+      "id": 928,
+      "title": "Deathstroke: Knights & Dragons - The Movie",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yUkH0y9OsY7J08Dvfzi1P0di559.jpg",
+      "year": 2009,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Takeshi Koike",
+      "description": "A daredevil driver is determined to compete in Redline, the most popular race in the galaxy. The race only occurs every five years, but in order to participate he must overcome the mafia, the government and even love.",
+      "runtime": 102,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 936,
+      "title": "Redline",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
+      "year": 2024,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Jeff Wamester",
+      "description": "Death is coming. Worse than death: oblivion. Not just for our Earth, but for everyone, everywhere, in every universe! Against this ultimate destruction, the mysterious Monitor has gathered the greatest team of Super Heroes ever assembled. But what can the combined might of Superman, Wonder Woman, Batman, The Flash, Green Lantern and hundreds of Super Heroes from multiple Earths even do to save all of reality from an unstoppable antimatter armageddon?!",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 939,
+      "title": "Justice League: Crisis on Infinite Earths Part One",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qsr4Hcdh2xWtUDQumjiML5cirNW.jpg",
+      "year": 2002,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Tsutomu Shibayama",
+      "description": "Nobita, Doraemon, and the rest travel to the far future, on an inhabited planet where humans and robots coexist. The Empress of the Robot Kingdom is plotting to strip the robot inhabitants of their emotions, so it's up to Nobita and his friends to stop the plan, while also helping a robot boy named Poko from getting caught in the middle.",
+      "runtime": 81,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 940,
+      "title": "Doraemon: Nobita and the Robot Kingdom",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hcydn0Lr3DAixZFOaUmjoqoIFU6.jpg",
+      "year": 2017,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Atsushi Takahashi",
+      "description": "Doraemon and Nobita discover a mysterious golden ring far beneath the ice in Antarctica, leading them to uncover an ancient, ruined city.",
+      "runtime": 101,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 941,
+      "title": "Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eySv5rdYLW1k6LxepxCNl8ND26R.jpg",
+      "year": 2002,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "ACTION",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Kunihiko Yuyama",
+      "description": "Ash, Pikachu and the gang try and stop a pair of thieves hiding out in the canals and alleyways of Altomare, the age-old water capital. Joining the adventure are two new legendary Pokémon, a pair of siblings named Latias and Latios, who serve as peacekeepers and protectors of the Soul Dew \u2014 a priceless treasure with a mysterious power.",
+      "runtime": 80,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 952,
+      "title": "Pokémon Heroes",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/q3KKUunEhdmOob17JbGB1kgPfdJ.jpg",
+      "year": 2000,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "COMEDY",
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Tad Stones",
+      "description": "Buzz Lightyear must battle Emperor Zurg with the help of three hopefuls who insist on being his partners.",
+      "runtime": 70,
+      "language": "en",
+      "avgRating": 0,
+      "id": 957,
+      "title": "Buzz Lightyear of Star Command: The Adventure Begins",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg",
+      "year": 2020,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "COMEDY",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Ryuichi Yagi",
+      "description": "Nobita travels to the future to show his beloved grandma his bride, but adult Nobita has fled his own wedding.",
+      "runtime": 96,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 959,
+      "title": "Stand by Me Doraemon 2",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/nCejOVZcOxKS27nnbh28NKXOdXF.jpg",
+      "year": 2025,
+      "genres": [
+        "ANIMATION",
+        "COMEDY",
+        "HORROR",
+        "ADVENTURE",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Rodrigo Perez-Castro",
+      "description": "A wolf and mountain lion team up when a meteor unleashes a virus turning zoo animals into zombies. They join forces with other survivors to rescue the zoo and stop the deranged mutant leader from spreading the virus.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 962,
+      "title": "Night of the Zoopocalypse",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/urvznwew7HrjrIEbK2RLaEkaezs.jpg",
+      "year": 1993,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Hiroshi Fukutomi",
+      "description": "In his travels as a bounty hunter, Hunter\u2013Warrior and cyborg healer Ido one day discovers and repairs the remnants of a cyborg whom he names Gally. Though possessing the body of a young woman, Gally now embodies Ido's most sophisticated and lethal cybernetic skills. The preternaturally strong, amnesiac Gally begins to forge a life for herself in a world where every day is a struggle for survival.",
+      "runtime": 54,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 972,
+      "title": "Battle Angel",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/f0tBLECAYhOmzJmQmpfoFH8Syyp.jpg",
+      "year": 2008,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Yoshihiro Ueda",
+      "description": "Following the defeat of Majin Buu, Son Goku and friends travel to Mr. Satan's newly-opened hotel for an all-you-can-eat banquet, when they are paid a visit by Vegeta's younger brother Tarble. They are informed by Tarble that the terrible brother duo of Abo and Cado have terrorized his planet and are on their way to Earth.",
+      "runtime": 35,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 980,
+      "title": "Dragon Ball: Yo! Son Goku and His Friends Return!!",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vPND6Qff1KVYAtjaQuZtij8wtAj.jpg",
+      "year": 2007,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Scooter Tidwell",
+      "description": "After a battle with Dr. Animo in a power plant, Ben notices something strange is happening with the Omnitrix but doesn't tell anyone. Tetrax arrives and tells them the Omnitrix is broadcasting a self-destruct signal. Tetrax and Ben go to find the creator of the Omnitrix to fix it before it destroys itself and the universe along with it. Gwen stows away to help her cousin.",
+      "runtime": 71,
+      "language": "en",
+      "avgRating": 0,
+      "id": 984,
+      "title": "Ben 10: Secret of the Omnitrix",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wjgwIZyEgtgy9nIdz6C5uJNel2X.jpg",
+      "year": 2022,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Tetsuro Araki",
+      "description": "In an abandoned Tokyo overrun by bubbles and gravitational abnormalities, one gifted young man has a fateful meeting with a mysterious girl.",
+      "runtime": 101,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 985,
+      "title": "Bubble",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hcydn0Lr3DAixZFOaUmjoqoIFU6.jpg",
+      "year": 2017,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Atsushi Takahashi",
+      "description": "Doraemon and Nobita discover a mysterious golden ring far beneath the ice in Antarctica, leading them to uncover an ancient, ruined city.",
+      "runtime": 101,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 992,
+      "title": "Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kdBLKFviJckRXOCgPqkTQK16Rq0.jpg",
+      "year": 2003,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Tsutomu Shibayama",
+      "description": "After a typhoon hits Nobita's town, he and Doraemon discover a wind sprite who, with some help from Doraemon's 22nd-century tech, takes them and their friends to a fantastic world of wind and storm people. But the wind sprite, named Fuuko by Nobita, had brought them to her world for a reason, as her peoples' gods are battling, and Suneo might be a key player in their feud.",
+      "runtime": 84,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 994,
+      "title": "Doraemon: Nobita and the Windmasters",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/h59l93jcYhMAgrZYVgCcuAEM7e9.jpg",
+      "year": 2022,
+      "genres": [
+        "ANIMATION",
+        "DRAMA",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Yoshikazu Yasuhiko",
+      "description": "After a covert mission goes wrong, Mobile Suit pilot Amuro Ray and his comrades are stranded on a remote island. The battalion was sent to a land called the Island of No Return to clear off any enemy forces, only to find a group of children and an enemy mecha attack. Now Amuro must find a way for them all to escape this mysterious land, but not before meeting a strange man\u2014Cucuruz Doan.",
+      "runtime": 109,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 996,
+      "title": "Mobile Suit Gundam: Cucuruz Doan's Island",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6YkVpc9Dn1L2FHNlLOybpSKeGc7.jpg",
+      "year": 2026,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Shukou Murase",
+      "description": "The year is U.C.0105, twelve years after Char's Rebellion. \"MAFTY\" has begun resisting the Federation government's tyrannical rule by assassinating its ministers. Its leader is actually Hathaway Noa, the son of Bright Noa, who fought in the One Year War alongside Amuro Ray. Haunted by past trauma, Hathaway is drawn to a mysterious girl named Gigi Andalucia, whose strange powers stir memories within him. While swayed by her cryptic words, he continues preparing for MAFTY's mission -- the attack on the Adelaide Conference. Kenneth Sleg of the Earth Federation Forces prepares a defense operation for the Adelaide Conference and a plan to eliminate MAFTY and is approached by Handley Yoxon of the Criminal Police Organization with a secret proposal. As Hathaway and Kenneth pursue their respective goals, Gigi also sets off for Hong Kong to fulfill her own role.",
+      "runtime": 115,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1000,
+      "title": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2ly3TlqtlKzuhCmMuvAlXZA46e9.jpg",
+      "year": 2018,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI"
+      ],
+      "director": "Hiroyuki Seshita",
+      "description": "Humanity's desperate battle to reclaim the Earth from Godzilla continues. The key to defeating the King of the Monsters may be Mechagodzilla, a robotic weapon thought to have been lost nearly 20,000 years ago.",
+      "runtime": 101,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1004,
+      "title": "Godzilla: City on the Edge of Battle",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qsr4Hcdh2xWtUDQumjiML5cirNW.jpg",
+      "year": 2002,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Tsutomu Shibayama",
+      "description": "Nobita, Doraemon, and the rest travel to the far future, on an inhabited planet where humans and robots coexist. The Empress of the Robot Kingdom is plotting to strip the robot inhabitants of their emotions, so it's up to Nobita and his friends to stop the plan, while also helping a robot boy named Poko from getting caught in the middle.",
+      "runtime": 81,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1014,
+      "title": "Doraemon: Nobita and the Robot Kingdom",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xJJY16XSazUgDvbWEXQ1ulLiz8q.jpg",
+      "year": 2012,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Shinji Aramaki",
+      "description": "The troopers of two starships have joined forces to terminate a massive bug attack at a Federation outpost. Before the mission can be completed and the survivors evacuated, one ship abruptly departs and goes inexplicably dark. The remaining battle-hardened troopers race to the rescue only to discover that the threat from the bugs is about to hit home.",
+      "runtime": 89,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1016,
+      "title": "Starship Troopers: Invasion",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6F5mriTD7HrVSJf7o0BrAedw5LX.jpg",
+      "year": 2009,
+      "genres": [
+        "ANIMATION",
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Shigeo Koshi",
+      "description": "Nobita finds a passage to a spaceship in another dimension. With their new friends, he and Doraemon fight the cruel leader of an exploited planet.",
+      "runtime": 102,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1025,
+      "title": "Doraemon: The New Record of Nobita's Spaceblazer",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8I8gWpTtzMLt2lBlBoS7lM436nA.jpg",
+      "year": 1988,
+      "genres": [
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Yoshiyuki Tomino",
+      "description": "In UC 0093, the Federation has recovered from its defeat and has created a new anti-colonial special forces unit to deal with rebel forces: Londo Bell. Elsewhere in space, Char Aznable reappears out of self-imposed hiding with a declaration that he now commands his own Neo-Zeon movement, and intends to force the emigration of Earth's inhabitants to space by bringing about an apocalypse.",
+      "runtime": 120,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1033,
+      "title": "Mobile Suit Gundam: Char's Counterattack",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1EBnttleJaKnWWyyEqfiSn76ZjT.jpg",
+      "year": 2024,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Mitsuo Fukuda",
+      "description": "In C.E.75, the fighting still continues. There are independence movements, and aggression by Blue Cosmos... In order to calm the situation, a global peace monitoring agency called COMPASS is established, with Lacus as its first president. As members of COMPASS, Kira and his comrades intervene into various regional battles. Then a newly established nation called Foundation proposes a joint operation against a Blue Cosmos stronghold.",
+      "runtime": 125,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1038,
+      "title": "Mobile Suit Gundam SEED FREEDOM",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ghD2HJyAk6EYVHrzBhddNDJ73Go.jpg",
+      "year": 2019,
+      "genres": [
+        "ANIMATION",
+        "SCI_FI",
+        "CRIME",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Goro Taniguchi",
+      "description": "The story takes place several years after Lelouch's \"Zero Requiem\" plan. He gave up his life to save the world and protect the ones he loved. The day Lelouch vi Brittannia fell was the day this war-torn world found peace. Now, as his friends work to keep the peace, a terrorist attack could risk everything. Can the brilliant tactician outwit death and save them all? Or will Lelouch\u2019s legacy fall here?",
+      "runtime": 112,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1053,
+      "title": "Code Geass: Lelouch of the Re;surrection",
       "ratingCount": 0
     }
-  ]
+  ],
+  "genre": "ANIMATION"
 }

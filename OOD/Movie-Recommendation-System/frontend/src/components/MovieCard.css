@@ -12,7 +12,19 @@
 
 .movie-card:hover {
   transform: translateY(-8px);
-  box-shadow: 0 12px 20px rgba(99, 102, 241, 0.2);
+  box-shadow: 0 18px 50px rgba(var(--primary-rgb), 0.11);
+}
+
+.movie-card.compact {
+  width: 180px;
+  min-width: 180px;
+  border-radius: 0.9rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.movie-card.compact:hover {
+  transform: translateY(-6px) scale(1.03);
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.45);
 }
 
 .movie-poster {
@@ -71,6 +83,70 @@
   flex: 1;
 }
 
+.movie-card.compact .movie-info {
+  padding: 0.75rem 0.9rem 0.9rem;
+  background: linear-gradient(180deg, rgba(17, 24, 39, 0) 0%, rgba(17, 24, 39, 0.92) 60%, rgba(17, 24, 39, 0.98) 100%);
+  margin-top: -4.5rem;
+  position: relative;
+  z-index: 2;
+}
+
+.movie-card.compact .movie-title {
+  font-size: 0.95rem;
+  margin-bottom: 0.35rem;
+  -webkit-line-clamp: 1;
+}
+
+.movie-compact-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.82rem;
+  margin: 0 0 0.45rem;
+}
+
+.movie-compact-meta .dot {
+  opacity: 0.6;
+}
+
+.movie-compact-description {
+  color: rgba(255, 255, 255, 0.74);
+  font-size: 0.82rem;
+  line-height: 1.35;
+  margin: 0 0 0.6rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.movie-card.compact:hover .movie-compact-description {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.movie-card.compact .genres {
+  margin-bottom: 0.6rem;
+}
+
+.movie-card.compact .rating-stars {
+  opacity: 0;
+  transform: translateY(6px);
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  margin-bottom: 0;
+}
+
+.movie-card.compact:hover .rating-stars {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
 .movie-title {
   font-size: 1.125rem;
   font-weight: 600;
@@ -106,13 +182,13 @@
 }
 
 .genre-tag {
-  background: rgba(99, 102, 241, 0.2);
-  color: var(--primary);
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.86);
   padding: 0.25rem 0.75rem;
   border-radius: 0.25rem;
   font-size: 0.75rem;
   font-weight: 500;
-  border: 1px solid rgba(99, 102, 241, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.12);
 }
 
 .genre-tag.more {

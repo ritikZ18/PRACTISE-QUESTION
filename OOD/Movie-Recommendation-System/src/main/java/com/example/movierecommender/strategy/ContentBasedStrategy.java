@@ -2,6 +2,7 @@ package com.example.movierecommender.strategy;
 
 import com.example.movierecommender.model.Genre;
 import com.example.movierecommender.model.Movie;
+import com.example.movierecommender.model.User;
 import com.example.movierecommender.repository.RatingRegister;
 
 import java.util.*;
@@ -23,7 +24,22 @@ public class ContentBasedStrategy implements RecommendationStrategy {
         Map<Genre, Double> genreWeights = buildGenreProfile(userId, register);
 
         if (genreWeights.isEmpty()) {
-            return List.of();
+            // Cold-start: fall back to preferred genres if we don't have any ratings yet.
+            Set<Genre> preferredGenres = register.getUser(userId)
+                .map(User::getPreferredGenres)
+                .orElse(Set.of());
+            for (Genre genre : preferredGenres) {
+                genreWeights.put(genre, 1.0);
+            }
+        }
+
+        if (genreWeights.isEmpty()) {
+            // Absolute cold-start: show something sensible (newest first).
+            return register.getAllMovies().stream()
+                .sorted(Comparator.comparingInt(Movie::getYear).reversed())
+                .filter(m -> !watched.contains(m.getId()))
+                .limit(limit)
+                .collect(Collectors.toList());
         }
 
         return register.getAllMovies().stream()

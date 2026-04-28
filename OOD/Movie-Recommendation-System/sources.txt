@@ -15,6 +15,10 @@ src/main/java/com/example/movierecommender/strategy/FilterEngine.java
 src/main/java/com/example/movierecommender/strategy/RecommendationStrategy.java
 src/main/java/com/example/movierecommender/strategy/MoodParser.java
 src/main/java/com/example/movierecommender/api/APIServer.java
+src/main/java/com/example/movierecommender/tmdb/CatalogManager.java
+src/main/java/com/example/movierecommender/tmdb/TmdbPosterLookup.java
+src/main/java/com/example/movierecommender/tmdb/TmdbBulkImporter.java
+src/main/java/com/example/movierecommender/tmdb/TmdbChartsService.java
 src/main/java/com/example/movierecommender/tmdb/TmdbImporterMain.java
 src/main/java/com/example/movierecommender/tmdb/TmdbClient.java
 src/main/java/com/example/movierecommender/service/SearchService.java

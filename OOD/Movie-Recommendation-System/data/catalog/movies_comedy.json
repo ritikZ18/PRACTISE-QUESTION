@@ -1,83 +1,916 @@
 {
-  "genre": "COMEDY",
   "movies": [
     {
-      "id": 10,
-      "title": "The Grand Budapest Hotel",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Grand+Budapest",
       "year": 2014,
       "director": "Wes Anderson",
-      "genres": ["COMEDY", "ADVENTURE"],
+      "genres": [
+        "COMEDY",
+        "ADVENTURE"
+      ],
       "runtime": 99,
-      "language": "English",
       "description": "A writer encounters the owner of an aging high-class hotel, who tells of his early years serving as a lobby boy under an exceptional concierge.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Grand+Budapest",
+      "language": "English",
       "avgRating": 4.4,
+      "id": 10,
+      "title": "The Grand Budapest Hotel",
       "ratingCount": 0
     },
     {
-      "id": 13,
-      "title": "Forrest Gump",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Forrest+Gump",
       "year": 1994,
       "director": "Robert Zemeckis",
-      "genres": ["COMEDY", "DRAMA"],
+      "genres": [
+        "COMEDY",
+        "DRAMA"
+      ],
       "runtime": 142,
-      "language": "English",
       "description": "The presidencies of Kennedy and Johnson unfold from the perspective of an Alabama man with an IQ of 75.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Forrest+Gump",
+      "language": "English",
       "avgRating": 4.6,
+      "id": 13,
+      "title": "Forrest Gump",
       "ratingCount": 0
     },
     {
-      "id": 20,
-      "title": "Superbad",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Superbad",
       "year": 2007,
       "director": "Greg Mottola",
       "genres": ["COMEDY"],
       "runtime": 113,
-      "language": "English",
       "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Superbad",
+      "language": "English",
       "avgRating": 4.3,
+      "id": 20,
+      "title": "Superbad",
       "ratingCount": 0
     },
     {
-      "id": 25,
-      "title": "The Hangover",
+      "posterUrl": "https://via.placeholder.com/300x450?text=The+Hangover",
       "year": 2009,
       "director": "Todd Phillips",
       "genres": ["COMEDY"],
       "runtime": 100,
-      "language": "English",
       "description": "Three buddies wake up from a bachelor party in Vegas with no memory of the previous night and the bachelor missing.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=The+Hangover",
+      "language": "English",
       "avgRating": 4.2,
+      "id": 25,
+      "title": "The Hangover",
       "ratingCount": 0
     },
     {
-      "id": 28,
-      "title": "Knives Out",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Knives+Out",
       "year": 2019,
       "director": "Rian Johnson",
-      "genres": ["COMEDY", "CRIME", "DRAMA"],
+      "genres": [
+        "COMEDY",
+        "CRIME",
+        "DRAMA"
+      ],
       "runtime": 130,
-      "language": "English",
       "description": "A detective investigates the death of a patriarch of an eccentric, combative family.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Knives+Out",
+      "language": "English",
       "avgRating": 4.5,
+      "id": 28,
+      "title": "Knives Out",
       "ratingCount": 0
     },
     {
-      "id": 40,
-      "title": "Tropic Thunder",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Tropic+Thunder",
       "year": 2008,
       "director": "Ben Stiller",
-      "genres": ["COMEDY", "ACTION"],
+      "genres": [
+        "COMEDY",
+        "ACTION"
+      ],
       "runtime": 107,
-      "language": "English",
       "description": "During the filming of an action movie, fake war film crew find themselves in a real combat situation.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Tropic+Thunder",
+      "language": "English",
       "avgRating": 4.1,
+      "id": 40,
+      "title": "Tropic Thunder",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "year": 2026,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "CRIME"
+      ],
+      "director": "BenDavid Grabinski",
+      "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn\u2019t enough, there\u2019s one wild ingredient added to the mix: a time machine.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 63,
+      "title": "Mike & Nick & Nick & Alice",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "year": 2021,
+      "genres": [
+        "COMEDY",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Shawn Levy",
+      "description": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 217,
+      "title": "Free Guy",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/k75tEyoPbPlfHSKakJBOR5dx1Dp.jpg",
+      "year": 2006,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Mike Judge",
+      "description": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
+      "runtime": 84,
+      "language": "en",
+      "avgRating": 0,
+      "id": 240,
+      "title": "Idiocracy",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+      "year": 1999,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Dean Parisot",
+      "description": "For four years, the courageous crew of the NSEA Protector \u2014  Commander Peter Quincy Taggart, Lieutenant Tawny Madison, and Doctor Lazarus \u2014 set off on a thrilling and often dangerous mission in space ... until their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director, and no clue, the actors must turn in the performances of their lives.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 257,
+      "title": "Galaxy Quest",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/bBC1fBHyFBmc6fn4UDedtkOVSaD.jpg",
+      "year": 2011,
+      "genres": [
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Cash Chin Man-Kei",
+      "description": "A young woman named Future is sent from the year 2046 to the year 2011 in Hong Kong. Future was sent by the United Nations in order to get pregnant, where she can then extract her genes and repopulate the earth as 99% of males have become infertile in the future due to attacks from Planet Xucker. Two assassins from Xuckler are sent after her to stop her. Future meets three University students: Felix, Dan-san and Sing. The men are obsessed with female students next door: Chin-chin, Chen-chen and Sai-sai. The students agree to help Future find a mate at the university.",
+      "runtime": 82,
+      "language": "cn",
+      "avgRating": 0,
+      "id": 305,
+      "title": "The 33D Invader",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kNbaxEsnCyWBTfANVPHayujBsxp.jpg",
+      "year": 1987,
+      "genres": [
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Mel Brooks",
+      "description": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 329,
+      "title": "Spaceballs",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/63QJSYPjR3i3mwr4PmpvwfyLgDo.jpg",
+      "year": 2025,
+      "genres": [
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Vinciane Millereau",
+      "description": "In 1950s France, Helene and Michel lead a simple life until a freak accident in 2025 leads to Helene becoming a bank executive and Michel struggling with unemployment and depression. Their children grow up in a technology-dominated world.",
+      "runtime": 103,
+      "language": "fr",
+      "avgRating": 0,
+      "id": 354,
+      "title": "Cycle of Time",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+      "year": 1999,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Dean Parisot",
+      "description": "For four years, the courageous crew of the NSEA Protector \u2014  Commander Peter Quincy Taggart, Lieutenant Tawny Madison, and Doctor Lazarus \u2014 set off on a thrilling and often dangerous mission in space ... until their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director, and no clue, the actors must turn in the performances of their lives.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 377,
+      "title": "Galaxy Quest",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hll4O5vSAfnZDb6JbnP06GPtz7b.jpg",
+      "year": 1996,
+      "genres": [
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Tim Burton",
+      "description": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, \"come in peace.\" U.S. President James Dale receives assurance from science professor Donald Kessler that the Martians' mission is a friendly one. But when a peaceful exchange ends in the total annihilation of the U.S. Congress, military men call for a full-scale nuclear retaliation.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 397,
+      "title": "Mars Attacks!",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+      "year": 2014,
+      "genres": [
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Rajkumar Hirani",
+      "description": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+      "runtime": 153,
+      "language": "hi",
+      "avgRating": 0,
+      "id": 402,
+      "title": "PK",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+      "year": 2014,
+      "genres": [
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Rajkumar Hirani",
+      "description": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+      "runtime": 153,
+      "language": "hi",
+      "avgRating": 0,
+      "id": 416,
+      "title": "PK",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+      "year": 2019,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "F. Gary Gray",
+      "description": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 480,
+      "title": "Men in Black: International",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dwIrP544LxJtXToLpzkEa08pIMm.jpg",
+      "year": 2001,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Ivan Reitman",
+      "description": "A comedy that follows the chaos that ensues when a meteor hits the Earth carrying alien life forms that give new meaning to the term \"survival of the fittest.\" David Duchovny, Orlando Jones, Seann William Scott, and Julianne Moore are the only people standing between the aliens and world domination... which could be bad news for the Earth.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 512,
+      "title": "Evolution",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+      "year": 2022,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "James Gunn",
+      "description": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
+      "runtime": 45,
+      "language": "en",
+      "avgRating": 0,
+      "id": 517,
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/sRzSfpSb3wYYshbaiMRIuFCJJGU.jpg",
+      "year": 2008,
+      "genres": [
+        "COMEDY",
+        "DRAMA",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Stephen Chow",
+      "description": "A poor construction worker, who struggles to keep his son in private school, mistakes an orb he finds in a junkjard for a toy which proves to be much, much more once the young boy starts to play with it.",
+      "runtime": 88,
+      "language": "cn",
+      "avgRating": 0,
+      "id": 518,
+      "title": "CJ7",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4MtvQdh5VP7jMSydhggp1P80FMj.jpg",
+      "year": 2008,
+      "genres": [
+        "COMEDY",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Craig Mazin",
+      "description": "Rick Riker is a nerdy teen imbued with superpowers by a radioactive dragonfly. And because every hero needs a nemesis, enter Lou Landers, aka the villainously goofy Hourglass.",
+      "runtime": 82,
+      "language": "en",
+      "avgRating": 0,
+      "id": 525,
+      "title": "Superhero Movie",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+      "year": 1975,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "DRAMA",
+        "HORROR"
+      ],
+      "director": "Jim Sharman",
+      "description": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
+      "runtime": 100,
+      "language": "en",
+      "avgRating": 0,
+      "id": 529,
+      "title": "The Rocky Horror Picture Show",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/w6Jk8BHohhoKBUcxGeSyDQGWGWc.jpg",
+      "year": 2018,
+      "genres": [
+        "COMEDY",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "David Leitch",
+      "description": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2, as a Princess Bride-esque story that's full of magic, wonder, and zero Fs.",
+      "runtime": 118,
+      "language": "en",
+      "avgRating": 0,
+      "id": 536,
+      "title": "Once Upon a Deadpool",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cr2SfN854IlEoZQBtIfpyC0zXR5.jpg",
+      "year": 2026,
+      "genres": [
+        "COMEDY",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Amy Wang",
+      "description": "An insecure Chinese-American teenager undergoes experimental surgery to appear white, hoping to secure the prom queen title and peer acceptance.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 558,
+      "title": "Slanted",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/w6Jk8BHohhoKBUcxGeSyDQGWGWc.jpg",
+      "year": 2018,
+      "genres": [
+        "COMEDY",
+        "ACTION",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "David Leitch",
+      "description": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2, as a Princess Bride-esque story that's full of magic, wonder, and zero Fs.",
+      "runtime": 118,
+      "language": "en",
+      "avgRating": 0,
+      "id": 561,
+      "title": "Once Upon a Deadpool",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/3JBH43btcgOp283vpi9j24MJrwh.jpg",
+      "year": 2015,
+      "genres": [
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Sion Sono",
+      "description": "Shy high schooler Yoshirō and his friends mysteriously develop psychic powers, leading to chaotic and often erotic comedic situations as the  virginal ESP teens try to understand their new gifts.",
+      "runtime": 114,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 568,
+      "title": "The Virgin Psychics",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eT52CpkNpVrFqamL2WD6iMZuChf.jpg",
+      "year": 1981,
+      "genres": [
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Jean Girault",
+      "description": "Two buddy farmers are visited by aliens who like their domestic cabbage soup.",
+      "runtime": 98,
+      "language": "fr",
+      "avgRating": 0,
+      "id": 597,
+      "title": "The Cabbage Soup",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "year": 2020,
+      "genres": [
+        "COMEDY",
+        "ROMANCE",
+        "SCI_FI"
+      ],
+      "director": "Max Barbakow",
+      "description": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 608,
+      "title": "Palm Springs",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iQcOzXCpewM9pbEwLoIrHLjpMvB.jpg",
+      "year": 2008,
+      "genres": [
+        "COMEDY",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Jay Lee",
+      "description": "In the not too distant future a secret government re-animation chemo-virus gets released into conservative Sartre, Nebraska and lands in an underground strip club. As the virus begins to spread, turning the strippers into \"Super Zombie Strippers\" the girls struggle with whether or not to conform to the new \"fad\" even if it means there's no turning back.",
+      "runtime": 94,
+      "language": "en",
+      "avgRating": 0,
+      "id": 731,
+      "title": "Zombie Strippers!",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oNsV9BychAe4Sk6xFKp558Rlpyz.jpg",
+      "year": 1985,
+      "genres": [
+        "COMEDY",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Dan O'Bannon",
+      "description": "When two bumbling employees at a medical supply warehouse accidentally release a deadly gas into the air, the vapors cause the dead to rise again as zombies.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 774,
+      "title": "The Return of the Living Dead",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",
+      "year": 2019,
+      "genres": [
+        "COMEDY",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Christopher Landon",
+      "description": "Collegian Tree Gelbman wakes up in horror to learn that she's stuck in a parallel universe. Her boyfriend Carter is now with someone else, and her friends and fellow students seem to be completely different versions of themselves. When Tree discovers that Carter's roommate has been altering time, she finds herself once again the target of a masked killer. When the psychopath starts to go after her inner circle, Tree soon realizes that she must die over and over again to save everyone.",
+      "runtime": 100,
+      "language": "en",
+      "avgRating": 0,
+      "id": 778,
+      "title": "Happy Death Day 2U",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dxBy4WePZY06Bk5KvXb4K3UnjCy.jpg",
+      "year": 1986,
+      "genres": [
+        "COMEDY",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Stephen Herek",
+      "description": "Carnivorous aliens arrive unannounced at a Kansas family farm; two intergalactic bounty hunters soon follow, determined to blow them off the planet.",
+      "runtime": 86,
+      "language": "en",
+      "avgRating": 0,
+      "id": 779,
+      "title": "Critters",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg",
+      "year": 2013,
+      "genres": [
+        "COMEDY",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Edgar Wright",
+      "description": "Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier unwittingly become humankind's only hope for survival.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 781,
+      "title": "The World's End",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oNsV9BychAe4Sk6xFKp558Rlpyz.jpg",
+      "year": 1985,
+      "genres": [
+        "COMEDY",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Dan O'Bannon",
+      "description": "When two bumbling employees at a medical supply warehouse accidentally release a deadly gas into the air, the vapors cause the dead to rise again as zombies.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 803,
+      "title": "The Return of the Living Dead",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vlpQnf0rl0FpMjWLS0TNd8Bog2F.jpg",
+      "year": 1993,
+      "genres": [
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Steve Barron",
+      "description": "A pair of aliens arrive on Earth to prepare for invasion, but crash instead. With enormous cone-shaped heads, robotlike walks and an appetite for toilet paper, aliens Beldar and Prymatt don't exactly blend in with the population of Paramus, N.J. But for some reason, everyone believes them when they say they're from France.",
+      "runtime": 87,
+      "language": "en",
+      "avgRating": 0,
+      "id": 808,
+      "title": "Coneheads",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/icE00hFNg86z3OrWyyRop7khwii.jpg",
+      "year": 1983,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Richard Lester",
+      "description": "Aiming to defeat the Man of Steel, wealthy executive Ross Webster hires bumbling but brilliant Gus Gorman to develop synthetic kryptonite, which yields some unexpected psychological effects. Between rekindling romance with his high school sweetheart and saving himself, Superman must contend with a powerful supercomputer.",
+      "runtime": 125,
+      "language": "en",
+      "avgRating": 0,
+      "id": 814,
+      "title": "Superman III",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/nOC22f6kzrKPWXBoYr2XNWfMFEh.jpg",
+      "year": 1988,
+      "genres": [
+        "COMEDY",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Stephen Chiodo",
+      "description": "Aliens disguised as clowns crash land on Earth in a rural town to capture unsuspecting victims in cotton candy cocoons for later consumption.",
+      "runtime": 86,
+      "language": "en",
+      "avgRating": 0,
+      "id": 858,
+      "title": "Killer Klowns from Outer Space",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/flwMGZcOO80lqsnZ6lIwsKja5N.jpg",
+      "year": 2003,
+      "genres": [
+        "COMEDY",
+        "DRAMA",
+        "ANIMATION",
+        "SCI_FI"
+      ],
+      "director": "Bobs Gannaway",
+      "description": "The continuing adventures of Lilo, a little Hawaiian girl, and Stitch, the galaxy's most-wanted extraterrestrial. Stitch, Pleakley, and Dr. Jumba are all part of the household now, but what Lilo and Stitch don't know is that Dr. Jumba brought his other alien \"experiments\" to Hawaiʻi as well.",
+      "runtime": 63,
+      "language": "en",
+      "avgRating": 0,
+      "id": 872,
+      "title": "Stitch! The Movie",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vlpQnf0rl0FpMjWLS0TNd8Bog2F.jpg",
+      "year": 1993,
+      "genres": [
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Steve Barron",
+      "description": "A pair of aliens arrive on Earth to prepare for invasion, but crash instead. With enormous cone-shaped heads, robotlike walks and an appetite for toilet paper, aliens Beldar and Prymatt don't exactly blend in with the population of Paramus, N.J. But for some reason, everyone believes them when they say they're from France.",
+      "runtime": 87,
+      "language": "en",
+      "avgRating": 0,
+      "id": 880,
+      "title": "Coneheads",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gNtOgQHxE5B8e08zuNRAdDpmK5Z.jpg",
+      "year": 1991,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Jean-Pierre Jeunet",
+      "description": "In a post-apocalyptic world, the residents of an apartment above the butcher shop receive an occasional delicacy of meat, something that is in low supply. A young man new in town falls in love with the butcher's daughter, which causes conflicts in her family, who need the young man for other business-related purposes.",
+      "runtime": 99,
+      "language": "fr",
+      "avgRating": 0,
+      "id": 890,
+      "title": "Delicatessen",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/bnKvk04icAyCO1KjqhsaEXBO9aJ.jpg",
+      "year": 1997,
+      "genres": [
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Les Mayfield",
+      "description": "Professor Phillip Brainard, an absent minded professor, works with his assistant Weebo, trying to create a substance that's a new source of energy and that will save Medfield College where his sweetheart Sara is the president. He has missed his wedding twice, and on the afternoon of his third wedding, Professor Brainard creates flubber, which allows objects to fly through the air.",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 900,
+      "title": "Flubber",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gwfgYA9wGpV4QLB0LrcexwfwC19.jpg",
+      "year": 2012,
+      "genres": [
+        "COMEDY",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Akiva Schaffer",
+      "description": "Four everyday suburban guys come together as an excuse to escape their humdrum lives one night a week. But when they accidentally discover that their town has become overrun with aliens posing as ordinary suburbanites, they have no choice but to save their neighborhood \u2013 and the world \u2013 from total extermination.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 904,
+      "title": "The Watch",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wqNNm36j3nkucAucHEGAW5pNZcd.jpg",
+      "year": 1985,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Ron Howard",
+      "description": "When a group of trespassing seniors swim in a pool containing alien cocoons, they find themselves energized with youthful vigor.",
+      "runtime": 117,
+      "language": "en",
+      "avgRating": 0,
+      "id": 905,
+      "title": "Cocoon",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oNxEXmKTZtECHs0bQbI6dQoXYMV.jpg",
+      "year": 2001,
+      "genres": [
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Luke Greenfield",
+      "description": "When loser Marvin Mange is involved in a horrible car accident, he's brought back to life by a deranged scientist as half man and half animal. His newfound powers are awesome -- but their adverse side effects could take over his life. Now, Marvin must fight to control his crazy primal urges around his new squeeze, Rianna, and his rival, Sgt. Sisk, who both think he's one cool cat.",
+      "runtime": 83,
+      "language": "en",
+      "avgRating": 0,
+      "id": 913,
+      "title": "The Animal",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/E4twRNScyq3g6tRpvK6X8LdD1z.jpg",
+      "year": 2018,
+      "genres": [
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Scott Speer",
+      "description": "After being uprooted by his parents' separation and unable to fit into his new hometown, a teenager stumbles upon a magical app that causes his social media updates to come true.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 921,
+      "title": "Status Update",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/flwMGZcOO80lqsnZ6lIwsKja5N.jpg",
+      "year": 2003,
+      "genres": [
+        "COMEDY",
+        "DRAMA",
+        "ANIMATION",
+        "SCI_FI"
+      ],
+      "director": "Bobs Gannaway",
+      "description": "The continuing adventures of Lilo, a little Hawaiian girl, and Stitch, the galaxy's most-wanted extraterrestrial. Stitch, Pleakley, and Dr. Jumba are all part of the household now, but what Lilo and Stitch don't know is that Dr. Jumba brought his other alien \"experiments\" to Hawaiʻi as well.",
+      "runtime": 63,
+      "language": "en",
+      "avgRating": 0,
+      "id": 934,
+      "title": "Stitch! The Movie",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/SIt5FbgvoxlZr8ay3cfi79pV6z.jpg",
+      "year": 1988,
+      "genres": [
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Richard Benjamin",
+      "description": "Trying to rescue her home planet from destruction, a gorgeous extraterrestrial named Celeste arrives on Earth and begins her scientific research. She woos quirky scientist Dr. Steve Mills, a widower with a young daughter. Before long, Celeste finds herself in love with Steve and her new life on Earth, where she experiences true intimacy for the first time. But when she loses sight of her mission, she begins to question where she belongs.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 955,
+      "title": "My Stepmother Is an Alien",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pYVJgcuCU9swa7GEujygsRdkSQd.jpg",
+      "year": 2015,
+      "genres": [
+        "COMEDY",
+        "ANIMATION",
+        "DRAMA",
+        "ADVENTURE",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Yoshihiro Osugi",
+      "description": "Nobita and friends decide to make a movie inspired by the space adventures of their heroes, but their fiction turns into a reality.",
+      "runtime": 100,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 963,
+      "title": "Doraemon: Nobita and the Space Heroes",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/f0NNTJxBzAwC0wvqmBgD9pPiHnG.jpg",
+      "year": 1996,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "THRILLER",
+        "ADVENTURE"
+      ],
+      "director": "Stuart Gordon",
+      "description": "John Canyon is one of the last independent space transport entrepreneurs. Rough times force him to carry suspicious cargo to Earth without questions being asked. During the flight the cargo turns out to be a multitude of unstoppable killer robots.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 971,
+      "title": "Space Truckers",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+      "year": 2024,
+      "genres": [
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Greg Jardin",
+      "description": "A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 979,
+      "title": "It's What's Inside",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+      "year": 2024,
+      "genres": [
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Greg Jardin",
+      "description": "A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1019,
+      "title": "It's What's Inside",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/enQ9FBLo4bd7AHX78geP6qRSl9U.jpg",
+      "year": 1993,
+      "genres": [
+        "COMEDY",
+        "SCI_FI",
+        "HORROR"
+      ],
+      "director": "Alex Winter",
+      "description": "A vain actor, his best friend, and an activist end up at a mutant freak farm run by a weirdo scientist.",
+      "runtime": 80,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1023,
+      "title": "Freaked",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/3J8XKUfhJiNzwobUZVtizXYPe8b.jpg",
+      "year": 2008,
+      "genres": [
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Aaron Seltzer",
+      "description": "Over the course of one evening, an unsuspecting group of twenty-somethings find themselves bombarded by a series of natural disasters and catastrophic events.",
+      "runtime": 87,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1043,
+      "title": "Disaster Movie",
       "ratingCount": 0
     }
-  ]
+  ],
+  "genre": "COMEDY"
 }

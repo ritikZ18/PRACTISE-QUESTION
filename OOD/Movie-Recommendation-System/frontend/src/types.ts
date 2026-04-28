@@ -17,6 +17,12 @@ export interface Movie {
   ratingCount: number;
 }
 
+export interface TrendingResponse {
+  tmdbTrending: Movie[];
+  tmdbTopRated: Movie[];
+  communityTopRated: Movie[];
+}
+
 export interface User {
   id: number;
   name: string;
@@ -57,6 +63,7 @@ export const MOODS = {
 
 export const GENRES = [
   'ACTION',
+  'ADVENTURE',
   'COMEDY',
   'DRAMA',
   'THRILLER',
@@ -66,4 +73,5 @@ export const GENRES = [
   'DOCUMENTARY',
   'ANIMATION',
   'CRIME',
+  'FANTASY',
 ];

@@ -1,83 +1,1606 @@
 {
-  "genre": "HORROR",
   "movies": [
     {
-      "id": 16,
-      "title": "The Shining",
+      "posterUrl": "https://via.placeholder.com/300x450?text=The+Shining",
       "year": 1980,
       "director": "Stanley Kubrick",
-      "genres": ["HORROR", "DRAMA"],
+      "genres": [
+        "HORROR",
+        "DRAMA"
+      ],
       "runtime": 146,
-      "language": "English",
       "description": "A family isolated by heavy snow in a remote hotel descends into madness and violence.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=The+Shining",
+      "language": "English",
       "avgRating": 4.7,
+      "id": 16,
+      "title": "The Shining",
       "ratingCount": 0
     },
     {
-      "id": 22,
-      "title": "Hereditary",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Hereditary",
       "year": 2018,
       "director": "Ari Aster",
-      "genres": ["HORROR", "DRAMA", "THRILLER"],
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "THRILLER"
+      ],
       "runtime": 127,
-      "language": "English",
       "description": "A family unravels after the death of their grandmother and discovers dark secrets lurking beneath.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Hereditary",
+      "language": "English",
       "avgRating": 4.4,
+      "id": 22,
+      "title": "Hereditary",
       "ratingCount": 0
     },
     {
-      "id": 29,
-      "title": "The Ring",
+      "posterUrl": "https://via.placeholder.com/300x450?text=The+Ring",
       "year": 2002,
       "director": "Gore Verbinski",
-      "genres": ["HORROR", "THRILLER"],
+      "genres": [
+        "HORROR",
+        "THRILLER"
+      ],
       "runtime": 115,
-      "language": "English",
       "description": "A journalist must stop a deadly curse that kills anyone who watches a mysterious videotape.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=The+Ring",
+      "language": "English",
       "avgRating": 4.1,
+      "id": 29,
+      "title": "The Ring",
       "ratingCount": 0
     },
     {
-      "id": 32,
-      "title": "A Quiet Place",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Quiet+Place",
       "year": 2018,
       "director": "John Krasinski",
-      "genres": ["HORROR", "THRILLER", "DRAMA"],
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "DRAMA"
+      ],
       "runtime": 90,
-      "language": "English",
       "description": "In a world where creatures hunt by sound, a family must survive in silence.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Quiet+Place",
+      "language": "English",
       "avgRating": 4.5,
+      "id": 32,
+      "title": "A Quiet Place",
       "ratingCount": 0
     },
     {
-      "id": 38,
-      "title": "The Exorcist",
+      "posterUrl": "https://via.placeholder.com/300x450?text=The+Exorcist",
       "year": 1973,
       "director": "William Friedkin",
-      "genres": ["HORROR", "DRAMA"],
+      "genres": [
+        "HORROR",
+        "DRAMA"
+      ],
       "runtime": 132,
-      "language": "English",
       "description": "When a young girl becomes possessed by a demonic entity, her mother seeks help from a pair of priests.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=The+Exorcist",
+      "language": "English",
       "avgRating": 4.7,
+      "id": 38,
+      "title": "The Exorcist",
       "ratingCount": 0
     },
     {
-      "id": 45,
-      "title": "It Follows",
+      "posterUrl": "https://via.placeholder.com/300x450?text=It+Follows",
       "year": 2014,
       "director": "David Robert Mitchell",
-      "genres": ["HORROR", "THRILLER"],
+      "genres": [
+        "HORROR",
+        "THRILLER"
+      ],
       "runtime": 100,
-      "language": "English",
       "description": "A group of friends must survive the night against a supernatural entity that never stops coming.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=It+Follows",
+      "language": "English",
       "avgRating": 4.2,
+      "id": 45,
+      "title": "It Follows",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hnwX5cUuzBDM0OWJB2UtnjkrHDm.jpg",
+      "year": 2012,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Xavier Gens",
+      "description": "Survivors of a nuclear attack are grouped together for days in the basement of their apartment building, where fear and dwindling supplies wear away at their dynamic.",
+      "runtime": 122,
+      "language": "en",
+      "avgRating": 0,
+      "id": 67,
+      "title": "The Divide",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "year": 2026,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Nia DaCosta",
+      "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 69,
+      "title": "28 Years Later: The Bone Temple",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "year": 1979,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Ridley Scott",
+      "description": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+      "runtime": 117,
+      "language": "en",
+      "avgRating": 0,
+      "id": 94,
+      "title": "Alien",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "year": 2024,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Coralie Fargeat",
+      "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+      "runtime": 141,
+      "language": "en",
+      "avgRating": 0,
+      "id": 108,
+      "title": "The Substance",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "year": 2026,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "James Watkins",
+      "description": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and humanity, the ravages of toxic love and the dark side of scientific ambition.",
+      "runtime": 0,
+      "language": "en",
+      "avgRating": 0,
+      "id": 118,
+      "title": "Clayface",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/3HA2iiq982e01EKXJvPFyfMADVM.jpg",
+      "year": 2026,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Jonny Campbell",
+      "description": "When a mutating, highly contagious fungus escapes a sealed facility, two employees \u2013 joined by a grizzled bioterror operative \u2013 must survive the wildest night shift ever to save humanity from extinction.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 129,
+      "title": "Cold Storage",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+      "year": 2025,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Danny Boyle",
+      "description": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 142,
+      "title": "28 Years Later",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+      "year": 2024,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Fede Álvarez",
+      "description": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+      "runtime": 119,
+      "language": "en",
+      "avgRating": 0,
+      "id": 150,
+      "title": "Alien: Romulus",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "year": 2025,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Drew Hancock",
+      "description": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+      "runtime": 97,
+      "language": "en",
+      "avgRating": 0,
+      "id": 169,
+      "title": "Companion",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/PvdD2gTqSZfFWclP9ee4bqCn0B.jpg",
+      "year": 2025,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Julia Ducournau",
+      "description": "Alpha, a troubled 13-year-old lives with her single mom. Their world collapses the day she returns from school with a tattoo on her arm.",
+      "runtime": 128,
+      "language": "fr",
+      "avgRating": 0,
+      "id": 172,
+      "title": "Alpha",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "year": 1982,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "John Carpenter",
+      "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 186,
+      "title": "The Thing",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "year": 2002,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Danny Boyle",
+      "description": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+      "runtime": 113,
+      "language": "en",
+      "avgRating": 0,
+      "id": 190,
+      "title": "28 Days Later",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "year": 1982,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "John Carpenter",
+      "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 196,
+      "title": "The Thing",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "year": 1986,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "David Cronenberg",
+      "description": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 218,
+      "title": "The Fly",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+      "year": 2017,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Ridley Scott",
+      "description": "The crew of the colony ship Covenant, bound for a remote planet on the far side of the galaxy, discovers what they think is an uncharted paradise but is actually a dark, dangerous world.",
+      "runtime": 122,
+      "language": "en",
+      "avgRating": 0,
+      "id": 226,
+      "title": "Alien: Covenant",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "year": 2018,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "John Krasinski",
+      "description": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 237,
+      "title": "A Quiet Place",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "year": 1986,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "David Cronenberg",
+      "description": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 262,
+      "title": "The Fly",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg",
+      "year": 2007,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Juan Carlos Fresnadillo",
+      "description": "Twenty-eight weeks after the spread of a deadly rage virus, the inhabitants of the British Isles have lost their battle against the onslaught, as the virus has killed everyone there. Six months later, a group of Americans dare to set foot on the Isles, convinced the danger has passed. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 267,
+      "title": "28 Weeks Later",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg",
+      "year": 2007,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Juan Carlos Fresnadillo",
+      "description": "Twenty-eight weeks after the spread of a deadly rage virus, the inhabitants of the British Isles have lost their battle against the onslaught, as the virus has killed everyone there. Six months later, a group of Americans dare to set foot on the Isles, convinced the danger has passed. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 287,
+      "title": "28 Weeks Later",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5XetJwmAiDC0EtH23NIXaqFn3Wl.jpg",
+      "year": 1998,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Robert Rodriguez",
+      "description": "When some very creepy things start happening around school, the kids at Herrington High make the chilling discovery that confirms their worst suspicions: their teachers really are from another planet!",
+      "runtime": 104,
+      "language": "en",
+      "avgRating": 0,
+      "id": 316,
+      "title": "The Faculty",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fIKiHta0LrDpb2f80u7ybPFesoy.jpg",
+      "year": 1973,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Bernard L. Kowalski",
+      "description": "David, a college student, is looking for a job. He is hired by Dr. Stoner as a lab assistant for his research and experiments on snakes. David also begins to fall for Stoner's young daughter, Kristina. However, the good doctor has secretly brewed up a serum that can transform any man into a King Cobra snake-and he plans to use it on David.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 337,
+      "title": "Sssssss",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wztfli5NgYDgurVgShNflvnyA3Z.jpg",
+      "year": 2017,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Daniel Espinosa",
+      "description": "The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.",
+      "runtime": 104,
+      "language": "en",
+      "avgRating": 0,
+      "id": 353,
+      "title": "Life",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+      "year": 2026,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Kane Parsons",
+      "description": "A strange doorway appears in the basement of a furniture showroom.",
+      "runtime": 105,
+      "language": "en",
+      "avgRating": 0,
+      "id": 365,
+      "title": "Backrooms",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+      "year": 2026,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Mark Fischbach",
+      "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Rapture. After decades of decay and crumbling infrastructure, the Consolidation of Iron has made a discovery on a barren moon designated AT-5. An ocean of blood. Hoping to discover desperately needed resources they immediately launch an expedition. A submarine is crafted and a convict is welded inside. Due to the pressure and depth of the ocean the forward viewport has been encased in metal. If successful, they will earn their freedom. If not, another will follow. This will be the 13th expedition.",
+      "runtime": 125,
+      "language": "en",
+      "avgRating": 0,
+      "id": 385,
+      "title": "Iron Lung",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+      "year": 2024,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Michael Sarnoski",
+      "description": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+      "runtime": 100,
+      "language": "en",
+      "avgRating": 0,
+      "id": 396,
+      "title": "A Quiet Place: Day One",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "year": 2022,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Jordan Peele",
+      "description": "Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.",
+      "runtime": 130,
+      "language": "en",
+      "avgRating": 0,
+      "id": 401,
+      "title": "Nope",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tHMJMiY8TfD03iOSVpaKSjjJsQ5.jpg",
+      "year": 2007,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Oliver Hirschbiegel",
+      "description": "Washington, D.C. psychologist Carol Bennell and her colleague Dr. Ben Driscoll are the only two people on Earth who are aware of an epidemic running rampant through the city. They discover an alien virus aboard a crashed space shuttle that transforms anyone who comes into contact with it into unfeeling drones while they sleep. Carol realizes her son holds the key to stopping the spread of the plague and she races to find him before it is too late.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 414,
+      "title": "The Invasion",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tHMJMiY8TfD03iOSVpaKSjjJsQ5.jpg",
+      "year": 2007,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Oliver Hirschbiegel",
+      "description": "Washington, D.C. psychologist Carol Bennell and her colleague Dr. Ben Driscoll are the only two people on Earth who are aware of an epidemic running rampant through the city. They discover an alien virus aboard a crashed space shuttle that transforms anyone who comes into contact with it into unfeeling drones while they sleep. Carol realizes her son holds the key to stopping the spread of the plague and she races to find him before it is too late.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 428,
+      "title": "The Invasion",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg",
+      "year": 2019,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "David Yarovesky",
+      "description": "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 435,
+      "title": "Brightburn",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4oqaWnO3dKYAt3vZWAD4oLfOXOC.jpg",
+      "year": 2010,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Vincenzo Natali",
+      "description": "Elsa and Clive, two young rebellious scientists, defy legal and ethical boundaries and forge ahead with a dangerous experiment: splicing together human and animal DNA to create a new organism. Named \"Dren\", the creature rapidly develops from a deformed female infant into a beautiful but dangerous winged human-chimera, who forges a bond with both of her creators - only to have that bond turn deadly.",
+      "runtime": 104,
+      "language": "en",
+      "avgRating": 0,
+      "id": 453,
+      "title": "Splice",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg",
+      "year": 2025,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Jess Varley",
+      "description": "After returning from her first space mission, astronaut Sam Walker is placed under NASA\u2019s care at a high security house for rehabilitation and medical testing. However, when disturbing occurrences begin happening around the property, she fears that something extraterrestrial has followed her back to Earth",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 454,
+      "title": "The Astronaut",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg",
+      "year": 2019,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "David Yarovesky",
+      "description": "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 457,
+      "title": "Brightburn",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+      "year": 1990,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Ron Underwood",
+      "description": "Val McKee and Earl Bassett are in a fight for their lives when they discover that their desolate town has been infested with gigantic, man-eating creatures that live below the ground.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 473,
+      "title": "Tremors",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/m3OE5bpcGHMWYlPkYvgIrncuuGN.jpg",
+      "year": 2006,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Bong Joon Ho",
+      "description": "A teenage girl is captured by a giant mutated squid-like creature that appears from Seoul's Han River after toxic waste was dumped in it, prompting her family into a frantic search for her.",
+      "runtime": 120,
+      "language": "ko",
+      "avgRating": 0,
+      "id": 474,
+      "title": "The Host",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
+      "year": 2023,
+      "genres": [
+        "HORROR",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Nahnatchka Khan",
+      "description": "When the infamous \"Sweet Sixteen Killer\" returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.",
+      "runtime": 104,
+      "language": "en",
+      "avgRating": 0,
+      "id": 497,
+      "title": "Totally Killer",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
+      "year": 2023,
+      "genres": [
+        "HORROR",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Nahnatchka Khan",
+      "description": "When the infamous \"Sweet Sixteen Killer\" returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.",
+      "runtime": 104,
+      "language": "en",
+      "avgRating": 0,
+      "id": 515,
+      "title": "Totally Killer",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+      "year": 1990,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Ron Underwood",
+      "description": "Val McKee and Earl Bassett are in a fight for their lives when they discover that their desolate town has been infested with gigantic, man-eating creatures that live below the ground.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 524,
+      "title": "Tremors",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kYTHzZpgnzhea5Trp3evcxSEdTG.jpg",
+      "year": 1989,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Izo Hashimoto",
+      "description": "At the clinic where her boyfriend Katayama, a young genius doctor, is the director, Yoko, a young girl who continues to suffer from eerie nightmares every day, is not getting better despite the care of her sister Sakurako and Katayama's treatment. Sakurako, the sister, is suspicious of Yoko's condition and confronts Katayama, who tells her that she suffers from a serious mental disorder and that the only way to cure it is to have brain surgery. Yoko, despite being persuaded by her sister and Katayama, agrees to the surgery, although she is skeptical...",
+      "runtime": 58,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 538,
+      "title": "Lucky Sky Diamond",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1UKNef590A0ZaMnxsscIcWuK1Em.jpg",
+      "year": 2002,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Paul W. S. Anderson",
+      "description": "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+      "runtime": 100,
+      "language": "en",
+      "avgRating": 0,
+      "id": 542,
+      "title": "Resident Evil",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/AeLmyhJNQd2BMFGER36ctAeDhIp.jpg",
+      "year": 1985,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Tobe Hooper",
+      "description": "A race of space vampires arrives in London and infects the populace, commencing an apocalyptic descent into chaos.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 546,
+      "title": "Lifeforce",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ihK3jUDlcQBMEObbLwSswqpiy3Z.jpg",
+      "year": 2015,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Shinji Higuchi",
+      "description": "100 years ago, titans suddenly appeared on Earth. Soon, human civilization veered on collapse due to the titans. Humans then built a giant wall to defend themselves. Within the giant walls, humans lived in peace, but, 100 years later, the giant wall is broken.",
+      "runtime": 98,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 548,
+      "title": "Attack on Titan",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kfYVxvDDAJoFq2knHUzAZP09pAc.jpg",
+      "year": 2000,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Tarsem Singh",
+      "description": "A psychotherapist journeys inside a comatose serial killer in the hopes of saving his latest victim.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 551,
+      "title": "The Cell",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/AeLmyhJNQd2BMFGER36ctAeDhIp.jpg",
+      "year": 1985,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Tobe Hooper",
+      "description": "A race of space vampires arrives in London and infects the populace, commencing an apocalyptic descent into chaos.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 560,
+      "title": "Lifeforce",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1UKNef590A0ZaMnxsscIcWuK1Em.jpg",
+      "year": 2002,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Paul W. S. Anderson",
+      "description": "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+      "runtime": 100,
+      "language": "en",
+      "avgRating": 0,
+      "id": 563,
+      "title": "Resident Evil",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/twa9gXjocLM629sJrQYVtmF306R.jpg",
+      "year": 2015,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Henry Hobson",
+      "description": "There's a deadly zombie epidemic threatening humanity, but Wade, a small-town farmer and family man, refuses to accept defeat even when his daughter Maggie becomes infected. As Maggie's condition worsens and the authorities seek to eradicate those with the virus, Wade is pushed to the limits in an effort to protect her. Joely Richardson co-stars in this post-apocalyptic thriller.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 575,
+      "title": "Maggie",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/r0ruRU7uANOPfp8dMnjDIsSR8Hx.jpg",
+      "year": 2018,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Jocelyn Stamat",
+      "description": "A physician investigating a missing body disrupts an unlawful experiment.",
+      "runtime": 16,
+      "language": "en",
+      "avgRating": 0,
+      "id": 576,
+      "title": "Laboratory Conditions",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg",
+      "year": 2023,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Brian Duffield",
+      "description": "A lonely woman battles extraterrestrials who threaten her future while forcing her to face her past.",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 578,
+      "title": "No One Will Save You",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dmn2nVo8h7LMnk694JxCRIwK06p.jpg",
+      "year": 2011,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Matthijs van Heijningen Jr.",
+      "description": "When paleontologist Kate Lloyd travels to an isolated outpost in Antarctica for the expedition of a lifetime, she joins an international team that unearths a remarkable discovery. Their elation quickly turns to fear as they realize that their experiment has freed a mysterious being from its frozen prison. Paranoia spreads like an epidemic as a creature that can mimic anything it touches will pit human against human as it tries to survive and flourish in this spine-tingling thriller.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 580,
+      "title": "The Thing",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ihK3jUDlcQBMEObbLwSswqpiy3Z.jpg",
+      "year": 2015,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Shinji Higuchi",
+      "description": "100 years ago, titans suddenly appeared on Earth. Soon, human civilization veered on collapse due to the titans. Humans then built a giant wall to defend themselves. Within the giant walls, humans lived in peace, but, 100 years later, the giant wall is broken.",
+      "runtime": 98,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 616,
+      "title": "Attack on Titan",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/3daBOc5ZcICXMzAVNhzJTSgweaP.jpg",
+      "year": 2024,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Ahmed Chaer",
+      "description": "A group of journalism students ventures into a remote forest and awakens a long-frozen World War II experiment a superhuman Nazi soldier. Hunted through cursed woods where trust crumbles and survival is slim, they soon learn that some sins demand blood.",
+      "runtime": 78,
+      "language": "en",
+      "avgRating": 0,
+      "id": 627,
+      "title": "Nazi Supersoldier",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/zXXDmz5cPuSo9LveCNjZ1j16szC.jpg",
+      "year": 1988,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Chuck Russell",
+      "description": "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 667,
+      "title": "The Blob",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+      "year": 1983,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "David Cronenberg",
+      "description": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
+      "runtime": 88,
+      "language": "en",
+      "avgRating": 0,
+      "id": 688,
+      "title": "Videodrome",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/c6Ga1AUGPe3GwlpX3qDYrD9y3EZ.jpg",
+      "year": 2006,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Claudio Fäh",
+      "description": "After the mysterious death of scientist Dr. Devin Villiers, Det. Frank Turner and his partner are assigned to protect Villiers' colleague, who revealed that  a veteran soldier was subjected to an experiment with the objective of creating the ultimate national security weapon... an undetectable soldier. The experiment failed \u2013 with disastrous side effects.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 698,
+      "title": "Hollow Man II",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+      "year": 1977,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "David Lynch",
+      "description": "First-time father Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+      "runtime": 89,
+      "language": "en",
+      "avgRating": 0,
+      "id": 699,
+      "title": "Eraserhead",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fTUloMRssypzehEwNBjVegvCLTy.jpg",
+      "year": 2026,
+      "genres": [
+        "HORROR",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Howard J. Ford",
+      "description": "Six young friends investigate missing persons cases in a remote cave system, unaware they're being stalked by an ancient creature lurking in the depths.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 705,
+      "title": "Bone Keeper",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+      "year": 1982,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Tommy Lee Wallace",
+      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital, clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 722,
+      "title": "Halloween III: Season of the Witch",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/twa9gXjocLM629sJrQYVtmF306R.jpg",
+      "year": 2015,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Henry Hobson",
+      "description": "There's a deadly zombie epidemic threatening humanity, but Wade, a small-town farmer and family man, refuses to accept defeat even when his daughter Maggie becomes infected. As Maggie's condition worsens and the authorities seek to eradicate those with the virus, Wade is pushed to the limits in an effort to protect her. Joely Richardson co-stars in this post-apocalyptic thriller.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 727,
+      "title": "Maggie",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ggOND0hfoE0f3K857joSzEeIchb.jpg",
+      "year": 2001,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "James Isaac",
+      "description": "In the year 2455, Old Earth is now a contaminated planet abandoned for centuries -- a brown world of violent storms, toxic landmasses and poisonous seas. Yet humans have returned to the deadly place that they once fled, not to live, but to research the ancient, rusting artifacts of the long-gone civilizations. But it's not the harmful environment that could prove fatal to the intrepid, young explorers who have just landed on Old Earth. For them, it's Friday the 13th, and Jason lives!",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 729,
+      "title": "Jason X",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ggHbJPYJsjiJnEwHi4xUyJxWpmS.jpg",
+      "year": 1986,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Jim Wynorski",
+      "description": "High-tech robots equipped with state-of-the-art security devices have been recruited as the new mechanical \"night watchmen\" for the Park Plaza Mall. When a jolting bolt of lightning short-circuits the main computer control, the robots turn into \"killbots\" on the loose after unsuspecting shoppers!",
+      "runtime": 77,
+      "language": "en",
+      "avgRating": 0,
+      "id": 759,
+      "title": "Chopping Mall",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fTUloMRssypzehEwNBjVegvCLTy.jpg",
+      "year": 2026,
+      "genres": [
+        "HORROR",
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Howard J. Ford",
+      "description": "Six young friends investigate missing persons cases in a remote cave system, unaware they're being stalked by an ancient creature lurking in the depths.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 764,
+      "title": "Bone Keeper",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/l9cJ5PKEkVJb6YUCiURtcMbTQ5D.jpg",
+      "year": 2015,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Shinji Higuchi",
+      "description": "Eren Yeager leaves to restore a break in the wall destroyed by a Titan. He comes under attack by the Titans and is cornered. Shikishima comes to his aid. The titans never stops attacking.  Eren is now injured and tries to protect Armin, but is swallowed by a titan. A Titan with black hair appears and begins to expel the other titans.",
+      "runtime": 87,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 768,
+      "title": "Attack on Titan II: End of the World",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/l9cJ5PKEkVJb6YUCiURtcMbTQ5D.jpg",
+      "year": 2015,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Shinji Higuchi",
+      "description": "Eren Yeager leaves to restore a break in the wall destroyed by a Titan. He comes under attack by the Titans and is cornered. Shikishima comes to his aid. The titans never stops attacking.  Eren is now injured and tries to protect Armin, but is swallowed by a titan. A Titan with black hair appears and begins to expel the other titans.",
+      "runtime": 87,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 807,
+      "title": "Attack on Titan II: End of the World",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pEszakCP8j9E9S0UPLfEa3Cad3O.jpg",
+      "year": 1999,
+      "genres": [
+        "HORROR",
+        "COMEDY",
+        "ACTION",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Steve Miner",
+      "description": "When a man is eaten alive by an unknown creature, the local Game Warden teams up with a paleontologist from New York to find the beast. Add to the mix an eccentric philanthropist with a penchant for \"Crocs\", and here we go! This quiet, remote lake is suddenly the focus of an intense search for a crocodile with a taste for live animals...and people!",
+      "runtime": 82,
+      "language": "en",
+      "avgRating": 0,
+      "id": 825,
+      "title": "Lake Placid",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg",
+      "year": 1997,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Guillermo del Toro",
+      "description": "A disease carried by common cockroaches is killing Manhattan children. In an effort to stop the epidemic an entomologist, Susan Tyler, creates a mutant breed of insect that secretes a fluid to kill the roaches. This mutant breed was engineered to die after one generation, but three years later Susan finds out that the species has survived and evolved into a large, gruesome monster that can mimic human form.",
+      "runtime": 105,
+      "language": "en",
+      "avgRating": 0,
+      "id": 840,
+      "title": "Mimic",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gUREuXCnJLVHsvKXDH9fgIcfM6e.jpg",
+      "year": 2024,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Chris Weitz",
+      "description": "Curtis Pike and his family are selected to test a new home device: a digital assistant called AIA. AIA observes the family's behaviors and begins to anticipate their needs. And she can \u2013 and will \u2013 make sure nothing \u2013 and no one \u2013 gets in her family's way.",
+      "runtime": 84,
+      "language": "en",
+      "avgRating": 0,
+      "id": 849,
+      "title": "Afraid",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/c5N6Pw3P6TqQnGcqiVkhO9u85KB.jpg",
+      "year": 2016,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Tod Williams",
+      "description": "When a strange signal pulsates through all cell phone networks worldwide, it starts a murderous epidemic of epic proportions when users become bloodthirsty creatures, and a group of people in New England are among the survivors to deal with the ensuing chaos after.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 860,
+      "title": "Cell",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg",
+      "year": 2024,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Caitlin Cronenberg",
+      "description": "In the wake of an environmental collapse that has forced humanity to shed 20% of its population, a family dinner erupts into chaos when a father's plan to enlist in the government's new euthanasia program goes horribly awry.",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 862,
+      "title": "Humane",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg",
+      "year": 1997,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Guillermo del Toro",
+      "description": "A disease carried by common cockroaches is killing Manhattan children. In an effort to stop the epidemic an entomologist, Susan Tyler, creates a mutant breed of insect that secretes a fluid to kill the roaches. This mutant breed was engineered to die after one generation, but three years later Susan finds out that the species has survived and evolved into a large, gruesome monster that can mimic human form.",
+      "runtime": 105,
+      "language": "en",
+      "avgRating": 0,
+      "id": 868,
+      "title": "Mimic",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8pGYesuatPnMS8lhS4NvwiDjKbG.jpg",
+      "year": 1986,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Stephen King",
+      "description": "When a comet passes close to the earth, machines all over the world come alive and go on homicidal rampages. A group of people at a desolate truck stop are held hostage by a gang of murderous 18-wheelers. The frightened people set out to defeat the killer machines\u2026Or be killed by them.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 876,
+      "title": "Maximum Overdrive",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6q8cRK0oI1Dw5LNCc5jApqZ6GIS.jpg",
+      "year": 2026,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Scott Chambers",
+      "description": "Plot TBA. The third installment in the Blood and Honey series. New characters will be introduced, including Rabbit, the Heffalumps and the Woozles.",
+      "runtime": 0,
+      "language": "en",
+      "avgRating": 0,
+      "id": 898,
+      "title": "Winnie the Pooh: Blood and Honey 3",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fsoaPN5SWYgZ4B7GG9nRNj33so.jpg",
+      "year": 1980,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Ken Russell",
+      "description": "A research scientist explores the boundaries and frontiers of human consciousness. Using sensory deprivation and hallucinogenic mixtures from Native American shamans, he explores these altered states of cognizance and finds that memory, time, and reality itself are states of mind.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 899,
+      "title": "Altered States",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ctOwn1Ibg3SjDG4WulvFvSH0PRT.jpg",
+      "year": 1958,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Irvin S. Yeaworth Jr.",
+      "description": "A drive-in favorite, this sci-fi classic follows teenagers Steve and his best girl, Jane, as they try to protect their hometown from a gelatinous alien life form that engulfs everything it touches. The first to discover the substance and live to tell about it, Steve and Jane witness the blob destroying an elderly man, then it growing to a terrifying size. But no one else has seen the goo, and policeman Dave refuses to believe the kids without proof.",
+      "runtime": 82,
+      "language": "en",
+      "avgRating": 0,
+      "id": 925,
+      "title": "The Blob",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+      "year": 1982,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Tommy Lee Wallace",
+      "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital, clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 926,
+      "title": "Halloween III: Season of the Witch",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ewfUA5pMEJrmQCdI4TsHmLlIUbf.jpg",
+      "year": 1933,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "James Whale",
+      "description": "After experimenting on himself and becoming invisible, scientist Jack Griffin, now aggressive due to the drug's effects, seeks a way to reverse the experiment at any cost.",
+      "runtime": 71,
+      "language": "en",
+      "avgRating": 0,
+      "id": 938,
+      "title": "The Invisible Man",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/smQV5DgyUVho8d1R67XnU1BkJAV.jpg",
+      "year": 2008,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Yoshihiro Nishimura",
+      "description": "In a futuristic Tokyo where police have been privatized and bitter self-mutilation is so casual that advertising is often specially geared to the 'cutter' demographic, Ruka is on a mission to avenge her father's assassination. Ruka is a cop from a squad whose goal is to destroy homicidal mutant humans known as 'engineers', that possess the ability to transform any injury to a weapon in and of itself.",
+      "runtime": 110,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 943,
+      "title": "Tokyo Gore Police",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg",
+      "year": 2006,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Jim Sonzero",
+      "description": "When the dead discover a means to contact the living through electronic devices, cellphones and computers become open gateways to monstrosities and destruction.",
+      "runtime": 88,
+      "language": "en",
+      "avgRating": 0,
+      "id": 945,
+      "title": "Pulse",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/sDWARc5aYTUKE8Y2FIGVgWXuI4K.jpg",
+      "year": 1983,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "John Landis",
+      "description": "An anthology film presenting remakes of three episodes from the \"Twilight Zone\" TV series\u2014\"Kick the Can\", \"It's a Good Life\" and \"Nightmare at 20,000 Feet\"\u2014and one original story, \"Time Out.\"",
+      "runtime": 101,
+      "language": "en",
+      "avgRating": 0,
+      "id": 947,
+      "title": "Twilight Zone: The Movie",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vScJdcqXHyupdeO3wkTqT92ew85.jpg",
+      "year": 2010,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Shinsuke Sato",
+      "description": "After trying to rescue a man on the subway tracks, two teens wake up in a room dominated by a mysterious black sphere that sends them to hunt down and kill aliens hiding on Earth.",
+      "runtime": 130,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 966,
+      "title": "Gantz",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg",
+      "year": 1978,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Joe Dante",
+      "description": "When flesh-eating piranhas are accidentally released into a summer resort's rivers, the guests become their next meal.",
+      "runtime": 94,
+      "language": "en",
+      "avgRating": 0,
+      "id": 968,
+      "title": "Piranha",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg",
+      "year": 2006,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Jim Sonzero",
+      "description": "When the dead discover a means to contact the living through electronic devices, cellphones and computers become open gateways to monstrosities and destruction.",
+      "runtime": 88,
+      "language": "en",
+      "avgRating": 0,
+      "id": 976,
+      "title": "Pulse",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg",
+      "year": 2023,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Àlex Pastor",
+      "description": "After a mysterious force decimates the world\u2019s population, Sebastian must navigate his own survival journey through the desolate streets of Barcelona. As he forms uneasy alliances with other survivors and they try to escape the city, an unexpected and even more sinister threat grows.",
+      "runtime": 112,
+      "language": "es",
+      "avgRating": 0,
+      "id": 993,
+      "title": "Bird Box Barcelona",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
+      "year": 1997,
+      "genres": [
+        "HORROR",
+        "DRAMA",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Peter Hyams",
+      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
+      "runtime": 110,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1013,
+      "title": "The Relic",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eqgBf791rMZG7ywHfObpXeMpiRf.jpg",
+      "year": 1995,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Christian Duguay",
+      "description": "SIRIUS 6B, Year 2078. On a distant mining planet ravaged by a decade of war, scientists have created the perfect weapon: a blade-wielding, self-replicating race of killing devices known as Screamers designed for one purpose only -- to hunt down and destroy all enemy life forms.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1017,
+      "title": "Screamers",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xC9GZeJZ3NagdkGg9nLQx0aPG6J.jpg",
+      "year": 2020,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Brandon Cronenberg",
+      "description": "Tasya Vos, an elite corporate assassin, uses brain-implant technology to take control of other people\u2019s bodies to terminate high profile targets. As she sinks deeper into her latest assignment, Vos becomes trapped inside a mind that threatens to obliterate her.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1021,
+      "title": "Possessor",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg",
+      "year": 1978,
+      "genres": [
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Joe Dante",
+      "description": "When flesh-eating piranhas are accidentally released into a summer resort's rivers, the guests become their next meal.",
+      "runtime": 94,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1026,
+      "title": "Piranha",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jjBdPcQ0bplBnv2XgElKLoeFDuM.jpg",
+      "year": 2022,
+      "genres": [
+        "HORROR",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Keith Thomas",
+      "description": "For more than a decade, parents Andy and Vicky have been on the run, desperate to hide their daughter Charlie from a shadowy federal agency that wants to harness her unprecedented gift for creating fire into a weapon of mass destruction. Andy has taught Charlie how to defuse her power, which is triggered by anger or pain. But as Charlie turns 11, the fire becomes harder and harder to control. After an incident reveals the family's location, a mysterious operative is deployed to hunt down the family and seize Charlie once and for all. Charlie has other plans.",
+      "runtime": 94,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1029,
+      "title": "Firestarter",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jJmIf22gwwQPAFJfZ6Tr1MwSpRg.jpg",
+      "year": 1999,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Katt Shea",
+      "description": "A horrible massacre strikes up after an outcast teenage girl is taunted by a group of high school jocks, all of them unaware of her cutthroat telekinetic powers.",
+      "runtime": 105,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1037,
+      "title": "The Rage: Carrie 2",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8pGYesuatPnMS8lhS4NvwiDjKbG.jpg",
+      "year": 1986,
+      "genres": [
+        "HORROR",
+        "ACTION",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Stephen King",
+      "description": "When a comet passes close to the earth, machines all over the world come alive and go on homicidal rampages. A group of people at a desolate truck stop are held hostage by a gang of murderous 18-wheelers. The frightened people set out to defeat the killer machines\u2026Or be killed by them.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1046,
+      "title": "Maximum Overdrive",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dQdIj2OYELhLzECWONY932wGRxA.jpg",
+      "year": 2024,
+      "genres": [
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Lowell Dean",
+      "description": "Lost in a world reclaimed by nature and overrun by mysterious creatures, Ethan, a young man with amnesia navigates the dangerous landscape in search of his lost love Emma.  His journey takes an unexpected turn when he encounters Mae, a hardened and eccentric survivor.  Together, Ethan and Mae face threats both human and otherwise before a fateful encounter with Kai unravels a secret that lies just beyond Ethan's fractured memory.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1054,
+      "title": "Die Alone",
       "ratingCount": 0
     }
-  ]
+  ],
+  "genre": "HORROR"
 }

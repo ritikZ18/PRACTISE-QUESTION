@@ -1,7 +1,7 @@
 import axios, { AxiosInstance } from 'axios';
-import { Movie, User, Rating, SearchFilters } from './types';
+import { Movie, User, Rating, SearchFilters, TrendingResponse } from './types';
 
-const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:8080/api';
+const API_BASE = (import.meta as any).env?.VITE_API_URL || 'http://localhost:8080/api';
 
 class MovieAPI {
   private client: AxiosInstance;
@@ -11,7 +11,6 @@ class MovieAPI {
       baseURL: API_BASE,
       headers: {
         'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': '*',
       },
     });
   }
@@ -38,19 +37,27 @@ class MovieAPI {
     feeling: string,
     filters?: Partial<SearchFilters>
   ): Promise<Movie[]> {
-    const params: any = { userId, feeling };
+    const params: any = { userId, feeling: feeling.trim() };
     if (filters?.minRating) params.minRating = filters.minRating;
     if (filters?.language) params.language = filters.language;
+    if (filters?.genres?.length) params.genres = filters.genres.join(',');
 
     const response = await this.client.get('/search', { params });
     return response.data;
   }
 
-  async getTrending(limit: number = 10): Promise<Movie[]> {
+  async getTrending(limit: number = 10): Promise<TrendingResponse> {
     const response = await this.client.get('/trending', {
       params: { limit },
     });
     return response.data;
+  }
+
+  async lookupPoster(title: string, year?: number, language: string = 'en-US'): Promise<string> {
+    const response = await this.client.get('/poster', {
+      params: { title, year, language },
+    });
+    return response.data?.posterUrl || '';
   }
 
   async getByMood(mood: string, limit: number = 10): Promise<Movie[]> {

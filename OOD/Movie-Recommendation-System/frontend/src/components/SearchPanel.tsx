@@ -3,17 +3,27 @@ import { GENRES } from '../types';
 import './SearchPanel.css';
 
 interface SearchPanelProps {
-  onSearch: (feeling: string, minRating: number, genres: string[]) => void;
+  onSearch: (feeling: string, minRating: number, genres: string[], language?: string) => void;
   isLoading: boolean;
+  availableLanguages?: string[];
 }
 
-export const SearchPanel: React.FC<SearchPanelProps> = ({ onSearch, isLoading }) => {
+export const SearchPanel: React.FC<SearchPanelProps> = ({ onSearch, isLoading, availableLanguages }) => {
   const [feeling, setFeeling] = useState('');
-  const [minRating, setMinRating] = useState(3);
+  const [minRating, setMinRating] = useState(0);
   const [selectedGenres, setSelectedGenres] = useState<string[]>([]);
+  const [language, setLanguage] = useState<string>('ANY');
 
-  const handleSearch = () => {
-    onSearch(feeling, minRating, selectedGenres);
+  const handleSearch = (event?: React.FormEvent) => {
+    event?.preventDefault();
+    onSearch(feeling, minRating, selectedGenres, language === 'ANY' ? undefined : language);
+  };
+
+  const handleFeelingKeyDown = (event: React.KeyboardEvent<HTMLTextAreaElement>) => {
+    if (event.key === 'Enter' && !event.shiftKey) {
+      event.preventDefault();
+      handleSearch();
+    }
   };
 
   const toggleGenre = (genre: string) => {
@@ -23,21 +33,25 @@ export const SearchPanel: React.FC<SearchPanelProps> = ({ onSearch, isLoading })
   };
 
   return (
-    <div className="search-panel">
-      <div className="feeling-box">
-        <label htmlFor="feeling">🎯 How are you feeling?</label>
-        <textarea
-          id="feeling"
-          placeholder="e.g., I want something mind-blowing and philosophical..."
-          value={feeling}
-          onChange={(e) => setFeeling(e.target.value)}
-          rows={3}
-        />
-        <p className="hint">✨ Try keywords like: happy, scary, exciting, relaxing, inspiring, sad...</p>
-      </div>
-
+    <form className="search-panel" onSubmit={handleSearch}>
       <div className="filters-section">
-        <h3>Filters</h3>
+        <div className="filters-head">
+          <h3>Search & Filters</h3>
+          <p className="filters-subtitle">One update button. Mix text + genres + rating + language.</p>
+        </div>
+
+        <div className="filter-group">
+          <label htmlFor="feeling">Mood / keywords</label>
+          <textarea
+            id="feeling"
+            placeholder="Try: romance hindi drama rating:4 fun"
+            value={feeling}
+            onChange={(e) => setFeeling(e.target.value)}
+            onKeyDown={handleFeelingKeyDown}
+            rows={3}
+          />
+          <p className="hint">Examples: romantic, scary, mind-blowing, relaxing, inspiring…</p>
+        </div>
 
         <div className="filter-group">
           <label>Minimum Rating</label>
@@ -55,29 +69,56 @@ export const SearchPanel: React.FC<SearchPanelProps> = ({ onSearch, isLoading })
         </div>
 
         <div className="filter-group">
+          <label>Language</label>
+          <select
+            className="language-select"
+            value={language}
+            onChange={(e) => setLanguage(e.target.value)}
+          >
+            <option value="ANY">Any</option>
+            {(availableLanguages?.length ? availableLanguages : ['en', 'hi', 'ja', 'ko', 'fr', 'es', 'ru', 'zh']).map((lang) => (
+              <option key={lang} value={lang}>
+                {lang.toUpperCase()}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <div className="filter-group">
           <label>Genres</label>
           <div className="genres-grid">
             {GENRES.map((genre) => (
-              <label key={genre} className="genre-checkbox">
-                <input
-                  type="checkbox"
-                  checked={selectedGenres.includes(genre)}
-                  onChange={() => toggleGenre(genre)}
-                />
-                <span>{genre}</span>
-              </label>
+              <button
+                key={genre}
+                type="button"
+                className={`genre-pill ${selectedGenres.includes(genre) ? 'active' : ''}`}
+                onClick={() => toggleGenre(genre)}
+              >
+                {genre}
+              </button>
             ))}
           </div>
         </div>
 
-        <button
-          className="search-button"
-          onClick={handleSearch}
-          disabled={isLoading}
-        >
-          {isLoading ? '🔄 Searching...' : '🔍 Find Movies'}
-        </button>
+        <div className="filters-actions">
+          <button className="search-button" type="submit" disabled={isLoading}>
+            {isLoading ? 'Updating…' : 'Update Results'}
+          </button>
+          <button
+            className="ghost-button"
+            type="button"
+            disabled={isLoading}
+            onClick={() => {
+              setFeeling('');
+              setMinRating(0);
+              setSelectedGenres([]);
+              setLanguage('ANY');
+            }}
+          >
+            Reset
+          </button>
+        </div>
       </div>
-    </div>
+    </form>
   );
 };

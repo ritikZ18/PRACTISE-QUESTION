@@ -306,7 +306,13 @@ public class JsonPersistence {
         List<Genre> genres = new ArrayList<>();
         JSONArray genreArray = obj.getJSONArray("genres");
         for (int i = 0; i < genreArray.length(); i++) {
-            genres.add(Genre.valueOf(genreArray.getString(i)));
+            String raw = genreArray.getString(i);
+            String norm = raw.trim().toUpperCase().replace('-', '_').replace(' ', '_');
+            try {
+                genres.add(Genre.valueOf(norm));
+            } catch (IllegalArgumentException e) {
+                System.err.println("Unknown genre skipped: " + raw);
+            }
         }
 
         return new Movie(
@@ -335,7 +341,13 @@ public class JsonPersistence {
         Set<Genre> genres = EnumSet.noneOf(Genre.class);
         JSONArray genreArray = obj.getJSONArray("preferredGenres");
         for (int i = 0; i < genreArray.length(); i++) {
-            genres.add(Genre.valueOf(genreArray.getString(i)));
+            String raw = genreArray.getString(i);
+            String norm = raw.trim().toUpperCase().replace('-', '_').replace(' ', '_');
+            try {
+                genres.add(Genre.valueOf(norm));
+            } catch (IllegalArgumentException e) {
+                System.err.println("Unknown preferred genre skipped for user: " + raw);
+            }
         }
 
         return new User(

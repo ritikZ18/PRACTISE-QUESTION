@@ -1,15 +1,17 @@
 import React, { useState } from 'react';
 import { Movie } from '../types';
 import { api } from '../api';
+import { LazyPoster } from './LazyPoster';
 import './MovieCard.css';
 
 interface MovieCardProps {
   movie: Movie;
   currentUserId: number;
   onRate?: (movieId: number, rating: number) => void;
+  compact?: boolean;
 }
 
-export const MovieCard: React.FC<MovieCardProps> = ({ movie, currentUserId, onRate }) => {
+export const MovieCard: React.FC<MovieCardProps> = ({ movie, currentUserId, onRate, compact }) => {
   const [rating, setRating] = useState<number | null>(null);
   const [isRating, setIsRating] = useState(false);
 
@@ -27,43 +29,62 @@ export const MovieCard: React.FC<MovieCardProps> = ({ movie, currentUserId, onRa
   };
 
   return (
-    <div className="movie-card">
+    <div className={`movie-card ${compact ? 'compact' : ''}`}>
       <div className="movie-poster">
-        <img
-          src={movie.posterUrl}
-          alt={movie.title}
-          onError={(e) => {
-            (e.target as HTMLImageElement).src = 'https://via.placeholder.com/300x450?text=' + encodeURIComponent(movie.title);
-          }}
-        />
+        <LazyPoster posterUrl={movie.posterUrl} title={movie.title} year={movie.year} language={movie.language} />
         <div className="movie-rating-badge">
-          <span className="rating-value">⭐ {movie.avgRating.toFixed(1)}</span>
-          <span className="rating-count">({movie.ratingCount})</span>
+          <span className="rating-value">
+            ⭐ {movie.ratingCount > 0 ? movie.avgRating.toFixed(1) : '—'}
+          </span>
+          {movie.ratingCount > 0 && <span className="rating-count">({movie.ratingCount})</span>}
         </div>
       </div>
 
       <div className="movie-info">
         <h3 className="movie-title">{movie.title}</h3>
-        <p className="movie-meta">
-          <span>{movie.year}</span>
-          <span>•</span>
-          <span>{movie.runtime} min</span>
-        </p>
+        {compact && (
+          <p className="movie-compact-meta">
+            <span>{movie.year || '—'}</span>
+            <span className="dot">•</span>
+            <span>{movie.ratingCount > 0 ? `⭐ ${movie.avgRating.toFixed(1)}` : '⭐ —'}</span>
+          </p>
+        )}
+        {!compact && (
+          <>
+            <p className="movie-meta">
+              <span>{movie.year || '—'}</span>
+              <span>•</span>
+              <span>{movie.runtime ? `${movie.runtime} min` : '—'}</span>
+            </p>
 
-        <p className="movie-director">{movie.director}</p>
+            {movie.director && <p className="movie-director">{movie.director}</p>}
+          </>
+        )}
 
         <div className="genres">
-          {movie.genres.slice(0, 2).map((genre) => (
+          {Array.from(new Set(movie.genres)).slice(0, compact ? 1 : 2).map((genre) => (
             <span key={genre} className="genre-tag">
               {genre}
             </span>
           ))}
-          {movie.genres.length > 2 && (
-            <span className="genre-tag more">+{movie.genres.length - 2}</span>
+          {!compact && movie.genres.length > 2 && (
+            <span className="genre-tag more">+{Array.from(new Set(movie.genres)).length - 2}</span>
           )}
         </div>
 
-        <p className="movie-description">{movie.description.substring(0, 100)}...</p>
+        {!compact && (
+          <p className="movie-description">
+            {(movie.description || '').substring(0, 120)}
+            {(movie.description || '').length > 120 ? '…' : ''}
+          </p>
+        )}
+
+        {compact && (
+          <p className="movie-compact-description">
+            {(movie.description || '').substring(0, 90)}
+            {(movie.description || '').length > 90 ? '…' : ''}
+          </p>
+        )}
 
         <div className="rating-stars">
           {[1, 2, 3, 4, 5].map((stars) => (

@@ -1,0 +1,1487 @@
+{
+  "movies": [
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+      "year": 2026,
+      "genres": [
+        "ADVENTURE",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Ric Roman Waugh",
+      "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 59,
+      "title": "Greenland 2: Migration",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "year": 2014,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Christopher Nolan",
+      "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "runtime": 169,
+      "language": "en",
+      "avgRating": 0,
+      "id": 60,
+      "title": "Interstellar",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "year": 2018,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Joe Russo",
+      "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "runtime": 149,
+      "language": "en",
+      "avgRating": 0,
+      "id": 68,
+      "title": "Avengers: Infinity War",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "year": 2019,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Joe Russo",
+      "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "runtime": 181,
+      "language": "en",
+      "avgRating": 0,
+      "id": 74,
+      "title": "Avengers: Endgame",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "year": 2019,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Joe Russo",
+      "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "runtime": 181,
+      "language": "en",
+      "avgRating": 0,
+      "id": 75,
+      "title": "Avengers: Endgame",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "year": 2017,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Rian Johnson",
+      "description": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+      "runtime": 152,
+      "language": "en",
+      "avgRating": 0,
+      "id": 84,
+      "title": "Star Wars: The Last Jedi",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "year": 2010,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Jon Favreau",
+      "description": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances \u2013 and confront powerful enemies.",
+      "runtime": 124,
+      "language": "en",
+      "avgRating": 0,
+      "id": 91,
+      "title": "Iron Man 2",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "year": 1977,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "George Lucas",
+      "description": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+      "runtime": 121,
+      "language": "en",
+      "avgRating": 0,
+      "id": 99,
+      "title": "Star Wars",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5scjQRQq4i0zpbfyvWJX8LFEWjt.jpg",
+      "year": 2025,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Jan Kounen",
+      "description": "Paul, is an ordinary man who divides his life between his shipbuilding company, his wife Elise and their daughter Mia. During a sea trip, Paul finds himself confronted with a strange, unexplained meteorological phenomenon. From then on, Paul shrinks inexorably, without science being able to explain why or be of any help to him. When, by accident, he finds himself a prisoner in his own cellar, and while he is only a few centimeters tall, he will have to fight to survive in this banal environment that has become perilous. During this experience, Paul will find himself confronted with himself, with his humanity, and will try to answer the great questions of existence.",
+      "runtime": 99,
+      "language": "fr",
+      "avgRating": 0,
+      "id": 105,
+      "title": "The Shrinking Man",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "year": 1985,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Robert Zemeckis",
+      "description": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+      "runtime": 116,
+      "language": "en",
+      "avgRating": 0,
+      "id": 112,
+      "title": "Back to the Future",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "year": 2018,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Steven Spielberg",
+      "description": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+      "runtime": 140,
+      "language": "en",
+      "avgRating": 0,
+      "id": 125,
+      "title": "Ready Player One",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "year": 2016,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Joe Russo",
+      "description": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+      "runtime": 147,
+      "language": "en",
+      "avgRating": 0,
+      "id": 127,
+      "title": "Captain America: Civil War",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "year": 2019,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "J.J. Abrams",
+      "description": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+      "runtime": 142,
+      "language": "en",
+      "avgRating": 0,
+      "id": 171,
+      "title": "Star Wars: The Rise of Skywalker",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "year": 2022,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Colin Trevorrow",
+      "description": "Four years after Isla Nublar was destroyed, dinosaurs now live\u2014and hunt\u2014alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+      "runtime": 147,
+      "language": "en",
+      "avgRating": 0,
+      "id": 183,
+      "title": "Jurassic World Dominion",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "year": 1980,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Irvin Kershner",
+      "description": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+      "runtime": 124,
+      "language": "en",
+      "avgRating": 0,
+      "id": 194,
+      "title": "The Empire Strikes Back",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "year": 2015,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "J.J. Abrams",
+      "description": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+      "runtime": 136,
+      "language": "en",
+      "avgRating": 0,
+      "id": 203,
+      "title": "Star Wars: The Force Awakens",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
+      "year": 2017,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Luc Besson",
+      "description": "In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.",
+      "runtime": 137,
+      "language": "en",
+      "avgRating": 0,
+      "id": 209,
+      "title": "Valerian and the City of a Thousand Planets",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+      "year": 2013,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Francis Lawrence",
+      "description": "After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.",
+      "runtime": 146,
+      "language": "en",
+      "avgRating": 0,
+      "id": 211,
+      "title": "The Hunger Games: Catching Fire",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
+      "year": 2003,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Lana Wachowski",
+      "description": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source.",
+      "runtime": 138,
+      "language": "en",
+      "avgRating": 0,
+      "id": 220,
+      "title": "The Matrix Reloaded",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+      "year": 1989,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Robert Zemeckis",
+      "description": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 223,
+      "title": "Back to the Future Part II",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+      "year": 2013,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Francis Lawrence",
+      "description": "After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.",
+      "runtime": 146,
+      "language": "en",
+      "avgRating": 0,
+      "id": 236,
+      "title": "The Hunger Games: Catching Fire",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+      "year": 1997,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Paul Verhoeven",
+      "description": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+      "runtime": 129,
+      "language": "en",
+      "avgRating": 0,
+      "id": 239,
+      "title": "Starship Troopers",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "year": 2005,
+      "genres": [
+        "ADVENTURE",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Steven Spielberg",
+      "description": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+      "runtime": 117,
+      "language": "en",
+      "avgRating": 0,
+      "id": 244,
+      "title": "War of the Worlds",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+      "year": 2005,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "George Lucas",
+      "description": "When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.",
+      "runtime": 140,
+      "language": "en",
+      "avgRating": 0,
+      "id": 247,
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+      "year": 2018,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "J. A. Bayona",
+      "description": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "runtime": 129,
+      "language": "en",
+      "avgRating": 0,
+      "id": 255,
+      "title": "Jurassic World: Fallen Kingdom",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+      "year": 1999,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "George Lucas",
+      "description": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+      "runtime": 136,
+      "language": "en",
+      "avgRating": 0,
+      "id": 269,
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kziYpr5Nfw60P0My8aj1sgCEqed.jpg",
+      "year": 2015,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Brad Bird",
+      "description": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as \"Tomorrowland.\"",
+      "runtime": 130,
+      "language": "en",
+      "avgRating": 0,
+      "id": 274,
+      "title": "Tomorrowland",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+      "year": 1997,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Paul Verhoeven",
+      "description": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+      "runtime": 129,
+      "language": "en",
+      "avgRating": 0,
+      "id": 286,
+      "title": "Starship Troopers",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg",
+      "year": 2003,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Lilly Wachowski",
+      "description": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+      "runtime": 129,
+      "language": "en",
+      "avgRating": 0,
+      "id": 292,
+      "title": "The Matrix Revolutions",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+      "year": 2023,
+      "genres": [
+        "ADVENTURE",
+        "ANIMATION",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Cal Brunker",
+      "description": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+      "runtime": 88,
+      "language": "en",
+      "avgRating": 0,
+      "id": 294,
+      "title": "PAW Patrol: The Mighty Movie",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "year": 1983,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Richard Marquand",
+      "description": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
+      "runtime": 132,
+      "language": "en",
+      "avgRating": 0,
+      "id": 298,
+      "title": "Return of the Jedi",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "year": 2005,
+      "genres": [
+        "ADVENTURE",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Steven Spielberg",
+      "description": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+      "runtime": 117,
+      "language": "en",
+      "avgRating": 0,
+      "id": 300,
+      "title": "War of the Worlds",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dKhexH8nS08lVlSmwSs00cHFxbY.jpg",
+      "year": 2011,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Greg Mottola",
+      "description": "For the past 60 years, a space-traveling smart-ass named Paul has been locked up in a top-secret military base, advising world leaders about his kind. But when he worries he\u2019s outlived his usefulness and the dissection table is drawing uncomfortably close, Paul escapes on the first RV that passes by his compound in Area 51. Fortunately, it contains the two earthlings who are most likely to rescue and harbor an alien on the run.",
+      "runtime": 104,
+      "language": "en",
+      "avgRating": 0,
+      "id": 308,
+      "title": "Paul",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg",
+      "year": 2010,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Joseph Kosinski",
+      "description": "Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father's disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world.",
+      "runtime": 126,
+      "language": "en",
+      "avgRating": 0,
+      "id": 311,
+      "title": "TRON: Legacy",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kziYpr5Nfw60P0My8aj1sgCEqed.jpg",
+      "year": 2015,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Brad Bird",
+      "description": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as \"Tomorrowland.\"",
+      "runtime": 130,
+      "language": "en",
+      "avgRating": 0,
+      "id": 335,
+      "title": "Tomorrowland",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
+      "year": 2002,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "George Lucas",
+      "description": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot into the heart of the Separatist movement and the beginning of the Clone Wars.",
+      "runtime": 142,
+      "language": "en",
+      "avgRating": 0,
+      "id": 343,
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+      "year": 1979,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "George Miller",
+      "description": "In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 344,
+      "title": "Mad Max",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "year": 1989,
+      "genres": [
+        "ADVENTURE",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "James Cameron",
+      "description": "A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.",
+      "runtime": 140,
+      "language": "en",
+      "avgRating": 0,
+      "id": 350,
+      "title": "The Abyss",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/okF78W1AcXAenlYFE3vna9Uuqjp.jpg",
+      "year": 2016,
+      "genres": [
+        "ADVENTURE",
+        "ANIMATION",
+        "DRAMA",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Mike Thurmeier",
+      "description": "Set after the events of Continental Drift, Scrat's epic pursuit of his elusive acorn catapults him outside of Earth, where he accidentally sets off a series of cosmic events that transform and threaten the planet. To save themselves from peril, Manny, Sid, Diego, and the rest of the herd leave their home and embark on a quest full of thrills and spills, highs and lows, laughter and adventure while traveling to exotic new lands and locations.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 356,
+      "title": "Ice Age: Collision Course",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg",
+      "year": 1995,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Kevin Reynolds",
+      "description": "In a futuristic world where the polar ice caps have melted and made Earth a liquid planet, a beautiful barmaid rescues a mutant seafarer from a floating island prison. They escape, along with her young charge, Enola, and sail off aboard his ship. But the trio soon becomes the target of a menacing pirate who covets the map to 'Dryland'\u2014which is tattooed on Enola's back.",
+      "runtime": 135,
+      "language": "en",
+      "avgRating": 0,
+      "id": 369,
+      "title": "Waterworld",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg",
+      "year": 1993,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Steven Spielberg",
+      "description": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+      "runtime": 127,
+      "language": "en",
+      "avgRating": 0,
+      "id": 375,
+      "title": "Jurassic Park",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mc9b25IAprHfsaOz0wTshOwGHcY.jpg",
+      "year": 2009,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Stephen Sommers",
+      "description": "From the Egyptian desert to deep below the polar ice caps, the elite G.I. JOE team uses the latest in next-generation spy and military equipment to fight the corrupt arms dealer Destro and the growing threat of the mysterious Cobra organization to prevent them from plunging the world into chaos.",
+      "runtime": 118,
+      "language": "en",
+      "avgRating": 0,
+      "id": 394,
+      "title": "G.I. Joe: The Rise of Cobra",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+      "year": 1990,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Robert Zemeckis",
+      "description": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+      "runtime": 119,
+      "language": "en",
+      "avgRating": 0,
+      "id": 404,
+      "title": "Back to the Future Part III",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "year": 1981,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "George Miller",
+      "description": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 410,
+      "title": "Mad Max 2",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+      "year": 2016,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Robert Schwentke",
+      "description": "Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.",
+      "runtime": 120,
+      "language": "en",
+      "avgRating": 0,
+      "id": 448,
+      "title": "Allegiant",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mc9b25IAprHfsaOz0wTshOwGHcY.jpg",
+      "year": 2009,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "Stephen Sommers",
+      "description": "From the Egyptian desert to deep below the polar ice caps, the elite G.I. JOE team uses the latest in next-generation spy and military equipment to fight the corrupt arms dealer Destro and the growing threat of the mysterious Cobra organization to prevent them from plunging the world into chaos.",
+      "runtime": 118,
+      "language": "en",
+      "avgRating": 0,
+      "id": 458,
+      "title": "G.I. Joe: The Rise of Cobra",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
+      "year": 2011,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Martin Campbell",
+      "description": "For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.",
+      "runtime": 114,
+      "language": "en",
+      "avgRating": 0,
+      "id": 479,
+      "title": "Green Lantern",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg",
+      "year": 2004,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "ACTION",
+        "HORROR"
+      ],
+      "director": "Paul W. S. Anderson",
+      "description": "When scientists discover something near Antarctica that appears to be a buried Pyramid, they send a research team out to investigate. Little do they know that they are about to step into a hunting ground where Aliens are grown as sport for the Predator race.",
+      "runtime": 101,
+      "language": "en",
+      "avgRating": 0,
+      "id": 488,
+      "title": "AVP: Alien vs. Predator",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
+      "year": 2026,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Ridley Scott",
+      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+      "runtime": 0,
+      "language": "en",
+      "avgRating": 0,
+      "id": 502,
+      "title": "The Dog Stars",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
+      "year": 2020,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Michael Matthews",
+      "description": "Seven years since the Monsterpocalypse began, Joel Dawson has been living underground in order to survive. But after reconnecting over radio with his high school girlfriend Aimee, Joel decides to venture out to reunite with her, despite all the dangerous monsters that stand in his way.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 511,
+      "title": "Love and Monsters",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cOPhayPb0YzO8GfC4sNmntV9FWE.jpg",
+      "year": 2013,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "ANIMATION",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Yukiyo Teramoto",
+      "description": "Doraemon and his friends travel to the 22nd century to look for his golden bell, which was stolen by a notorious thief called Kaito DX.",
+      "runtime": 104,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 566,
+      "title": "Doraemon: Nobita's Secret Gadget Museum",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
+      "year": 2020,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Michael Matthews",
+      "description": "Seven years since the Monsterpocalypse began, Joel Dawson has been living underground in order to survive. But after reconnecting over radio with his high school girlfriend Aimee, Joel decides to venture out to reunite with her, despite all the dangerous monsters that stand in his way.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 571,
+      "title": "Love and Monsters",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
+      "year": 1954,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Richard Fleischer",
+      "description": "A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.",
+      "runtime": 127,
+      "language": "en",
+      "avgRating": 0,
+      "id": 605,
+      "title": "20,000 Leagues Under the Sea",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eanTANOpYFy2Ir692wqUwdeZS6T.jpg",
+      "year": 2025,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI"
+      ],
+      "director": "Li Kelong",
+      "description": "Ke Huan is a talented and dreamy painter, but in this \"era of hype by all\", he became a joke in Tangzhuang, a painter village, because he was busy painting. Just when he couldn't pay the rent, was bullied by his peers, and his girlfriend was stolen by his rival, an alien changed his fate! With the help of \"it\"'s superpowers, the protagonist Ke Huan drove a luxury car, lived in a luxury house, held his dream exhibition, became a hot painter, and reached the peak of his life! The arrival of \"it\" also caused trouble everywhere, shocked the world, and caused panic among the people. The police, opponents, and even aliens came to the door one after another.",
+      "runtime": 0,
+      "language": "zh",
+      "avgRating": 0,
+      "id": 606,
+      "title": "King of Painting",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/A1nOnrAlG3EbOvzgZt2ya11OmjQ.jpg",
+      "year": 1998,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Stephen Sommers",
+      "description": "A group of heavily armed hijackers board a luxury ocean liner in the South Pacific Ocean to loot it, only to do battle with a series of large-sized, tentacled, man-eating sea creatures who have taken over the ship first.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 615,
+      "title": "Deep Rising",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
+      "year": 2026,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Ridley Scott",
+      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+      "runtime": 0,
+      "language": "en",
+      "avgRating": 0,
+      "id": 619,
+      "title": "The Dog Stars",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
+      "year": 1989,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Joe Johnston",
+      "description": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 626,
+      "title": "Honey, I Shrunk the Kids",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
+      "year": 1954,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Richard Fleischer",
+      "description": "A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.",
+      "runtime": 127,
+      "language": "en",
+      "avgRating": 0,
+      "id": 635,
+      "title": "20,000 Leagues Under the Sea",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/A1nOnrAlG3EbOvzgZt2ya11OmjQ.jpg",
+      "year": 1998,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "HORROR",
+        "SCI_FI"
+      ],
+      "director": "Stephen Sommers",
+      "description": "A group of heavily armed hijackers board a luxury ocean liner in the South Pacific Ocean to loot it, only to do battle with a series of large-sized, tentacled, man-eating sea creatures who have taken over the ship first.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 644,
+      "title": "Deep Rising",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
+      "year": 1989,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Joe Johnston",
+      "description": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 649,
+      "title": "Honey, I Shrunk the Kids",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/szHCeYwi4ubewuYnlnz0YGqWnQC.jpg",
+      "year": 1970,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Ted Post",
+      "description": "The sole survivor of an interplanetary rescue mission lands on the planet of the apes, and uncovers a horrible secret beneath the surface.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 670,
+      "title": "Beneath the Planet of the Apes",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1P7w3AImoEOWJX7nn3fdaKDfEQA.jpg",
+      "year": 2007,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Michael Bay",
+      "description": "Young teenager Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots \u2013 the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it.",
+      "runtime": 144,
+      "language": "en",
+      "avgRating": 0,
+      "id": 685,
+      "title": "Transformers",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/thz83PS9twtVBEEAM59J1bh75nU.jpg",
+      "year": 2001,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "ANIMATION",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Kunihiko Yuyama",
+      "description": "In order to escape a greedy Pokémon hunter, Celebi must use the last of its energy to travel through time to the present day. Celebi brings along Sammy, a boy who had been trying to protect it. Along with Ash, Pikachu, and the rest of the gang, Sammy and Celebi must encounter an enemy far more advanced than the hunter, with the fate of the forest hanging in the balance.",
+      "runtime": 80,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 711,
+      "title": "Pokémon 4Ever",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qufo7G0OTQs1hMtO7B5axnCdm4E.jpg",
+      "year": 2002,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "David Wu",
+      "description": "Since a bitter winter storm stole the life of Gerda's mother, she and her father have sadly continued to run the remote hotel they call home. Lonely and isolated, Gerda's only joy is Kai, the handsome bellboy. A mysterious guest with an icy stare arrives at the hotel one night, wrapped in fur and diamonds. By daybreak, the \"Snow Queen\" has vanished with Kai! Gerda embarks on a journey of morphing seasons, fantastical creatures, and long-frozen mysteries in a desperate quest to find her stolen love.",
+      "runtime": 180,
+      "language": "en",
+      "avgRating": 0,
+      "id": 724,
+      "title": "Snow Queen",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/47b1EwFqqSWxYna7NtUM7iML4oT.jpg",
+      "year": 2001,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "DRAMA",
+        "SCI_FI",
+        "ANIMATION"
+      ],
+      "director": "Hironobu Sakaguchi",
+      "description": "Led by a strange dream, scientist Aki Ross struggles to collect the eight spirits in the hope of creating a force powerful enough to protect the planet. With the aid of the Deep Eyes Squadron and her mentor, Dr. Sid, Aki must save the Earth from its darkest hate and unleash the spirits within.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 743,
+      "title": "Final Fantasy: The Spirits Within",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/extm7kFsxr0qMoi1G5F3w5Lwlt4.jpg",
+      "year": 1989,
+      "genres": [
+        "ADVENTURE",
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "George P. Cosmatos",
+      "description": "Underwater deep-sea miners encounter a Soviet wreck and bring back a dangerous cargo to their base on the ocean floor with horrifying results. The crew of the mining base must fight to survive against a genetic mutation that hunts them down one by one.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 767,
+      "title": "Leviathan",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/reNPMjkPg9f6wgf6kHSSkKjBarL.jpg",
+      "year": 1997,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "ANIMATION",
+        "SCI_FI"
+      ],
+      "director": "Osamu Kasai",
+      "description": "Son Goku Jr. is the great-great-grandson of the legendary martial artist Son Goku. However, unlike his predecessor he's not a brave fighter. He's constantly picked on by school bullies, his grandmother Pan sees this and she's worried, but even though Goku Jr. is not a strong and powerful Saiyan, he has a kind heart, and Pan loves him. When Pan gets sick Goku Jr. realizes he must do something if he doesn't want to lose Pan. Then he will remember about the legends of the Dragon Balls. It was told they granted a wish to the bearer, Goku Jr. needs a magical wish more than ever.",
+      "runtime": 45,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 788,
+      "title": "Dragon Ball GT: A Hero's Legacy",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/extm7kFsxr0qMoi1G5F3w5Lwlt4.jpg",
+      "year": 1989,
+      "genres": [
+        "ADVENTURE",
+        "HORROR",
+        "THRILLER",
+        "SCI_FI"
+      ],
+      "director": "George P. Cosmatos",
+      "description": "Underwater deep-sea miners encounter a Soviet wreck and bring back a dangerous cargo to their base on the ocean floor with horrifying results. The crew of the mining base must fight to survive against a genetic mutation that hunts them down one by one.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 852,
+      "title": "Leviathan",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jY2c8s4s8YyGxuxX8ymmzGUdnwZ.jpg",
+      "year": 2008,
+      "genres": [
+        "ADVENTURE",
+        "ANIMATION",
+        "DRAMA",
+        "COMEDY",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Ayumu Watanabe",
+      "description": "A sapling Nobita discovers is turned into a plant-boy with help from Doraemon, and becomes Earth's only hope at passing judgment from the dryadic aliens of the Green Planet.",
+      "runtime": 112,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 861,
+      "title": "Doraemon: Nobita and the Green Giant Legend",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/thz83PS9twtVBEEAM59J1bh75nU.jpg",
+      "year": 2001,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "ANIMATION",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Kunihiko Yuyama",
+      "description": "In order to escape a greedy Pokémon hunter, Celebi must use the last of its energy to travel through time to the present day. Celebi brings along Sammy, a boy who had been trying to protect it. Along with Ash, Pikachu, and the rest of the gang, Sammy and Celebi must encounter an enemy far more advanced than the hunter, with the fate of the forest hanging in the balance.",
+      "runtime": 80,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 865,
+      "title": "Pokémon 4Ever",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xpFbHSkRgOxOoutKqXob9T8iBPA.jpg",
+      "year": 2005,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Robert Rodriguez",
+      "description": "Everyone always knew that Max had a wild imagination, but no one believed that his wildest creations -- a boy raised by watchful great white sharks and a girl with the force of a volcano -- were real. Now, these two pint-sized action masters will show Max that even an ordinary kid has what it takes to be extraordinary.",
+      "runtime": 92,
+      "language": "en",
+      "avgRating": 0,
+      "id": 869,
+      "title": "The Adventures of Sharkboy and Lavagirl",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/A5FBQplPsSVVvdYn4NHgtWYF8un.jpg",
+      "year": 2000,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Danny Leiner",
+      "description": "Two stoners wake up after a night of partying and cannot remember where they parked their car.",
+      "runtime": 83,
+      "language": "en",
+      "avgRating": 0,
+      "id": 873,
+      "title": "Dude, Where's My Car?",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/foZpSG88IQUCEBJE3unc5QzO6bQ.jpg",
+      "year": 2001,
+      "genres": [
+        "ADVENTURE",
+        "ANIMATION",
+        "ACTION",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Bobby Farrelly",
+      "description": "A white blood cell policeman, with the help of a cold pill, must stop a deadly virus from destroying the human they live in, Frank.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 896,
+      "title": "Osmosis Jones",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/A5FBQplPsSVVvdYn4NHgtWYF8un.jpg",
+      "year": 2000,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Danny Leiner",
+      "description": "Two stoners wake up after a night of partying and cannot remember where they parked their car.",
+      "runtime": 83,
+      "language": "en",
+      "avgRating": 0,
+      "id": 931,
+      "title": "Dude, Where's My Car?",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/foZpSG88IQUCEBJE3unc5QzO6bQ.jpg",
+      "year": 2001,
+      "genres": [
+        "ADVENTURE",
+        "ANIMATION",
+        "ACTION",
+        "COMEDY",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Bobby Farrelly",
+      "description": "A white blood cell policeman, with the help of a cold pill, must stop a deadly virus from destroying the human they live in, Frank.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 944,
+      "title": "Osmosis Jones",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+      "year": 1989,
+      "genres": [
+        "ADVENTURE",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Stephen Herek",
+      "description": "Bill and Ted are high school buddies starting a band. They are also about to fail their history class\u2014which means Ted would be sent to military school\u2014but receive help from Rufus, a traveller from a future where their band is the foundation for a perfect society. With the use of Rufus' time machine, Bill and Ted travel to various points in history, returning with important figures to help them complete their final history presentation.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 951,
+      "title": "Bill & Ted's Excellent Adventure",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/llnI8LlA0ct9HILRgUHd70xoTwh.jpg",
+      "year": 2016,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Charles Barker",
+      "description": "When a group of elite online gamers each receive a mysterious invitation to trial a state-of-the-art virtual reality video game, it\u2019s a dream come true and impossible to resist. Arriving at the test site, the group step into hi-tech gear and prepare for a revolutionary, next-level gaming experience that brings modern warfare to life with frightening realism. At first it\u2019s a unique and exhilarating experience. But what starts out like a dream encounter with cutting edge technology quickly takes a turn for the sinister. Once the group are attacked by enemy combatants, they soon realize this is no game after all. Make a mistake here and you pay with your life. Now these masters of the shoot \u2018em up will have to fight for survival within a game gone bad, but this time it\u2019s for real.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 953,
+      "title": "The Call Up",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7RvBQOTZGhCoPvLiF3Ugp2Q94Ux.jpg",
+      "year": 2011,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "ANIMATION",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Kazuya Murata",
+      "description": "A fugitive alchemist with mysterious abilities leads the Elric brothers to a distant valley of slums inhabited by the Milos, a proud people struggling against bureaucratic exploitation. Ed and Al quickly find themselves in the middle of a rising rebellion, as the exiled Milos lash out against their oppressors. At the heart of the conflict is Julia, a young alchemist befriended by Alphonse. She'll stop at nothing to restore the Milos to their former glory \u2013 even if that means harnessing the awful power of the mythical Philosopher's Stone.",
+      "runtime": 110,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 964,
+      "title": "Fullmetal Alchemist: The Sacred Star of Milos",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xpFbHSkRgOxOoutKqXob9T8iBPA.jpg",
+      "year": 2005,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "SCI_FI"
+      ],
+      "director": "Robert Rodriguez",
+      "description": "Everyone always knew that Max had a wild imagination, but no one believed that his wildest creations -- a boy raised by watchful great white sharks and a girl with the force of a volcano -- were real. Now, these two pint-sized action masters will show Max that even an ordinary kid has what it takes to be extraordinary.",
+      "runtime": 92,
+      "language": "en",
+      "avgRating": 0,
+      "id": 969,
+      "title": "The Adventures of Sharkboy and Lavagirl",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ciVSbFmDecOIwlxl9F6GhHVgCVJ.jpg",
+      "year": 1999,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "ACTION",
+        "COMEDY",
+        "SCI_FI"
+      ],
+      "director": "Kinka Usher",
+      "description": "When Champion City's hero Captain Amazing is kidnapped by the recently paroled supervillain Casanova Frankenstein, a trio of average, everyday superheroes -- Mr. Furious, the Shoveler and the Blue Raja -- assemble a new super team to save him.",
+      "runtime": 121,
+      "language": "en",
+      "avgRating": 0,
+      "id": 987,
+      "title": "Mystery Men",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qwC3rbgCI0frJpRxVm74Ak3ktpU.jpg",
+      "year": 2011,
+      "genres": [
+        "ADVENTURE",
+        "ACTION",
+        "SCI_FI"
+      ],
+      "director": "Anubhav Sinha",
+      "description": "When the titular antagonist of an action game takes on physical form, it's up to the game's less powerful protagonist to save the world.",
+      "runtime": 156,
+      "language": "hi",
+      "avgRating": 0,
+      "id": 995,
+      "title": "Ra.One",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5RBZsOKMMxnp8L6UmOiylKOw4yo.jpg",
+      "year": 2009,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI",
+        "THRILLER",
+        "ACTION"
+      ],
+      "director": "Andy Fickman",
+      "description": "A taxi driver gets more than he bargained for when he picks up two teen runaways. Not only does the pair possess supernatural powers, but they're also trying desperately to escape people who have made them their targets.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 997,
+      "title": "Race to Witch Mountain",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hVCJzmK9l5FD01LFYAB1zcmmw7s.jpg",
+      "year": 2009,
+      "genres": [
+        "ADVENTURE",
+        "SCI_FI",
+        "COMEDY",
+        "ACTION"
+      ],
+      "director": "Brad Silberling",
+      "description": "On his latest expedition, has-been scientist Dr. Rick Marshall is sucked into a space-time vortex alongside his crack-smart research assistant Holly and redneck survivalist Will into a world populated by marauding dinosaurs and painfully slow creatures called Sleestaks. With no weapons, few skills and questionable smarts, the trio must rely on their only ally, a primate named Chaka, to try to survive long enough to figure out a way back home.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 999,
+      "title": "Land of the Lost",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qufo7G0OTQs1hMtO7B5axnCdm4E.jpg",
+      "year": 2002,
+      "genres": [
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "David Wu",
+      "description": "Since a bitter winter storm stole the life of Gerda's mother, she and her father have sadly continued to run the remote hotel they call home. Lonely and isolated, Gerda's only joy is Kai, the handsome bellboy. A mysterious guest with an icy stare arrives at the hotel one night, wrapped in fur and diamonds. By daybreak, the \"Snow Queen\" has vanished with Kai! Gerda embarks on a journey of morphing seasons, fantastical creatures, and long-frozen mysteries in a desperate quest to find her stolen love.",
+      "runtime": 180,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1042,
+      "title": "Snow Queen",
+      "ratingCount": 0
+    }
+  ],
+  "genre": "ADVENTURE"
+}

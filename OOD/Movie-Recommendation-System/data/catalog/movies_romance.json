@@ -1,57 +1,120 @@
 {
-  "genre": "ROMANCE",
   "movies": [
     {
-      "id": 17,
-      "title": "The Notebook",
+      "posterUrl": "https://via.placeholder.com/300x450?text=The+Notebook",
       "year": 2004,
       "director": "Nick Cassavetes",
-      "genres": ["ROMANCE", "DRAMA"],
+      "genres": [
+        "ROMANCE",
+        "DRAMA"
+      ],
       "runtime": 123,
-      "language": "English",
       "description": "A poor yet passionate man falls in love with a rich young woman, giving her a sense of freedom.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=The+Notebook",
+      "language": "English",
       "avgRating": 4.2,
+      "id": 17,
+      "title": "The Notebook",
       "ratingCount": 0
     },
     {
-      "id": 24,
-      "title": "La La Land",
+      "posterUrl": "https://via.placeholder.com/300x450?text=La+La+Land",
       "year": 2016,
       "director": "Damien Chazelle",
-      "genres": ["ROMANCE", "DRAMA"],
+      "genres": [
+        "ROMANCE",
+        "DRAMA"
+      ],
       "runtime": 128,
-      "language": "English",
       "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while pursuing their dreams.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=La+La+Land",
+      "language": "English",
       "avgRating": 4.4,
+      "id": 24,
+      "title": "La La Land",
       "ratingCount": 0
     },
     {
-      "id": 33,
-      "title": "Pride and Prejudice",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Pride+Prejudice",
       "year": 2005,
       "director": "Joe Wright",
-      "genres": ["ROMANCE", "DRAMA"],
+      "genres": [
+        "ROMANCE",
+        "DRAMA"
+      ],
       "runtime": 127,
-      "language": "English",
       "description": "Spanning from 1811 to 1817, the six Bennet sisters from Longbourn estate seek advantageous marriages.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Pride+Prejudice",
+      "language": "English",
       "avgRating": 4.3,
+      "id": 33,
+      "title": "Pride and Prejudice",
       "ratingCount": 0
     },
     {
-      "id": 41,
-      "title": "Titanic",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Titanic",
       "year": 1997,
       "director": "James Cameron",
-      "genres": ["ROMANCE", "DRAMA"],
+      "genres": [
+        "ROMANCE",
+        "DRAMA"
+      ],
       "runtime": 194,
-      "language": "English",
       "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
-      "posterUrl": "https://via.placeholder.com/300x450?text=Titanic",
+      "language": "English",
       "avgRating": 4.3,
+      "id": 41,
+      "title": "Titanic",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "year": 2025,
+      "genres": [
+        "ROMANCE",
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Scott Derrickson",
+      "description": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+      "runtime": 128,
+      "language": "en",
+      "avgRating": 0,
+      "id": 76,
+      "title": "The Gorge",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "year": 2013,
+      "genres": [
+        "ROMANCE",
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Spike Jonze",
+      "description": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+      "runtime": 126,
+      "language": "en",
+      "avgRating": 0,
+      "id": 168,
+      "title": "Her",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/dHEuGKZBkEx4RcaVV8rYahORNPA.jpg",
+      "year": 2026,
+      "genres": [
+        "ROMANCE",
+        "SCI_FI",
+        "COMEDY"
+      ],
+      "director": "Vignesh Shivan",
+      "description": "In 2040, an app premised on ensuring romance for all is used widely by the population. When the voice behind the app's AI realizes its misconception to true love, he embarks on a quest to prove that love does not come from a screen.",
+      "runtime": 157,
+      "language": "ta",
+      "avgRating": 0,
+      "id": 358,
+      "title": "Love Insurance Kompany",
       "ratingCount": 0
     }
-  ]
+  ],
+  "genre": "ROMANCE"
 }

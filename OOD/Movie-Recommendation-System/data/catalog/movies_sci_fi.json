@@ -1,0 +1,4350 @@
+{
+  "movies": [
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "James Cameron",
+      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "runtime": 198,
+      "language": "en",
+      "avgRating": 0,
+      "id": 55,
+      "title": "Avatar: Fire and Ash",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Phil Lord",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "runtime": 157,
+      "language": "en",
+      "avgRating": 0,
+      "id": 56,
+      "title": "Project Hail Mary",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Rich Lee",
+      "description": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 61,
+      "title": "War of the Worlds",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "year": 2012,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Joss Whedon",
+      "description": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "runtime": 143,
+      "language": "en",
+      "avgRating": 0,
+      "id": 66,
+      "title": "The Avengers",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Gareth Edwards",
+      "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+      "runtime": 134,
+      "language": "en",
+      "avgRating": 0,
+      "id": 70,
+      "title": "Jurassic World Rebirth",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "DRAMA"
+      ],
+      "director": "Maggie Gyllenhaal",
+      "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+      "runtime": 127,
+      "language": "en",
+      "avgRating": 0,
+      "id": 71,
+      "title": "The Bride!",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "THRILLER"
+      ],
+      "director": "SK Dale",
+      "description": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+      "runtime": 105,
+      "language": "en",
+      "avgRating": 0,
+      "id": 73,
+      "title": "Subservience",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "year": 2009,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "James Cameron",
+      "description": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "runtime": 162,
+      "language": "en",
+      "avgRating": 0,
+      "id": 78,
+      "title": "Avatar",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER",
+        "CRIME"
+      ],
+      "director": "Timur Bekmambetov",
+      "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 79,
+      "title": "Mercy",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "COMEDY"
+      ],
+      "director": "Gore Verbinski",
+      "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intelligence.",
+      "runtime": 134,
+      "language": "en",
+      "avgRating": 0,
+      "id": 80,
+      "title": "Good Luck, Have Fun, Don't Die",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pspkSVP39NGa6G2rvK5KlMjvYUe.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Destin Daniel Cretton",
+      "description": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city \u2014 a full-time Spider-Man \u2014 but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.",
+      "runtime": 0,
+      "language": "en",
+      "avgRating": 0,
+      "id": 82,
+      "title": "Spider-Man: Brand New Day",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Kelly Marcel",
+      "description": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 89,
+      "title": "Venom: The Last Dance",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "year": 2004,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ROMANCE"
+      ],
+      "director": "Michel Gondry",
+      "description": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 93,
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "HORROR"
+      ],
+      "director": "William Kaufman",
+      "description": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 97,
+      "title": "Osiris",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Denis Villeneuve",
+      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "runtime": 155,
+      "language": "en",
+      "avgRating": 0,
+      "id": 98,
+      "title": "Dune",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/abqOz6EL3yXyOOafCPZxjL1M5bQ.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Matt Shakman",
+      "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 100,
+      "title": "The Fantastic 4: First Steps",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Denis Villeneuve",
+      "description": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "runtime": 167,
+      "language": "en",
+      "avgRating": 0,
+      "id": 106,
+      "title": "Dune: Part Two",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+      "year": 1978,
+      "genres": [
+        "SCI_FI",
+        "HORROR"
+      ],
+      "director": "Philip Kaufman",
+      "description": "The residents of San Francisco are becoming drone-like shadows of their former selves, and as the phenomenon spreads, two Department of Health workers uncover the horrifying truth.",
+      "runtime": 116,
+      "language": "en",
+      "avgRating": 0,
+      "id": 109,
+      "title": "Invasion of the Body Snatchers",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "year": 2017,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Denis Villeneuve",
+      "description": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+      "runtime": 164,
+      "language": "en",
+      "avgRating": 0,
+      "id": 111,
+      "title": "Blade Runner 2049",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "HORROR"
+      ],
+      "director": "Brad Anderson",
+      "description": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 113,
+      "title": "Worldbreaker",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+      "year": 1987,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "John McTiernan",
+      "description": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 116,
+      "title": "Predator",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "HORROR"
+      ],
+      "director": "Francis Lawrence",
+      "description": "In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 126,
+      "title": "The Long Walk",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Ruben Fleischer",
+      "description": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+      "runtime": 112,
+      "language": "en",
+      "avgRating": 0,
+      "id": 128,
+      "title": "Venom",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Joachim Rønning",
+      "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+      "runtime": 119,
+      "language": "en",
+      "avgRating": 0,
+      "id": 130,
+      "title": "TRON: Ares",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Joe Russo",
+      "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+      "runtime": 0,
+      "language": "en",
+      "avgRating": 0,
+      "id": 132,
+      "title": "Avengers: Doomsday",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "year": 1968,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ADVENTURE"
+      ],
+      "director": "Stanley Kubrick",
+      "description": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+      "runtime": 149,
+      "language": "en",
+      "avgRating": 0,
+      "id": 133,
+      "title": "2001: A Space Odyssey",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Joachim Rønning",
+      "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+      "runtime": 119,
+      "language": "en",
+      "avgRating": 0,
+      "id": 136,
+      "title": "TRON: Ares",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "year": 1968,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ADVENTURE"
+      ],
+      "director": "Stanley Kubrick",
+      "description": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+      "runtime": 149,
+      "language": "en",
+      "avgRating": 0,
+      "id": 143,
+      "title": "2001: A Space Odyssey",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "James Gunn",
+      "description": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "runtime": 150,
+      "language": "en",
+      "avgRating": 0,
+      "id": 145,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "year": 2015,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ADVENTURE"
+      ],
+      "director": "Ridley Scott",
+      "description": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+      "runtime": 141,
+      "language": "en",
+      "avgRating": 0,
+      "id": 148,
+      "title": "The Martian",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "year": 2017,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "James Gunn",
+      "description": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+      "runtime": 137,
+      "language": "en",
+      "avgRating": 0,
+      "id": 149,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "COMEDY"
+      ],
+      "director": "Yorgos Lanthimos",
+      "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+      "runtime": 119,
+      "language": "en",
+      "avgRating": 0,
+      "id": 160,
+      "title": "Bugonia",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "year": 1982,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "THRILLER"
+      ],
+      "director": "Ridley Scott",
+      "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "runtime": 118,
+      "language": "en",
+      "avgRating": 0,
+      "id": 162,
+      "title": "Blade Runner",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+      "year": 2014,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Francis Lawrence",
+      "description": "After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resistance, she must navigate fragile alliances while trying to protect those she loves. As propaganda battles rage and Panem moves closer to full-scale war, Katniss is forced to confront the true cost of revolution.",
+      "runtime": 123,
+      "language": "en",
+      "avgRating": 0,
+      "id": 165,
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "year": 2008,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Louis Leterrier",
+      "description": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+      "runtime": 114,
+      "language": "en",
+      "avgRating": 0,
+      "id": 175,
+      "title": "The Incredible Hulk",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "ACTION"
+      ],
+      "director": "Takashi Yamazaki",
+      "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "runtime": 125,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 176,
+      "title": "Godzilla Minus One",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "year": 1971,
+      "genres": [
+        "SCI_FI",
+        "CRIME"
+      ],
+      "director": "Stanley Kubrick",
+      "description": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+      "runtime": 137,
+      "language": "en",
+      "avgRating": 0,
+      "id": 178,
+      "title": "A Clockwork Orange",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg",
+      "year": 2016,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Bryan Singer",
+      "description": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+      "runtime": 144,
+      "language": "en",
+      "avgRating": 0,
+      "id": 179,
+      "title": "X-Men: Apocalypse",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Andrew Stanton",
+      "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
+      "runtime": 94,
+      "language": "en",
+      "avgRating": 0,
+      "id": 185,
+      "title": "In the Blink of an Eye",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "HORROR"
+      ],
+      "director": "Gerard Johnstone",
+      "description": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 191,
+      "title": "M3GAN",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg",
+      "year": 2015,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Alan Taylor",
+      "description": "The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.",
+      "runtime": 126,
+      "language": "en",
+      "avgRating": 0,
+      "id": 197,
+      "title": "Terminator Genisys",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "year": 1971,
+      "genres": [
+        "SCI_FI",
+        "CRIME"
+      ],
+      "director": "Stanley Kubrick",
+      "description": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+      "runtime": 137,
+      "language": "en",
+      "avgRating": 0,
+      "id": 198,
+      "title": "A Clockwork Orange",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Andrew Stanton",
+      "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life.",
+      "runtime": 94,
+      "language": "en",
+      "avgRating": 0,
+      "id": 199,
+      "title": "In the Blink of an Eye",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Kim Byung-woo",
+      "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line.",
+      "runtime": 107,
+      "language": "ko",
+      "avgRating": 0,
+      "id": 208,
+      "title": "The Great Flood",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Andy Serkis",
+      "description": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+      "runtime": 97,
+      "language": "en",
+      "avgRating": 0,
+      "id": 213,
+      "title": "Venom: Let There Be Carnage",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Gareth Edwards",
+      "description": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war\u2014and mankind itself.",
+      "runtime": 134,
+      "language": "en",
+      "avgRating": 0,
+      "id": 214,
+      "title": "The Creator",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg",
+      "year": 2009,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "J.J. Abrams",
+      "description": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+      "runtime": 127,
+      "language": "en",
+      "avgRating": 0,
+      "id": 219,
+      "title": "Star Trek",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "ROMANCE",
+        "COMEDY"
+      ],
+      "director": "Yorgos Lanthimos",
+      "description": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+      "runtime": 141,
+      "language": "en",
+      "avgRating": 0,
+      "id": 224,
+      "title": "Poor Things",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
+      "year": 2014,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Michael Bay",
+      "description": "As humanity picks up the pieces after the battle of Chicago, a shadowy group reveals itself in an attempt to control the direction of history\u2026while an ancient, powerful new menace sets Earth in its crosshairs. With help from Cade Yeager, Optimus Prime and the Autobots rise to meet their most fearsome challenge yet.",
+      "runtime": 165,
+      "language": "en",
+      "avgRating": 0,
+      "id": 229,
+      "title": "Transformers: Age of Extinction",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "year": 1982,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Steven Spielberg",
+      "description": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 232,
+      "title": "E.T. the Extra-Terrestrial",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "year": 1995,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Terry Gilliam",
+      "description": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+      "runtime": 129,
+      "language": "en",
+      "avgRating": 0,
+      "id": 235,
+      "title": "Twelve Monkeys",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ea5iv7TWMh18fOKoRGgmtcg85Gx.jpg",
+      "year": 2004,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Eric Bress",
+      "description": "A young man struggles to access sublimated childhood memories. He finds a technique that allows him to travel back into the past, to occupy his childhood body and change history. However, he soon finds that every change he makes has unexpected consequences.",
+      "runtime": 113,
+      "language": "en",
+      "avgRating": 0,
+      "id": 242,
+      "title": "The Butterfly Effect",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wdniP8NDaJIydi1hMxhpbJMUfr6.jpg",
+      "year": 2010,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Nimród Antal",
+      "description": "A group of cold-blooded killers find themselves trapped on an alien planet to be hunted by extraterrestrial Predators.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 249,
+      "title": "Predators",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Wes Ball",
+      "description": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+      "runtime": 143,
+      "language": "en",
+      "avgRating": 0,
+      "id": 252,
+      "title": "Maze Runner: The Death Cure",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "year": 1982,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Steven Spielberg",
+      "description": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 253,
+      "title": "E.T. the Extra-Terrestrial",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+      "year": 2012,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "HORROR"
+      ],
+      "director": "Ridley Scott",
+      "description": "A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.",
+      "runtime": 124,
+      "language": "en",
+      "avgRating": 0,
+      "id": 254,
+      "title": "Prometheus",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",
+      "year": 2015,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER",
+        "ADVENTURE"
+      ],
+      "director": "Wes Ball",
+      "description": "Thomas and his fellow Gladers face their greatest challenge yet: searching for clues about the mysterious and powerful organization known as WCKD. Their journey takes them to the Scorch, a desolate landscape filled with unimaginable obstacles. Teaming up with resistance fighters, the Gladers take on WCKD\u2019s vastly superior forces and uncover its shocking plans for them all.",
+      "runtime": 131,
+      "language": "en",
+      "avgRating": 0,
+      "id": 256,
+      "title": "Maze Runner: The Scorch Trials",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cT5m5m9X6hNbUrx7kUTsedAMivW.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Ang Lee",
+      "description": "Henry Brogan is an elite 51-year-old assassin who's ready to call it quits after completing his 72nd job. His plans get turned upside down when he becomes the target of a mysterious operative who can seemingly predict his every move. To his horror, Brogan soon learns that the man who's trying to kill him is a younger, faster, cloned version of himself.",
+      "runtime": 117,
+      "language": "en",
+      "avgRating": 0,
+      "id": 261,
+      "title": "Gemini Man",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Chloé Zhao",
+      "description": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind\u2019s most ancient enemy, the Deviants.",
+      "runtime": 156,
+      "language": "en",
+      "avgRating": 0,
+      "id": 263,
+      "title": "Eternals",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "year": 1968,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Franklin J. Schaffner",
+      "description": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+      "runtime": 112,
+      "language": "en",
+      "avgRating": 0,
+      "id": 270,
+      "title": "Planet of the Apes",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "year": 1995,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Terry Gilliam",
+      "description": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+      "runtime": 129,
+      "language": "en",
+      "avgRating": 0,
+      "id": 279,
+      "title": "Twelve Monkeys",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/UllIft2jLSBaay3zQyMV4GNdfy.jpg",
+      "year": 2003,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Ang Lee",
+      "description": "Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.",
+      "runtime": 138,
+      "language": "en",
+      "avgRating": 0,
+      "id": 282,
+      "title": "Hulk",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Francis Lawrence",
+      "description": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+      "runtime": 157,
+      "language": "en",
+      "avgRating": 0,
+      "id": 283,
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+      "year": 2012,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "HORROR"
+      ],
+      "director": "Ridley Scott",
+      "description": "A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.",
+      "runtime": 124,
+      "language": "en",
+      "avgRating": 0,
+      "id": 285,
+      "title": "Prometheus",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
+      "year": 2027,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Anthony Russo",
+      "description": "An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.",
+      "runtime": 0,
+      "language": "en",
+      "avgRating": 0,
+      "id": 289,
+      "title": "Avengers: Secret Wars",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2NCcAZ3M3F0FxENYmammBknwpVn.jpg",
+      "year": 2015,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Lilly Wachowski",
+      "description": "In a universe where human genetic material is the most precious commodity, an impoverished young Earth woman becomes the key to strategic maneuvers and internal strife within a powerful dynasty\u2026",
+      "runtime": 127,
+      "language": "en",
+      "avgRating": 0,
+      "id": 293,
+      "title": "Jupiter Ascending",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+      "year": 2006,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "ANIMATION"
+      ],
+      "director": "Satoshi Kon",
+      "description": "When a machine that allows therapists to enter their patient's dreams is stolen, all hell breaks loose. Only a young female therapist can stop it and recover it before damage is done: Paprika.",
+      "runtime": 90,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 295,
+      "title": "Paprika",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/46X1ei9uf13nkkr0OhWldGyr5Uh.jpg",
+      "year": 2013,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "THRILLER"
+      ],
+      "director": "James DeMonaco",
+      "description": "Given the country's overcrowded prisons, the U.S. government begins to allow 12-hour periods of time in which all illegal activity is legal. During one of these free-for-alls, a family must protect themselves from a home invasion.",
+      "runtime": 85,
+      "language": "en",
+      "avgRating": 0,
+      "id": 296,
+      "title": "The Purge",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Simon Kinberg",
+      "description": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
+      "runtime": 114,
+      "language": "en",
+      "avgRating": 0,
+      "id": 299,
+      "title": "Dark Phoenix",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kNhZkR3UNbXfvESQo7mJpOi4tGd.jpg",
+      "year": 2002,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ANIMATION",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Ron Clements",
+      "description": "When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic \"loot of a thousand worlds,\" a cyborg cook named John Silver teaches him to battle supernovas and space storms on their journey to find treasure.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 302,
+      "title": "Treasure Planet",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+      "year": 2002,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Steven Spielberg",
+      "description": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+      "runtime": 145,
+      "language": "en",
+      "avgRating": 0,
+      "id": 303,
+      "title": "Minority Report",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8zh3AuXBxGbgtebL5DpaDxJgMeW.jpg",
+      "year": 1984,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "COMEDY"
+      ],
+      "director": "Juliusz Machulski",
+      "description": "Two scientists are chosen as guinea pigs for a time experiment: they are placed in hibernation and should be brought back to life after three years. In the meantime, however, World War III breaks out and life has been wiped off the surface of Earth. When they wake up, it turns out that not only 50 years have passed but also that they are the only living specimens of the male sex in a new, underground society composed exclusively of women.",
+      "runtime": 117,
+      "language": "pl",
+      "avgRating": 0,
+      "id": 307,
+      "title": "Sexmission",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "HORROR"
+      ],
+      "director": "Alex Garland",
+      "description": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 309,
+      "title": "Annihilation",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+      "year": 2012,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Gary Ross",
+      "description": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister\u2019s place, setting the stage for a struggle of survival and defiance.",
+      "runtime": 142,
+      "language": "en",
+      "avgRating": 0,
+      "id": 313,
+      "title": "The Hunger Games",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Antoine Fuqua",
+      "description": "Evan McCauley has skills he never learned and memories of places he has never visited. Self-medicated and on the brink of a mental breakdown, a secret group that call themselves \u201cInfinites\u201d come to his rescue, revealing that his memories are real.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 319,
+      "title": "Infinite",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "year": 2009,
+      "genres": ["SCI_FI"],
+      "director": "Neill Blomkamp",
+      "description": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+      "runtime": 112,
+      "language": "en",
+      "avgRating": 0,
+      "id": 320,
+      "title": "District 9",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+      "year": 2013,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Alfonso Cuarón",
+      "description": "Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking.",
+      "runtime": 91,
+      "language": "en",
+      "avgRating": 0,
+      "id": 322,
+      "title": "Gravity",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "year": 1978,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Richard Donner",
+      "description": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+      "runtime": 144,
+      "language": "en",
+      "avgRating": 0,
+      "id": 324,
+      "title": "Superman",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Nia DaCosta",
+      "description": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "runtime": 105,
+      "language": "en",
+      "avgRating": 0,
+      "id": 325,
+      "title": "The Marvels",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/zCtL3UBgCoZzd7XTVGhvl6XY75E.jpg",
+      "year": 2017,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Rupert Sanders",
+      "description": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 326,
+      "title": "Ghost in the Shell",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/f46WvKEsBn98WJbPJcO47ZoKn6B.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Johan Renck",
+      "description": "Six months into a solo mission, a lonely astronaut confronts the cracks in his marriage with help from a mysterious creature he discovers on his ship.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 330,
+      "title": "Spaceman",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cT5m5m9X6hNbUrx7kUTsedAMivW.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Ang Lee",
+      "description": "Henry Brogan is an elite 51-year-old assassin who's ready to call it quits after completing his 72nd job. His plans get turned upside down when he becomes the target of a mysterious operative who can seemingly predict his every move. To his horror, Brogan soon learns that the man who's trying to kill him is a younger, faster, cloned version of himself.",
+      "runtime": 117,
+      "language": "en",
+      "avgRating": 0,
+      "id": 332,
+      "title": "Gemini Man",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tn6gDIrQMwHSivF01igLfbggmYD.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Joe Russo",
+      "description": "An orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
+      "runtime": 125,
+      "language": "en",
+      "avgRating": 0,
+      "id": 333,
+      "title": "The Electric State",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "year": 1968,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Franklin J. Schaffner",
+      "description": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+      "runtime": 112,
+      "language": "en",
+      "avgRating": 0,
+      "id": 336,
+      "title": "Planet of the Apes",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Shane Black",
+      "description": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 341,
+      "title": "The Predator",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Tim Miller",
+      "description": "Decades after Sarah Connor prevented Judgment Day, a lethal new Terminator is sent to eliminate the future leader of the resistance. In a fight to save mankind, battle-hardened Sarah Connor teams up with an unexpected ally and an enhanced super soldier to stop the deadliest Terminator yet.",
+      "runtime": 128,
+      "language": "en",
+      "avgRating": 0,
+      "id": 347,
+      "title": "Terminator: Dark Fate",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+      "year": 2014,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "COMEDY"
+      ],
+      "director": "Jonathan Liebesman",
+      "description": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+      "runtime": 101,
+      "language": "en",
+      "avgRating": 0,
+      "id": 351,
+      "title": "Teenage Mutant Ninja Turtles",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/n4YEPanrb976XfPKjSsHaIrlSt9.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Bi Gan",
+      "description": "In a future where humanity has surrendered its ability to dream in exchange for immortality, an outcast finds illusion, nightmarish visions, and beauty in an intoxicating world of his own making.",
+      "runtime": 159,
+      "language": "zh",
+      "avgRating": 0,
+      "id": 359,
+      "title": "Resurrection",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Ron Howard",
+      "description": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+      "runtime": 135,
+      "language": "en",
+      "avgRating": 0,
+      "id": 363,
+      "title": "Solo: A Star Wars Story",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+      "year": 1997,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "ACTION"
+      ],
+      "director": "Jean-Pierre Jeunet",
+      "description": "Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping to breed the ultimate weapon. But the new Ripley is full of surprises \u2026 as are the new aliens. Ripley must team with a band of smugglers to keep the creatures from reaching Earth.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 368,
+      "title": "Alien Resurrection",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6WEqtp38s1iW5VrcH78rOIi8a2Z.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "HORROR"
+      ],
+      "director": "Yusron Fuadi",
+      "description": "5 student. An old villa. Old well. Forbidden room. Dark secret of the past. A seemingly omnipotent evil. Survival is the key. Let the battle of wits begins...",
+      "runtime": 84,
+      "language": "id",
+      "avgRating": 0,
+      "id": 370,
+      "title": "The Draft!",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
+      "year": 1982,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Steven Lisberger",
+      "description": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world and becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 379,
+      "title": "Tron",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/uje1ecKMnNpZp0at5TxlvVgVXqI.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Michael O'Halloran",
+      "description": "After a fatal test shuts down their project, a disgraced team of scientists enters the criminal underworld to rebuild a forbidden space-bending engine that could rescue humanity or annihilate it entirely.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 383,
+      "title": "Space/Time",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "year": 1992,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "HORROR"
+      ],
+      "director": "David Fincher",
+      "description": "After escaping with Newt and Hicks from the alien planet, Ripley crash lands on Fiorina 161, a prison planet and host to a correctional facility. Unfortunately, although Newt and Hicks do not survive the crash, a more unwelcome visitor does. The prison does not allow weapons of any kind, and with aid being a long time away, the prisoners must simply survive in any way they can.",
+      "runtime": 114,
+      "language": "en",
+      "avgRating": 0,
+      "id": 386,
+      "title": "Alien³",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "year": 1977,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Steven Spielberg",
+      "description": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+      "runtime": 137,
+      "language": "en",
+      "avgRating": 0,
+      "id": 389,
+      "title": "Close Encounters of the Third Kind",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg",
+      "year": 2004,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "ADVENTURE"
+      ],
+      "director": "Roland Emmerich",
+      "description": "After paleoclimatologist Jack Hall is largely ignored by UN officials when presenting his environmental concerns about the beginning of a new Ice Age, his research proves true when a superstorm develops, setting off catastrophic natural disasters throughout the world. Trying to get to his son, Sam, who is trapped in New York City with his friend Laura and others, Jack and his crew must travel to get to Sam before it's too late.",
+      "runtime": 123,
+      "language": "en",
+      "avgRating": 0,
+      "id": 390,
+      "title": "The Day After Tomorrow",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+      "year": 2014,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Peter Spierig",
+      "description": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 391,
+      "title": "Predestination",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Denis Villeneuve",
+      "description": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
+      "runtime": 140,
+      "language": "en",
+      "avgRating": 0,
+      "id": 395,
+      "title": "Dune: Part Three",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "COMEDY",
+        "ACTION"
+      ],
+      "director": "Will Speck",
+      "description": "After crash-landing on an alien planet, an asteroid miner must contend with the challenges of his new surroundings, while making his way across the harsh terrain to the only other survivor \u2013 a woman who is trapped in her escape pod.",
+      "runtime": 87,
+      "language": "en",
+      "avgRating": 0,
+      "id": 399,
+      "title": "Long Distance",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/lQcXgb0fFzffnLV5WY0Q0X2WW7E.jpg",
+      "year": 2006,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "ACTION"
+      ],
+      "director": "Alfonso Cuarón",
+      "description": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 403,
+      "title": "Children of Men",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
+      "year": 2007,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Danny Boyle",
+      "description": "Fifty years into the future, the sun is dying, and Earth is threatened by arctic temperatures. A team of astronauts is sent to revive the Sun \u2014 but the mission fails. Seven years later, a new team is sent to finish the mission as mankind\u2019s last hope.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 405,
+      "title": "Sunshine",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cfSnKn8NDU3m8UxihjVcYprA0Aq.jpg",
+      "year": 1995,
+      "genres": [
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Danny Cannon",
+      "description": "In a dystopian future, Dredd, the most famous judge (a cop with instant field judiciary powers) is convicted for a crime he did not commit while his murderous counterpart escapes.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 406,
+      "title": "Judge Dredd",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xJVl1I95StraYAwaNbBkVoWE2qA.jpg",
+      "year": 1998,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Roland Emmerich",
+      "description": "French nuclear tests irradiate an iguana into a giant monster that viciously attacks freighter ships in the Pacific Ocean. A team of experts, including Niko Tatopoulos, conclude that the oversized reptile is the culprit. Before long, the giant lizard is loose in Manhattan as the US military races to destroy the monster before it reproduces and it's spawn takes over the world.",
+      "runtime": 139,
+      "language": "en",
+      "avgRating": 0,
+      "id": 411,
+      "title": "Godzilla",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hEA7bpWw5IRKOW2MVjvx46SWevU.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Frant Gwo",
+      "description": "Humans built huge engines on the surface of the earth to find a new home. But the road to the universe is perilous. In order to save earth, young people once again have to step forward to start a race against time for life and death.",
+      "runtime": 174,
+      "language": "zh",
+      "avgRating": 0,
+      "id": 415,
+      "title": "The Wandering Earth II",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+      "year": 1997,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "ACTION"
+      ],
+      "director": "Jean-Pierre Jeunet",
+      "description": "Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping to breed the ultimate weapon. But the new Ripley is full of surprises \u2026 as are the new aliens. Ripley must team with a band of smugglers to keep the creatures from reaching Earth.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 421,
+      "title": "Alien Resurrection",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/uiiXHBd9oUrtUa4YqZiAoy05cRz.jpg",
+      "year": 2013,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "DRAMA",
+        "THRILLER"
+      ],
+      "director": "Neill Blomkamp",
+      "description": "In the year 2159, two classes of people exist: the very wealthy who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Rhodes, a hard line government official, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn\u2019t stop the people of Earth from trying to get in, by any means they can. When unlucky Max is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life, but could bring equality to these polarized worlds.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 423,
+      "title": "Elysium",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg",
+      "year": 2003,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Jon Amiel",
+      "description": "Geophysicist Dr. Josh Keyes discovers that an unknown force has caused the earth's inner core to stop rotating. With the planet's magnetic field rapidly deteriorating, our atmosphere literally starts to come apart at the seams with catastrophic consequences. To resolve the crisis, Keyes, along with a team of the world's most gifted scientists, travel into the earth's core. Their mission: detonate a device that will reactivate the core.",
+      "runtime": 136,
+      "language": "en",
+      "avgRating": 0,
+      "id": 424,
+      "title": "The Core",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg",
+      "year": 2012,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "THRILLER"
+      ],
+      "director": "Josh Trank",
+      "description": "Three high school students make an incredible discovery, leading to their developing uncanny powers beyond their understanding. As they learn to control their abilities and use them to their advantage, their lives start to spin out of control, and their darker sides begin to take over.",
+      "runtime": 84,
+      "language": "en",
+      "avgRating": 0,
+      "id": 425,
+      "title": "Chronicle",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ja34BV577dtjWl2S5G1tB93IjYb.jpg",
+      "year": 2016,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "J Blakeson",
+      "description": "16-year-old Cassie Sullivan tries to survive in a world devastated by the waves of an alien invasion that has already decimated the population and knocked mankind back to the Stone Age.",
+      "runtime": 112,
+      "language": "en",
+      "avgRating": 0,
+      "id": 429,
+      "title": "The 5th Wave",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
+      "year": 2007,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Danny Boyle",
+      "description": "Fifty years into the future, the sun is dying, and Earth is threatened by arctic temperatures. A team of astronauts is sent to revive the Sun \u2014 but the mission fails. Seven years later, a new team is sent to finish the mission as mankind\u2019s last hope.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 430,
+      "title": "Sunshine",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
+      "year": 2005,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Joss Whedon",
+      "description": "When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an action-packed battle between the relentless military might of a totalitarian regime who will destroy anything \u2013 or anyone \u2013 to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But... the greatest danger of all may be on their ship.",
+      "runtime": 119,
+      "language": "en",
+      "avgRating": 0,
+      "id": 432,
+      "title": "Serenity",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hEA7bpWw5IRKOW2MVjvx46SWevU.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Frant Gwo",
+      "description": "Humans built huge engines on the surface of the earth to find a new home. But the road to the universe is perilous. In order to save earth, young people once again have to step forward to start a race against time for life and death.",
+      "runtime": 174,
+      "language": "zh",
+      "avgRating": 0,
+      "id": 436,
+      "title": "The Wandering Earth II",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eu3Hrjj271dnBdNAF0HqfmwWASt.jpg",
+      "year": 2000,
+      "genres": [
+        "SCI_FI",
+        "CRIME",
+        "THRILLER"
+      ],
+      "director": "Gregory Hoblit",
+      "description": "When a rare phenomenon gives police officer John Sullivan the chance to speak to his father, 30 years in the past, he takes the opportunity to prevent his dad's tragic death.  After his actions inadvertently give rise to a series of brutal murders he and his father must find a way to fix the consequences of altering time.",
+      "runtime": 118,
+      "language": "en",
+      "avgRating": 0,
+      "id": 437,
+      "title": "Frequency",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
+      "year": 2005,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Joss Whedon",
+      "description": "When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an action-packed battle between the relentless military might of a totalitarian regime who will destroy anything \u2013 or anyone \u2013 to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But... the greatest danger of all may be on their ship.",
+      "runtime": 119,
+      "language": "en",
+      "avgRating": 0,
+      "id": 440,
+      "title": "Serenity",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/atOgZMJpMrTdpqvPiHVPfBhR61l.jpg",
+      "year": 2017,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Tommy Wirkola",
+      "description": "In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.",
+      "runtime": 123,
+      "language": "en",
+      "avgRating": 0,
+      "id": 441,
+      "title": "What Happened to Monday",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "year": 1988,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "John Carpenter",
+      "description": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 445,
+      "title": "They Live",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1rxTraSO45jbvTrCeSvJ6RmOu1b.jpg",
+      "year": 2007,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Tim Story",
+      "description": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
+      "runtime": 92,
+      "language": "en",
+      "avgRating": 0,
+      "id": 446,
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cT5wdyo8kT7dycqjrolJ2sHWkFx.jpg",
+      "year": 1995,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "ACTION"
+      ],
+      "director": "Roger Donaldson",
+      "description": "In 1993, the Search for Extra Terrestrial Intelligence Project receives a transmission detailing an alien DNA structure, along with instructions on how to splice it with human DNA. The result is Sil, a sensual but deadly creature who can change from a beautiful woman to an armour-plated killing machine in the blink of an eye.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 447,
+      "title": "Species",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "DRAMA",
+        "ADVENTURE"
+      ],
+      "director": "Choi Dong-hoon",
+      "description": "Gurus in the late Goryeo dynasty try to obtain a fabled, holy sword, and humans in 2022 hunt down an alien prisoner that is locked in a human's body. The two parties cross paths when a time-traveling portal opens up.",
+      "runtime": 142,
+      "language": "ko",
+      "avgRating": 0,
+      "id": 451,
+      "title": "Alienoid",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "year": 1977,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Steven Spielberg",
+      "description": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+      "runtime": 137,
+      "language": "en",
+      "avgRating": 0,
+      "id": 459,
+      "title": "Close Encounters of the Third Kind",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "THRILLER"
+      ],
+      "director": "Galder Gaztelu-Urrutia",
+      "description": "After a mysterious leader imposes his law in a brutal system of vertical cells, a new arrival battles against a dubious food distribution method.",
+      "runtime": 101,
+      "language": "es",
+      "avgRating": 0,
+      "id": 466,
+      "title": "The Platform 2",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "DRAMA",
+        "ADVENTURE"
+      ],
+      "director": "Choi Dong-hoon",
+      "description": "Gurus in the late Goryeo dynasty try to obtain a fabled, holy sword, and humans in 2022 hunt down an alien prisoner that is locked in a human's body. The two parties cross paths when a time-traveling portal opens up.",
+      "runtime": 142,
+      "language": "ko",
+      "avgRating": 0,
+      "id": 469,
+      "title": "Alienoid",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7fR3KxswtY8OHHZuOUB9td58CRX.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Frédéric Jardin",
+      "description": "A couple celebrates their son\u2019s birthday in the middle of the ocean on their boat. A violent storm hits and it brings up hungry creatures from the depths and they fight for their survival.",
+      "runtime": 90,
+      "language": "fr",
+      "avgRating": 0,
+      "id": 470,
+      "title": "Survive",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/35IU0Mq0zFsN1mYwDGts5mKc77n.jpg",
+      "year": 2009,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Duncan Jones",
+      "description": "With only three weeks left in his three-year contract, Sam Bell is eager to return to Earth. Stationed alone at a Moon-based facility with his computer assistant GERTY, an unexpected accident sets off a series of unsettling events that shake his isolation.",
+      "runtime": 97,
+      "language": "en",
+      "avgRating": 0,
+      "id": 471,
+      "title": "Moon",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oFJosj5ECYjf1jkvpTEjGNzPx2x.jpg",
+      "year": 1985,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Joe Dante",
+      "description": "Middle schooler Ben spends his free time watching sci-fi films, playing video games and reading comic books. Surprisingly, his affinity for all things fantastical yields a real result \u2013 when he has a vivid dream about technology, his prodigy best friend Wolfgang manages to create a working spacecraft. Joined by their buddy Darren, the boys take off into outer space and encounter some very odd extraterrestrial life.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 475,
+      "title": "Explorers",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5ZzeR8iz1nEFLp94OBnbakLZawo.jpg",
+      "year": 2011,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "ROMANCE"
+      ],
+      "director": "George Nolfi",
+      "description": "A man glimpses the future Fate has planned for him \u2013 and chooses to fight for his own destiny. Battling the powerful Adjustment Bureau across, under and through the streets of New York, he risks his destined greatness to be with the only woman he's ever loved.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 476,
+      "title": "The Adjustment Bureau",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "THRILLER"
+      ],
+      "director": "Galder Gaztelu-Urrutia",
+      "description": "After a mysterious leader imposes his law in a brutal system of vertical cells, a new arrival battles against a dubious food distribution method.",
+      "runtime": 101,
+      "language": "es",
+      "avgRating": 0,
+      "id": 485,
+      "title": "The Platform 2",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ADVENTURE"
+      ],
+      "director": "Miguel Sapochnik",
+      "description": "On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.",
+      "runtime": 116,
+      "language": "en",
+      "avgRating": 0,
+      "id": 489,
+      "title": "Finch",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6ri3y5n3BXahy6lu2i0ndrqA4CA.jpg",
+      "year": 2015,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Tarsem Singh",
+      "description": "An extremely wealthy elderly man dying from cancer undergoes a radical medical procedure that transfers his consciousness to the body of a healthy young man but everything may not be as good as it seems when he starts to uncover the mystery of the body's origins and the secret organization that will kill to keep its secrets.",
+      "runtime": 117,
+      "language": "en",
+      "avgRating": 0,
+      "id": 491,
+      "title": "Self/less",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1rxTraSO45jbvTrCeSvJ6RmOu1b.jpg",
+      "year": 2007,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Tim Story",
+      "description": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
+      "runtime": 92,
+      "language": "en",
+      "avgRating": 0,
+      "id": 496,
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+      "year": 1980,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Richard Lester",
+      "description": "Three Kryptonian criminals led by General Zod team up with Lex Luthor to conquer Earth, forcing a depowered Superman to regain his strength and stop them.",
+      "runtime": 127,
+      "language": "en",
+      "avgRating": 0,
+      "id": 498,
+      "title": "Superman II",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
+      "year": 2013,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Gavin Hood",
+      "description": "Based on the classic novel by Orson Scott Card, Ender's Game is the story of the Earth's most gifted children training to defend their homeplanet in the space wars of the future.",
+      "runtime": 114,
+      "language": "en",
+      "avgRating": 0,
+      "id": 504,
+      "title": "Ender's Game",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg",
+      "year": 2011,
+      "genres": [
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Jonathan Liebesman",
+      "description": "When once distant UFOs become a terrifying threat and an alien invasion force begins attacking Earths major costal and riverside cities, a U.S Marine staff sergeant and his team are sent into battle only to find they must take it upon themselves to defeat an unknown enemy and protect what remains of Los Angeles.",
+      "runtime": 116,
+      "language": "en",
+      "avgRating": 0,
+      "id": 505,
+      "title": "Battle: Los Angeles",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iYayQahkghlbAsfOQX8b5eBzGVy.jpg",
+      "year": 2002,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Simon Wells",
+      "description": "Hoping to alter the events of the past, a 19th-century inventor instead travels 800,000 years into the future, where he finds mankind divided into two warring races.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 506,
+      "title": "The Time Machine",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9u5Rb0e7mx8qOO7zj39KnIRWClr.jpg",
+      "year": 2015,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Dean Israelite",
+      "description": "A group of teens discover secret plans of a time machine, and construct one. However, things start to get out of control.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 509,
+      "title": "Project Almanac",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "THRILLER"
+      ],
+      "director": "Olivia Wilde",
+      "description": "Alice and Jack are lucky to be living in the idealized community of Victory, the experimental company town housing the men who work for the top-secret Victory Project and their families. But when cracks in their idyllic life begin to appear, exposing flashes of something much more sinister lurking beneath the attractive façade, Alice can\u2019t help questioning exactly what they\u2019re doing in Victory, and why.",
+      "runtime": 123,
+      "language": "en",
+      "avgRating": 0,
+      "id": 514,
+      "title": "Don't Worry Darling",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/shfAU6xIIEAEtsloIT3n9Fscz2E.jpg",
+      "year": 1990,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "COMEDY",
+        "DRAMA"
+      ],
+      "director": "Steve Barron",
+      "description": "A quartet of humanoid turtles, trained by their mentor in ninjitsu, must learn to work together to face the menace of Shredder and the Foot Clan.",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 521,
+      "title": "Teenage Mutant Ninja Turtles",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Zack Snyder",
+      "description": "The rebels gear up for battle against the ruthless forces of the Motherworld as unbreakable bonds are forged, heroes emerge \u2014 and legends are made.",
+      "runtime": 121,
+      "language": "en",
+      "avgRating": 0,
+      "id": 526,
+      "title": "Rebel Moon - Part Two: The Scargiver",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/z3MXFdFjrYmoxOEFgE1wuphwo2a.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Frant Gwo",
+      "description": "When the Sun begins to expand in such a way that it will inevitably engulf and destroy the Earth in a hundred years, united mankind finds a way to avoid extinction by propelling the planet out of the Solar System using gigantic engines, moving it to a new home located four light years away, an epic journey that will last thousands of years.",
+      "runtime": 126,
+      "language": "zh",
+      "avgRating": 0,
+      "id": 527,
+      "title": "The Wandering Earth",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wrs23eO0VEWwOQpXoOasMnlW9Y4.jpg",
+      "year": 1999,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Chris Columbus",
+      "description": "Richard Martin buys a gift, a new NDR-114 robot. The product is named Andrew by the youngest of the family's children. \"Bicentennial Man\" follows the life and times of Andrew, a robot purchased as a household appliance programmed to perform menial tasks. As Andrew begins to experience emotions and creative thought, the Martin family soon discovers they don't have an ordinary robot.",
+      "runtime": 131,
+      "language": "en",
+      "avgRating": 0,
+      "id": 531,
+      "title": "Bicentennial Man",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Zack Snyder",
+      "description": "The rebels gear up for battle against the ruthless forces of the Motherworld as unbreakable bonds are forged, heroes emerge \u2014 and legends are made.",
+      "runtime": 121,
+      "language": "en",
+      "avgRating": 0,
+      "id": 540,
+      "title": "Rebel Moon - Part Two: The Scargiver",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Zack Snyder",
+      "description": "When the ruthless forces of the Motherworld threaten a quiet farming village on a distant moon, a mysterious outsider becomes its best hope for survival.",
+      "runtime": 134,
+      "language": "en",
+      "avgRating": 0,
+      "id": 541,
+      "title": "Rebel Moon - Part One: A Child of Fire",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pUul9pGWOKT7X0smkTvsIEIQxcP.jpg",
+      "year": 2013,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "David Twohy",
+      "description": "Betrayed by his own kind and left for dead on a desolate planet, Riddick fights for survival against alien predators and becomes more powerful and dangerous than ever before. Soon bounty hunters from throughout the galaxy descend on Riddick only to find themselves pawns in his greater scheme for revenge. With his enemies right where he wants them, Riddick unleashes a vicious attack of vengeance before returning to his home planet of Furya to save it from destruction.",
+      "runtime": 119,
+      "language": "en",
+      "avgRating": 0,
+      "id": 543,
+      "title": "Riddick",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/h3OUaPfCaFmzwB2eMHik50RsXlP.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "COMEDY"
+      ],
+      "director": "Ng Yuen-Fai",
+      "description": "In the Qin Dynasty, time-traveller Hong Siu-lung has lived in seclusion with his family for twenty years. Yet every step he takes remains under the watchful eye of his former disciple, now the Qin Emperor. On the brink of ultimate power after conquering the six warring states, the emperor is suddenly ambushed by a mysterious team wielding advanced weapons clearly originating from Hong\u2019s time. Drawn together by fate again, Hong and Qin Emperor are forced to confront the long-buried conflict between them, because the future now depends on how they settle their past.",
+      "runtime": 107,
+      "language": "cn",
+      "avgRating": 0,
+      "id": 552,
+      "title": "Back to the Past",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iYayQahkghlbAsfOQX8b5eBzGVy.jpg",
+      "year": 2002,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Simon Wells",
+      "description": "Hoping to alter the events of the past, a 19th-century inventor instead travels 800,000 years into the future, where he finds mankind divided into two warring races.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 557,
+      "title": "The Time Machine",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Zack Snyder",
+      "description": "When the ruthless forces of the Motherworld threaten a quiet farming village on a distant moon, a mysterious outsider becomes its best hope for survival.",
+      "runtime": 134,
+      "language": "en",
+      "avgRating": 0,
+      "id": 565,
+      "title": "Rebel Moon - Part One: A Child of Fire",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/h3OUaPfCaFmzwB2eMHik50RsXlP.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "COMEDY"
+      ],
+      "director": "Ng Yuen-Fai",
+      "description": "In the Qin Dynasty, time-traveller Hong Siu-lung has lived in seclusion with his family for twenty years. Yet every step he takes remains under the watchful eye of his former disciple, now the Qin Emperor. On the brink of ultimate power after conquering the six warring states, the emperor is suddenly ambushed by a mysterious team wielding advanced weapons clearly originating from Hong\u2019s time. Drawn together by fate again, Hong and Qin Emperor are forced to confront the long-buried conflict between them, because the future now depends on how they settle their past.",
+      "runtime": 107,
+      "language": "cn",
+      "avgRating": 0,
+      "id": 573,
+      "title": "Back to the Past",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/fHStfRjQGstuqtUz4Q22lbFU58M.jpg",
+      "year": 2009,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Paul McGuigan",
+      "description": "After his father, an assassin, is brutally murdered, Nick Gant vows revenge on Division, the covert government agency that dabbles in psychic warfare and experimental drugs. Hiding in Hong Kong's underworld, Nick assembles a band of rogue psychics dedicated to destroying Division. Together with Cassie, a teenage clairvoyant, Nick goes in search of a missing girl and a stolen suitcase that could be the key to accomplishing their mutual goal.",
+      "runtime": 111,
+      "language": "en",
+      "avgRating": 0,
+      "id": 577,
+      "title": "Push",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/piVzOuKFLHNGLxnjwNtibC26lTy.jpg",
+      "year": 1997,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Kevin Costner",
+      "description": "In 2013, there are no highways, no I-ways, no dreams of a better tomorrow, only scattered survivors across what was once the United States. Into this apocalyptic wasteland comes an enigmatic drifter with a mule, a knack for Shakespeare, and something yet undiscovered: the power to inspire hope.",
+      "runtime": 178,
+      "language": "en",
+      "avgRating": 0,
+      "id": 582,
+      "title": "The Postman",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Timo Vuorensola",
+      "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploiting genetic disparity, risking everything to challenge the oppressive system.",
+      "runtime": 85,
+      "language": "en",
+      "avgRating": 0,
+      "id": 583,
+      "title": "Altered",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gDb5BW2NLqZ9cvg9nyzkZVvmgze.jpg",
+      "year": 2005,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Jon Favreau",
+      "description": "After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.",
+      "runtime": 101,
+      "language": "en",
+      "avgRating": 0,
+      "id": 586,
+      "title": "Zathura: A Space Adventure",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/v3Z0Hbl0oe57njrrIPh0fJPFoo.jpg",
+      "year": 2009,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Jonathan Mostow",
+      "description": "Set in a futuristic world where humans live in isolation and interact through surrogate robots, a cop is forced to leave his home for the first time in years in order to investigate the murders of others' surrogates.",
+      "runtime": 89,
+      "language": "en",
+      "avgRating": 0,
+      "id": 587,
+      "title": "Surrogates",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9u5Rb0e7mx8qOO7zj39KnIRWClr.jpg",
+      "year": 2015,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Dean Israelite",
+      "description": "A group of teens discover secret plans of a time machine, and construct one. However, things start to get out of control.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 589,
+      "title": "Project Almanac",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "THRILLER"
+      ],
+      "director": "Olivia Wilde",
+      "description": "Alice and Jack are lucky to be living in the idealized community of Victory, the experimental company town housing the men who work for the top-secret Victory Project and their families. But when cracks in their idyllic life begin to appear, exposing flashes of something much more sinister lurking beneath the attractive façade, Alice can\u2019t help questioning exactly what they\u2019re doing in Victory, and why.",
+      "runtime": 123,
+      "language": "en",
+      "avgRating": 0,
+      "id": 591,
+      "title": "Don't Worry Darling",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mv2DFhsaLeNgFzNe2G5CJhzbrkt.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Dmitry Kiselev",
+      "description": "Near future. Lera Arabova is a 15-year-old girl who lives with her family in Vladivostok. Lera's father has been working at the orbiting space station \"Mira\" for many years and has long lost contact with his daughter, turning only into a voice on the phone. After a meteor shower hits the city, Lera has only one chance to save her loved ones and the city from a new disaster. Her father helps her in this - through satellite surveillance systems and the telephone, he uses every opportunity to send a message to his daughter, watching from above from the station her every step.",
+      "runtime": 110,
+      "language": "ru",
+      "avgRating": 0,
+      "id": 596,
+      "title": "Mira",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg",
+      "year": 2020,
+      "genres": ["SCI_FI"],
+      "director": "Seth Larney",
+      "description": "A lowly utility worker is called to the future by a mysterious radio signal, he must leave his dying wife to embark on a journey that will force him to face his deepest fears in an attempt to change the fabric of reality and save humankind from its greatest environmental crisis yet.",
+      "runtime": 114,
+      "language": "en",
+      "avgRating": 0,
+      "id": 612,
+      "title": "2067",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/nCZzrFonDkWfYkfxzsPByBY4Lvk.jpg",
+      "year": 2008,
+      "genres": [
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Howard McCain",
+      "description": "During the reign of the Vikings, a man from another world crash-lands on Earth, bringing with him an alien predator. The man must fuse his advanced technology with the weaponry of the vikings to fight the monster.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 614,
+      "title": "Outlander",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/h89INyaoH16CdlT7q7BtKikIFRy.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "CRIME"
+      ],
+      "director": "Jeff Chan",
+      "description": "In a world where superpowered people are heavily policed by robots, an ex-con teams up with a drug lord he despises to protect a teen from a corrupt cop.",
+      "runtime": 101,
+      "language": "en",
+      "avgRating": 0,
+      "id": 617,
+      "title": "Code 8 Part II",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5yprxs7ZyBr58RsTQJrKCVmqk8X.jpg",
+      "year": 2016,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "ACTION"
+      ],
+      "director": "Nic Mathieu",
+      "description": "A special-ops team is dispatched to fight supernatural beings that have taken over a European city.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 624,
+      "title": "Spectral",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7bzMCW1E1sOWEbjVuQ8iRGrdpcw.jpg",
+      "year": 2025,
+      "genres": ["SCI_FI"],
+      "director": "Alison Kohlhardt",
+      "description": "In a future shaped by war, AI, and fractured timelines, five sci-fi stories explore humanity\u2019s fight for connection, survival, and meaning across time and space.",
+      "runtime": 65,
+      "language": "en",
+      "avgRating": 0,
+      "id": 629,
+      "title": "Afterlight",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/V086R82gNgWrotaXZFO4JhdgB1.jpg",
+      "year": 2007,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Richard Schenkman",
+      "description": "A departing professor gathers his closest colleagues for an intimate farewell, but the night takes an unexpected turn when he shares a stunning secret about his past. As the conversation unfolds, skepticism and curiosity collide, challenging everything they thought they knew about history, science, and belief.",
+      "runtime": 87,
+      "language": "en",
+      "avgRating": 0,
+      "id": 630,
+      "title": "The Man from Earth",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/28Y3pxfkRZMhLsw4if6e3J0HD7Q.jpg",
+      "year": 2020,
+      "genres": [
+        "SCI_FI",
+        "COMEDY",
+        "HORROR"
+      ],
+      "director": "Steven Kostanski",
+      "description": "Siblings Mimi and Luke unwittingly resurrect an ancient alien overlord. Using a magical amulet, they force the monster to obey their childish whims, and accidentally attract a rogues\u2019 gallery of intergalactic assassins to small-town suburbia.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 636,
+      "title": "PG: Psycho Goreman",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/izGX7npHEopDQvngYcxMJEfcFbj.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "CRIME"
+      ],
+      "director": "Jeff Chan",
+      "description": "In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film \u201cCode 8,\u201d 2016.)",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 640,
+      "title": "Code 8",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "CRIME",
+        "ACTION"
+      ],
+      "director": "Julius Avery",
+      "description": "Thirteen year old Sam Cleary suspects that his mysteriously reclusive neighbor Mr. Smith is actually the legendary vigilante Samaritan, who was reported dead 25 years ago. With crime on the rise and the city on the brink of chaos, Sam makes it his mission to coax his neighbor out of hiding to save the city from ruin.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 641,
+      "title": "Samaritan",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/l9PMnRlrauxa7yZBa8Ze96LOqzc.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Charles Band",
+      "description": "When a young woman begins immersing herself in the arena of AI, her wildest and darkest fantasies become sensual realities. But the deeper she sinks into her online explorations, the closer she gets to the shocking truth.",
+      "runtime": 62,
+      "language": "en",
+      "avgRating": 0,
+      "id": 642,
+      "title": "Prompt",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/nCZzrFonDkWfYkfxzsPByBY4Lvk.jpg",
+      "year": 2008,
+      "genres": [
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Howard McCain",
+      "description": "During the reign of the Vikings, a man from another world crash-lands on Earth, bringing with him an alien predator. The man must fuse his advanced technology with the weaponry of the vikings to fight the monster.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 643,
+      "title": "Outlander",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/l9PMnRlrauxa7yZBa8Ze96LOqzc.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Charles Band",
+      "description": "When a young woman begins immersing herself in the arena of AI, her wildest and darkest fantasies become sensual realities. But the deeper she sinks into her online explorations, the closer she gets to the shocking truth.",
+      "runtime": 62,
+      "language": "en",
+      "avgRating": 0,
+      "id": 656,
+      "title": "Prompt",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gn2vCmWO7jQBBto9SYuBHYZARaU.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Neil Burger",
+      "description": "With the future of the human race at stake, a group of young men and women -- bred for intelligence and obedience -- embark on an expedition to colonize a distant planet. When they uncover disturbing secrets about the mission, they defy their training and begin to explore their most primitive natures. As life on the ship descends into chaos, they soon become consumed by fear, lust and an insatiable hunger for power.",
+      "runtime": 108,
+      "language": "en",
+      "avgRating": 0,
+      "id": 657,
+      "title": "Voyagers",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jWZh2ChereoxKgTl3AmSAKNpnmO.jpg",
+      "year": 1984,
+      "genres": [
+        "SCI_FI",
+        "COMEDY",
+        "ADVENTURE",
+        "ROMANCE"
+      ],
+      "director": "W.D. Richter",
+      "description": "Adventurer/surgeon/rock musician Buckaroo Banzai and his band of men, the Hong Kong Cavaliers, take on evil alien invaders from the 8th dimension.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 659,
+      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cPUeMJkPLDWSOA6OU862EdZhylS.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Racheal Cain",
+      "description": "Gemma moves to LA, hoping to become an actress. She takes an overnight gig at a sleep clinic that promises to make their clients\u2019 dreams come true. But the longer she spends there, the more it becomes clear that something sinister is going on.",
+      "runtime": 90,
+      "language": "en",
+      "avgRating": 0,
+      "id": 660,
+      "title": "Somnium",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",
+      "year": 2013,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "M. Night Shyamalan",
+      "description": "One thousand years after cataclysmic events forced humanity's escape from Earth, Nova Prime has become mankind's new home. Legendary General Cypher Raige returns from an extended tour of duty to his estranged family, ready to be a father to his 13-year-old son, Kitai. When an asteroid storm damages Cypher and Kitai's craft, they crash-land on a now unfamiliar and dangerous Earth. As his father lies dying in the cockpit, Kitai must trek across the hostile terrain to recover their rescue beacon. His whole life, Kitai has wanted nothing more than to be a soldier like his father. Today, he gets his chance.",
+      "runtime": 100,
+      "language": "en",
+      "avgRating": 0,
+      "id": 663,
+      "title": "After Earth",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Francis Ford Coppola",
+      "description": "In a futuristic New York known as New Rome, visionary architect Cesar Catilina dreams of building \"Megalopolis,\" a utopian city that redefines society\u2019s limits. Opposing him is the corrupt Mayor Franklyn Cicero, who clings to power and profit. Between them stands Julia, the mayor\u2019s daughter, whose love for Cesar forces her to choose between loyalty, ambition, and the fate of humanity.",
+      "runtime": 138,
+      "language": "en",
+      "avgRating": 0,
+      "id": 665,
+      "title": "Megalopolis",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/vL1KMUr0Jj6kEZ5YPZO7VQBZMLl.jpg",
+      "year": 2017,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Leo Zhang",
+      "description": "A hardened special forces agent fights to protect a young woman from a sinister criminal gang. At the same time, he feels a special connection to the young woman, like they have met in a different life.",
+      "runtime": 109,
+      "language": "zh",
+      "avgRating": 0,
+      "id": 671,
+      "title": "Bleeding Steel",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hhPBTAn9b4TYOxc1JYNsX4BFAlW.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Jeffrey Nachmanoff",
+      "description": "A scientist becomes obsessed with returning his family to normalcy after a terrible accident.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 676,
+      "title": "Replicas",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "THRILLER"
+      ],
+      "director": "Matthew McManus",
+      "description": "In an attempt to avenge her daughter\u2019s death, Irene Kelly travels through parallel universes, killing her daughter\u2019s murderer again and again. As she becomes consumed by vengeance, her humanity begins to slip away\u2014until the cycle is disrupted when she rescues Mia, a sharp-witted teenager already marked by the killer.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 677,
+      "title": "Redux Redux",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wjzbVXAes1acbh6k4OO5xVfy5.jpg",
+      "year": 2010,
+      "genres": [
+        "SCI_FI",
+        "COMEDY",
+        "ADVENTURE"
+      ],
+      "director": "Steve Pink",
+      "description": "Four pals are stuck in a rut in adulthood: Adam has just been dumped, Lou is a hopeless party animal, Nick is a henpecked husband, and Jacob does nothing but play video games in his basement. But they get a chance to brighten their future by changing their past after a night of heavy drinking in a ski-resort hot tub results in their waking up in 1986.",
+      "runtime": 101,
+      "language": "en",
+      "avgRating": 0,
+      "id": 680,
+      "title": "Hot Tub Time Machine",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/mv2DFhsaLeNgFzNe2G5CJhzbrkt.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Dmitry Kiselev",
+      "description": "Near future. Lera Arabova is a 15-year-old girl who lives with her family in Vladivostok. Lera's father has been working at the orbiting space station \"Mira\" for many years and has long lost contact with his daughter, turning only into a voice on the phone. After a meteor shower hits the city, Lera has only one chance to save her loved ones and the city from a new disaster. Her father helps her in this - through satellite surveillance systems and the telephone, he uses every opportunity to send a message to his daughter, watching from above from the station her every step.",
+      "runtime": 110,
+      "language": "ru",
+      "avgRating": 0,
+      "id": 682,
+      "title": "Mira",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Francis Ford Coppola",
+      "description": "In a futuristic New York known as New Rome, visionary architect Cesar Catilina dreams of building \"Megalopolis,\" a utopian city that redefines society\u2019s limits. Opposing him is the corrupt Mayor Franklyn Cicero, who clings to power and profit. Between them stands Julia, the mayor\u2019s daughter, whose love for Cesar forces her to choose between loyalty, ambition, and the fate of humanity.",
+      "runtime": 138,
+      "language": "en",
+      "avgRating": 0,
+      "id": 686,
+      "title": "Megalopolis",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jWZh2ChereoxKgTl3AmSAKNpnmO.jpg",
+      "year": 1984,
+      "genres": [
+        "SCI_FI",
+        "COMEDY",
+        "ADVENTURE",
+        "ROMANCE"
+      ],
+      "director": "W.D. Richter",
+      "description": "Adventurer/surgeon/rock musician Buckaroo Banzai and his band of men, the Hong Kong Cavaliers, take on evil alien invaders from the 8th dimension.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 691,
+      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xQCMAHeg5M9HpDIqanYbWdr4brB.jpg",
+      "year": 1998,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Jonathan Frakes",
+      "description": "When an alien race and factions within Starfleet attempt to take over a planet that has \"regenerative\" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 693,
+      "title": "Star Trek: Insurrection",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/u9jha7bkttIrc5RO1TWeSn7QVyI.jpg",
+      "year": 2026,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "THRILLER"
+      ],
+      "director": "David Robert Mitchell",
+      "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, a family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "runtime": 0,
+      "language": "en",
+      "avgRating": 0,
+      "id": 694,
+      "title": "The End of Oak Street",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5958Nt4QX6aRSUdQnvNw8wqjTJQ.jpg",
+      "year": 2005,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Karyn Kusama",
+      "description": "400 years into the future, disease has wiped out the majority of the world's population, except one walled city, Bregna, ruled by a congress of scientists. When Æon Flux, the top operative in the underground 'Monican' rebellion, is sent on a mission to kill a government leader, she uncovers a world of secrets.",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 695,
+      "title": "Æon Flux",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/izGX7npHEopDQvngYcxMJEfcFbj.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "CRIME"
+      ],
+      "director": "Jeff Chan",
+      "description": "In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film \u201cCode 8,\u201d 2016.)",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 697,
+      "title": "Code 8",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg",
+      "year": 1991,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION",
+        "COMEDY",
+        "DRAMA"
+      ],
+      "director": "Michael Pressman",
+      "description": "The Turtles and the Shredder battle once again, this time for the last cannister of the ooze that created the Turtles, which Shredder wants to create an army of new mutants. Meanwhile Splinter is coming... to a decision.",
+      "runtime": 88,
+      "language": "en",
+      "avgRating": 0,
+      "id": 703,
+      "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/wjzbVXAes1acbh6k4OO5xVfy5.jpg",
+      "year": 2010,
+      "genres": [
+        "SCI_FI",
+        "COMEDY",
+        "ADVENTURE"
+      ],
+      "director": "Steve Pink",
+      "description": "Four pals are stuck in a rut in adulthood: Adam has just been dumped, Lou is a hopeless party animal, Nick is a henpecked husband, and Jacob does nothing but play video games in his basement. But they get a chance to brighten their future by changing their past after a night of heavy drinking in a ski-resort hot tub results in their waking up in 1986.",
+      "runtime": 101,
+      "language": "en",
+      "avgRating": 0,
+      "id": 707,
+      "title": "Hot Tub Time Machine",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cVtQHyTwaDhYFVRFXSuDthC2bXH.jpg",
+      "year": 2005,
+      "genres": ["SCI_FI"],
+      "director": "Rob Cohen",
+      "description": "Deeply ensconced in a top-secret military program, three pilots struggle to bring an artificial intelligence program under control ... before it initiates the next world war.",
+      "runtime": 121,
+      "language": "en",
+      "avgRating": 0,
+      "id": 713,
+      "title": "Stealth",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/tafXZX0I6rso7EyoEzfygfTqxq6.jpg",
+      "year": 2001,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Iain Softley",
+      "description": "Prot is a patient at a mental hospital who claims to be from a far away planet. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
+      "runtime": 120,
+      "language": "en",
+      "avgRating": 0,
+      "id": 715,
+      "title": "K-PAX",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/c97Xlokfn4M6ZOQmt7OfXfLDwd5.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Nikolay Lebedev",
+      "description": "A Russian missile submarine disappears without trace during a secret mission in the Greenland Sea. A vessel is deployed to search for it, captained by the brother of the missing submarine\u2019s commander. The search crew is tasked with locating the submarine and preventing a top-secret weapon from falling into enemy hands. Meanwhile, a geological research operation at the North Pole awakens the Kraken, a giant deep-water monster with an incredible ability to camouflage and an uncanny intelligence. As the search party narrows in on the missing submarine, they will encounter the legendary creature of the deep.",
+      "runtime": 134,
+      "language": "ru",
+      "avgRating": 0,
+      "id": 717,
+      "title": "Kraken",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/sGHAoGdxD9CeJxr1mvKHjgt8eqj.jpg",
+      "year": 2017,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "DRAMA",
+        "COMEDY",
+        "THRILLER"
+      ],
+      "director": "Sarik Andreasyan",
+      "description": "During the Cold War, an organization called \"Patriot\" created a superhero squad, which includes members of multiple Soviet republics. For years, the heroes had to hide their identities, but, in hard times, they must show themselves again.",
+      "runtime": 89,
+      "language": "ru",
+      "avgRating": 0,
+      "id": 720,
+      "title": "Guardians",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg",
+      "year": 1995,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Robert Longo",
+      "description": "In a dystopian 2021, Johnny is a data trafficker who has an implant that allows him to securely store data too sensitive for regular computer networks. On one delivery run, he accepts a package that not only exceeds the implant's safety limits\u2014and will kill him if the data is not removed in time\u2014but also contains information far more important and valuable than he had ever imagined. On a race against time, he must avoid the assassins sent to kill him and remove the data before it, too, ends his life.",
+      "runtime": 97,
+      "language": "en",
+      "avgRating": 0,
+      "id": 726,
+      "title": "Johnny Mnemonic",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/e3eimdUK6lLe0iaSlLrYVQF3yeL.jpg",
+      "year": 1986,
+      "genres": [
+        "SCI_FI",
+        "COMEDY",
+        "DRAMA"
+      ],
+      "director": "John Badham",
+      "description": "After a lightning bolt zaps a robot named Number 5, the lovable machine starts to think he's human and escapes the lab. Hot on his trail is his designer, Newton, who hopes to get to Number 5 before the military does. In the meantime, a spunky animal lover mistakes the robot for an alien and takes him in, teaching her new guest about life on Earth.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 733,
+      "title": "Short Circuit",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/b7BllsQkD6nTkAdtd28UVCmKqVi.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "ROMANCE",
+        "DRAMA"
+      ],
+      "director": "Mike Cahill",
+      "description": "A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel\u2019s wild conspiracy.",
+      "runtime": 104,
+      "language": "en",
+      "avgRating": 0,
+      "id": 740,
+      "title": "Bliss",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hhPBTAn9b4TYOxc1JYNsX4BFAlW.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Jeffrey Nachmanoff",
+      "description": "A scientist becomes obsessed with returning his family to normalcy after a terrible accident.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 745,
+      "title": "Replicas",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/sGHAoGdxD9CeJxr1mvKHjgt8eqj.jpg",
+      "year": 2017,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "DRAMA",
+        "COMEDY",
+        "THRILLER"
+      ],
+      "director": "Sarik Andreasyan",
+      "description": "During the Cold War, an organization called \"Patriot\" created a superhero squad, which includes members of multiple Soviet republics. For years, the heroes had to hide their identities, but, in hard times, they must show themselves again.",
+      "runtime": 89,
+      "language": "ru",
+      "avgRating": 0,
+      "id": 751,
+      "title": "Guardians",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Joseph Kosinski",
+      "description": "A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he's testing for a pharmaceutical genius.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 758,
+      "title": "Spiderhead",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg",
+      "year": 2009,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Michael Bay",
+      "description": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.",
+      "runtime": 150,
+      "language": "en",
+      "avgRating": 0,
+      "id": 761,
+      "title": "Transformers: Revenge of the Fallen",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+      "year": 1973,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "CRIME",
+        "DRAMA"
+      ],
+      "director": "Richard Fleischer",
+      "description": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society\u2019s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+      "runtime": 97,
+      "language": "en",
+      "avgRating": 0,
+      "id": 771,
+      "title": "Soylent Green",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/facTz5BZz4AkJal1FWgjYciekih.jpg",
+      "year": 1968,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "COMEDY"
+      ],
+      "director": "Roger Vadim",
+      "description": "In the far future, a highly sexual woman is tasked with finding and stopping the evil Durand-Durand. Along the way she encounters various unusual people.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 775,
+      "title": "Barbarella",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/cTKWoBpN5Gvi0vpMb9mLtYlwXqT.jpg",
+      "year": 2000,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Brian De Palma",
+      "description": "When the first manned mission to Mars meets with a catastrophic and mysterious disaster after reporting an unidentified structure, a rescue mission is launched to investigate the tragedy and bring back any survivors.",
+      "runtime": 114,
+      "language": "en",
+      "avgRating": 0,
+      "id": 787,
+      "title": "Mission to Mars",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/583rpyMn8UL8F2oH26Sz6WoKDDe.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE"
+      ],
+      "director": "Ben Foster",
+      "description": "A group of students become trapped inside a mysterious cave where they discover time passes differently underground than on the surface.",
+      "runtime": 87,
+      "language": "en",
+      "avgRating": 0,
+      "id": 790,
+      "title": "Time Trap",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hlT8mCdstzj8U2txd9kpeDjhJR2.jpg",
+      "year": 2026,
+      "genres": ["SCI_FI"],
+      "director": "Berta Gangolells Galbany",
+      "description": "",
+      "runtime": 0,
+      "language": "es",
+      "avgRating": 0,
+      "id": 791,
+      "title": "BINGO",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/oPE5GXHaTlu5eRcd4USuOX3A1mf.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Josh Baker",
+      "description": "A young boy finds a powerful otherworldly weapon, which he uses to save his older adoptive brother from a crew of thugs. Before long, the two of them are also pursued by federal agents and mysterious mercenaries aiming to reclaim their asset.",
+      "runtime": 102,
+      "language": "en",
+      "avgRating": 0,
+      "id": 792,
+      "title": "Kin",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/28Y3pxfkRZMhLsw4if6e3J0HD7Q.jpg",
+      "year": 2020,
+      "genres": [
+        "SCI_FI",
+        "COMEDY",
+        "HORROR"
+      ],
+      "director": "Steven Kostanski",
+      "description": "Siblings Mimi and Luke unwittingly resurrect an ancient alien overlord. Using a magical amulet, they force the monster to obey their childish whims, and accidentally attract a rogues\u2019 gallery of intergalactic assassins to small-town suburbia.",
+      "runtime": 95,
+      "language": "en",
+      "avgRating": 0,
+      "id": 796,
+      "title": "PG: Psycho Goreman",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/5Ln3Hr6UYvnnQXLIEMotdeo2BCK.jpg",
+      "year": 2020,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "CRIME",
+        "ANIMATION"
+      ],
+      "director": "Naoyoshi Shiotani",
+      "description": "Inspector Kei Mikhail Ignatov finds himself involved with an organization named Bifrost with the possibility of freeing his wife if he betrays Unit One. Koichi Azusawa coordinates an assault on the Public Safety Bureau tower using his hacker Obata, locking down the building and kidnapping Inspector Arata Shindo. Azusawa demands that governor Karina Komiya resign from her position.",
+      "runtime": 137,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 798,
+      "title": "Psycho-Pass 3: First Inspector",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/1hVEsBS4vnozB1yAsMiqW0IMxyp.jpg",
+      "year": 2020,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "Nikita Argunov",
+      "description": "A young and talented architect comes to his senses after a horrific accident only to find himself in the odd dystopian world. A world that is filled with the memories of all current coma patients. Just like a human memory this world is fragmental, chaotic and unstable. This is COMA: icecaps, rivers and cities can all exist in a space of a single room and laws of physics are no longer laws as they can be bent.",
+      "runtime": 110,
+      "language": "ru",
+      "avgRating": 0,
+      "id": 804,
+      "title": "Coma",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xP6VaKdFEriMzPXe3j5YyDF3ryS.jpg",
+      "year": 1982,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Clint Eastwood",
+      "description": "The Soviets have developed a revolutionary new jet fighter, called 'Firefox'. Worried that the jet will be used as a first-strike weapon\u2014as there are rumours that it is undetectable by radar\u2014the British send ex-Vietnam War pilot, Mitchell Gant on a covert mission into the Soviet Union to steal the Firefox.",
+      "runtime": 136,
+      "language": "en",
+      "avgRating": 0,
+      "id": 812,
+      "title": "Firefox",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/71JMWqNDRz2Au59JYosfn5W8nuS.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Kim Jee-woon",
+      "description": "In 2029, an elite police squad combats an anti-reunification terrorist group while another enemy lurks nearby.",
+      "runtime": 138,
+      "language": "ko",
+      "avgRating": 0,
+      "id": 820,
+      "title": "Illang: The Wolf Brigade",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "James Gray",
+      "description": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.",
+      "runtime": 123,
+      "language": "en",
+      "avgRating": 0,
+      "id": 841,
+      "title": "Ad Astra",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg",
+      "year": 1995,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Robert Longo",
+      "description": "In a dystopian 2021, Johnny is a data trafficker who has an implant that allows him to securely store data too sensitive for regular computer networks. On one delivery run, he accepts a package that not only exceeds the implant's safety limits\u2014and will kill him if the data is not removed in time\u2014but also contains information far more important and valuable than he had ever imagined. On a race against time, he must avoid the assassins sent to kill him and remove the data before it, too, ends his life.",
+      "runtime": 97,
+      "language": "en",
+      "avgRating": 0,
+      "id": 844,
+      "title": "Johnny Mnemonic",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/8LSBi0bHACZtIiVErUBQ2UXNYLA.jpg",
+      "year": 1998,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "HORROR"
+      ],
+      "director": "Peter Medak",
+      "description": "Having just returned from a mission to Mars, Commander Ross isn't exactly himself. He's slowly becoming a terrifying alien entity with one goal -- to procreate with human women! When countless women suffer gruesome deaths after bearing half-alien offspring, scientist Laura Baker and hired assassin Press Lennox use Eve, a more tempered alien clone, to find Ross and his brood. Before long Eve escapes to mate with Ross.",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 846,
+      "title": "Species II",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/nto7dx8vmqESDU484huGoSt4o48.jpg",
+      "year": 2020,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Eric Demeusy",
+      "description": "A young NASA JPL scientist is abducted by extraterrestrials but when no one believes his story he becomes obsessed with finding proof which leads him on a journey of discovery.",
+      "runtime": 119,
+      "language": "en",
+      "avgRating": 0,
+      "id": 848,
+      "title": "Proximity",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/e3eimdUK6lLe0iaSlLrYVQF3yeL.jpg",
+      "year": 1986,
+      "genres": [
+        "SCI_FI",
+        "COMEDY",
+        "DRAMA"
+      ],
+      "director": "John Badham",
+      "description": "After a lightning bolt zaps a robot named Number 5, the lovable machine starts to think he's human and escapes the lab. Hot on his trail is his designer, Newton, who hopes to get to Number 5 before the military does. In the meantime, a spunky animal lover mistakes the robot for an alien and takes him in, teaching her new guest about life on Earth.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 851,
+      "title": "Short Circuit",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eslDNzf0LF1m9GsgUXlmyfTcC6Y.jpg",
+      "year": 1951,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Robert Wise",
+      "description": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
+      "runtime": 92,
+      "language": "en",
+      "avgRating": 0,
+      "id": 859,
+      "title": "The Day the Earth Stood Still",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/rTFrjAp1YV49DSTUGCyKSkaEHC8.jpg",
+      "year": 1993,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Rob Lieberman",
+      "description": "After clearing brush for the government, a group of men return to town claiming their friend was abducted. Despite no apparent motive or evidence of foul play, no-one believes their story and his disappearance is treated as murder.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 863,
+      "title": "Fire in the Sky",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6J4lPto3rjlHZwhIhCy9cOWNnqb.jpg",
+      "year": 2025,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "HORROR",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "David Cronenberg",
+      "description": "Inconsolable since the death of his wife, Karsh, a prominent businessman, invents a revolutionary and controversial technology that enables the living to monitor their dear departed in their shrouds. One night, multiple graves, including that of Karsh\u2019s wife, are desecrated, and he sets out to track down the perpetrators.",
+      "runtime": 120,
+      "language": "en",
+      "avgRating": 0,
+      "id": 866,
+      "title": "The Shrouds",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/gzc75Za4ArqfXIIr7STNnIE5rnA.jpg",
+      "year": 1953,
+      "genres": [
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Byron Haskin",
+      "description": "The residents of a small town are excited when a flaming meteor lands in the hills, until they discover it is the first of many transport devices from Mars bringing an army of invaders invincible to any man-made weapon, even the atomic bomb.",
+      "runtime": 85,
+      "language": "en",
+      "avgRating": 0,
+      "id": 878,
+      "title": "The War of the Worlds",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/71JMWqNDRz2Au59JYosfn5W8nuS.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Kim Jee-woon",
+      "description": "In 2029, an elite police squad combats an anti-reunification terrorist group while another enemy lurks nearby.",
+      "runtime": 138,
+      "language": "ko",
+      "avgRating": 0,
+      "id": 881,
+      "title": "Illang: The Wolf Brigade",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yQfh1gPssd3tTnifwdSMuLeDEZb.jpg",
+      "year": 2010,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "ACTION"
+      ],
+      "director": "Christopher Ray",
+      "description": "Volcanic activity awakens a prehistoric giant anaconda, forcing the local Sheriff and a band of volunteers to stop the menace.",
+      "runtime": 87,
+      "language": "en",
+      "avgRating": 0,
+      "id": 882,
+      "title": "Megaconda",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
+      "year": 1996,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Jonathan Frakes",
+      "description": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
+      "runtime": 111,
+      "language": "en",
+      "avgRating": 0,
+      "id": 885,
+      "title": "Star Trek: First Contact",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yhzTeZU5OULn3ePGF58Rc5oIocZ.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "COMEDY"
+      ],
+      "director": "McG",
+      "description": "Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 886,
+      "title": "Rim of the World",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Joseph Kosinski",
+      "description": "A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he's testing for a pharmaceutical genius.",
+      "runtime": 107,
+      "language": "en",
+      "avgRating": 0,
+      "id": 895,
+      "title": "Spiderhead",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/bXhogkZCR0aOQ077rfMULYbDmtH.jpg",
+      "year": 2013,
+      "genres": [
+        "SCI_FI",
+        "ANIMATION",
+        "DRAMA"
+      ],
+      "director": "Takuya Sato",
+      "description": "One year after the events of the anime, Rintarou begins to feel the repercussions of extensive time travel, and eventually completely fades from reality. Kurisu, being the only companion to remember him, now must find a way to bring him back.",
+      "runtime": 90,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 901,
+      "title": "Steins;Gate: The Movie - Load Region of Déjà Vu",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hXUiDE1CgRJlcXMVZC1g5wFAdn6.jpg",
+      "year": 1962,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Ishirō Honda",
+      "description": "The advertising director of Pacific Pharmaceuticals, frustrated with the low ratings of their sponsored TV program, seeks a more sensationalist approach. He orders his staff to Faro Island to capture King Kong for exploitation. As Godzilla re-emerges, a media frenzy generates with Pacific looking to capitalize off of the ultimate battle.",
+      "runtime": 97,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 903,
+      "title": "King Kong vs. Godzilla",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg",
+      "year": 2020,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "George Clooney",
+      "description": "A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.",
+      "runtime": 118,
+      "language": "en",
+      "avgRating": 0,
+      "id": 908,
+      "title": "The Midnight Sky",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qzMYKnT4MG1d0gnhwytr4cKhUvS.jpg",
+      "year": 2029,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "James Cameron",
+      "description": "The fourth installment of the franchise. Plot TBA.",
+      "runtime": 0,
+      "language": "en",
+      "avgRating": 0,
+      "id": 909,
+      "title": "Avatar 4",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/7pdUFPw76zGwDKbNpXxJknh0YWB.jpg",
+      "year": 2010,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER"
+      ],
+      "director": "Colin Strause",
+      "description": "When strange lights descend on the city of Los Angeles, people are drawn outside like moths to a flame where an extraterrestrial force threatens to swallow the entire human population off the face of the Earth. Now the band of survivors must fight for their lives as the world unravels around them.",
+      "runtime": 93,
+      "language": "en",
+      "avgRating": 0,
+      "id": 910,
+      "title": "Skyline",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jaUu9zHtbcFwrB5Y1DNYE09HMex.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "ACTION"
+      ],
+      "director": "McG",
+      "description": "In a futuristic dystopia with enforced beauty standards, a teen awaiting mandatory cosmetic surgery embarks on a journey to find her missing friend.",
+      "runtime": 100,
+      "language": "en",
+      "avgRating": 0,
+      "id": 911,
+      "title": "Uglies",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/19RDmhX6LtzMxv0KXXAU1IBIvvA.jpg",
+      "year": 1956,
+      "genres": [
+        "SCI_FI",
+        "HORROR"
+      ],
+      "director": "Terry O. Morse",
+      "description": "During an assignment, foreign correspondent Steve Martin spends a layover in Tokyo and is caught amid the rampage of an unstoppable prehistoric monster the Japanese call 'Godzilla'. The only hope for both Japan and the world lies on a secret weapon, which may prove more destructive than the monster itself.",
+      "runtime": 81,
+      "language": "en",
+      "avgRating": 0,
+      "id": 912,
+      "title": "Godzilla, King of the Monsters!",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/2P31jhd1dWUAPD8dmnSrwkQ8CNN.jpg",
+      "year": 2014,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Mike Cahill",
+      "description": "A molecular biologist's study of the human eye has far-reaching implications about humanity's scientific and spiritual beliefs.",
+      "runtime": 106,
+      "language": "en",
+      "avgRating": 0,
+      "id": 918,
+      "title": "I Origins",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/jgPMhzBAZSTMe5sRkNThiuR7dO0.jpg",
+      "year": 1996,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "HORROR"
+      ],
+      "director": "David Twohy",
+      "description": "Zane Ziminski is an astrophysicist who receives a message that seems to have extraterrestrial origins. Eerily soon after his discovery, Zane is fired. He then embarks on a search to determine the origins of the transmission that leads him into a Hitchcockian labyrinth of paranoia and intrigue.",
+      "runtime": 115,
+      "language": "en",
+      "avgRating": 0,
+      "id": 924,
+      "title": "The Arrival",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xQCMAHeg5M9HpDIqanYbWdr4brB.jpg",
+      "year": 1998,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Jonathan Frakes",
+      "description": "When an alien race and factions within Starfleet attempt to take over a planet that has \"regenerative\" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.",
+      "runtime": 103,
+      "language": "en",
+      "avgRating": 0,
+      "id": 929,
+      "title": "Star Trek: Insurrection",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xhBTO9n3fxy3HJt7WlR9h9vvVmk.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "CRIME",
+        "DRAMA",
+        "THRILLER"
+      ],
+      "director": "Andrew Niccol",
+      "description": "Set in a near-future world where there is no privacy, ignorance or anonymity, our private memories are recorded and crime almost ceases to exist. In trying to solve a series of unsolved murders, Sal Frieland stumbles onto a young woman who appears to have subverted the system and disappeared. She has no identity, no history and no record. Sal realizes it may not be the end of crime but the beginning. Known only as 'The Girl', Sal must find her before he becomes the next victim.",
+      "runtime": 100,
+      "language": "en",
+      "avgRating": 0,
+      "id": 932,
+      "title": "Anon",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/arEZYd6uMOFTILne9Ux0A8qctMe.jpg",
+      "year": 2013,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ANIMATION",
+        "DRAMA"
+      ],
+      "director": "Jay Oliva",
+      "description": "Batman has stopped the reign of terror that The Mutants had cast upon his city.  Now an old foe wants a reunion and the government wants The Man of Steel to put a stop to Batman.",
+      "runtime": 78,
+      "language": "en",
+      "avgRating": 0,
+      "id": 946,
+      "title": "Batman: The Dark Knight Returns, Part 2",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/b7BllsQkD6nTkAdtd28UVCmKqVi.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "ROMANCE",
+        "DRAMA"
+      ],
+      "director": "Mike Cahill",
+      "description": "A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is just a computer simulation. Doubtful at first, Greg eventually discovers there may be some truth to Isabel\u2019s wild conspiracy.",
+      "runtime": 104,
+      "language": "en",
+      "avgRating": 0,
+      "id": 948,
+      "title": "Bliss",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/nXj3iwqUTnVWR95KCkjGT6hle0J.jpg",
+      "year": 2023,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "THRILLER",
+        "ACTION"
+      ],
+      "director": "Daniel Benmayor",
+      "description": "Ian is a teenager who lives with his father on the outskirts by running small scams using Ian's ability to generate visual illusions upon unsuspecting victims. When one of his cons goes awry, his abilities publicly spiral out of control and Ian becomes the target of two rival organizations, each seeking to exploit his powers.",
+      "runtime": 112,
+      "language": "es",
+      "avgRating": 0,
+      "id": 950,
+      "title": "Awareness",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
+      "year": 1996,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "THRILLER"
+      ],
+      "director": "Jonathan Frakes",
+      "description": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
+      "runtime": 111,
+      "language": "en",
+      "avgRating": 0,
+      "id": 956,
+      "title": "Star Trek: First Contact",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE",
+        "DRAMA"
+      ],
+      "director": "Oliver Daly",
+      "description": "The life of a teenage boy is forever altered by a chance encounter with cutting edge military technology.",
+      "runtime": 98,
+      "language": "en",
+      "avgRating": 0,
+      "id": 958,
+      "title": "A-X-L",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/xGFjhFkqpOpFFUkEQjetKS11AWz.jpg",
+      "year": 2024,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Kim Tae-yong",
+      "description": "In a world where an AI programme allows people to communicate with their deceased loved ones, a flight attendant and a mother question the meaning of reality and humanity.",
+      "runtime": 113,
+      "language": "ko",
+      "avgRating": 0,
+      "id": 960,
+      "title": "Wonderland",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/70gwaushxXcpGRvadHtLD0YLHC1.jpg",
+      "year": 1965,
+      "genres": [
+        "SCI_FI",
+        "ACTION"
+      ],
+      "director": "Ishirō Honda",
+      "description": "Astronauts Glenn and Fuji investigate Planet X and encounter mysterious aliens known as the Xiliens, who ask Earth's people to help save their world from \"Monster Zero\".  In exchange for borrowing Godzilla and Rodan, the Xiliens offer a cure for cancer. As Glenn investigates, he develops a romance with Miss Namikawa and uncovers the Xilien's true intentions.",
+      "runtime": 96,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 965,
+      "title": "Invasion of Astro-Monster",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/euLgEo2kvuLjYxbfOekWF3l82t6.jpg",
+      "year": 2013,
+      "genres": [
+        "SCI_FI",
+        "THRILLER",
+        "HORROR"
+      ],
+      "director": "Scott Stewart",
+      "description": "From the producers of Paranormal Activity, Insidious, and Sinister comes Dark Skies: a supernatural thriller that follows a young family living in the suburbs. As husband and wife Daniel and Lacey Barret witness an escalating series of disturbing events involving their family, their safe and peaceful home quickly unravels. When it becomes clear that the Barret family is being targeted by an unimaginably terrifying and deadly force, Daniel and Lacey take matters in their own hands to solve the mystery of what is after their family.",
+      "runtime": 97,
+      "language": "en",
+      "avgRating": 0,
+      "id": 970,
+      "title": "Dark Skies",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qmjlDkV8CfCboa8WV06ytZaThqx.jpg",
+      "year": 1981,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "THRILLER",
+        "CRIME",
+        "DRAMA"
+      ],
+      "director": "Peter Hyams",
+      "description": "On the sunless moon Io, Marshall William T. O\u2019Niel goes toe-to-toe with the corrupt manager of a mining colony and his gang of roughnecks while investigating a rash of worker suicides.",
+      "runtime": 110,
+      "language": "en",
+      "avgRating": 0,
+      "id": 975,
+      "title": "Outland",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/yhzTeZU5OULn3ePGF58Rc5oIocZ.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "ADVENTURE",
+        "COMEDY"
+      ],
+      "director": "McG",
+      "description": "Stranded at a summer camp when aliens attack the planet, four teens with nothing in common embark on a perilous mission to save the world.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 977,
+      "title": "Rim of the World",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/rTFrjAp1YV49DSTUGCyKSkaEHC8.jpg",
+      "year": 1993,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "THRILLER",
+        "DRAMA"
+      ],
+      "director": "Rob Lieberman",
+      "description": "After clearing brush for the government, a group of men return to town claiming their friend was abducted. Despite no apparent motive or evidence of foul play, no-one believes their story and his disappearance is treated as murder.",
+      "runtime": 109,
+      "language": "en",
+      "avgRating": 0,
+      "id": 982,
+      "title": "Fire in the Sky",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eHDez1uN5X2ZAq4niX7HvhyZIIO.jpg",
+      "year": 2013,
+      "genres": [
+        "SCI_FI",
+        "ANIMATION",
+        "ACTION"
+      ],
+      "director": "Hiroshi Hamasaki",
+      "description": "Iron Man enlists the help of ruthless vigilante the Punisher to track down War Machine's murderer. All the while, he's being pursued by S.H.I.E.L.D. agents Black Widow and Hawkeye, who suspect his involvement in a recent terrorist plot.",
+      "runtime": 88,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1007,
+      "title": "Iron Man: Rise of Technovore",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/hXUiDE1CgRJlcXMVZC1g5wFAdn6.jpg",
+      "year": 1962,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "ACTION"
+      ],
+      "director": "Ishirō Honda",
+      "description": "The advertising director of Pacific Pharmaceuticals, frustrated with the low ratings of their sponsored TV program, seeks a more sensationalist approach. He orders his staff to Faro Island to capture King Kong for exploitation. As Godzilla re-emerges, a media frenzy generates with Pacific looking to capitalize off of the ultimate battle.",
+      "runtime": 97,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1018,
+      "title": "King Kong vs. Godzilla",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kl80N1g69v9QXe1wvkFza31WhD4.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "ACTION"
+      ],
+      "director": "Lin Zhenzhao",
+      "description": "When a drug to replicate plant cells creates a sentient form of flower, the planet is over taken by flora and humankind is depleted. A Chinese task force, a widowed father and his young daughter fight to survive in a mission to inject an antidote to the core of the plants to reverse their growth.",
+      "runtime": 89,
+      "language": "zh",
+      "avgRating": 0,
+      "id": 1024,
+      "title": "Restart the Earth",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/6Wm7P6y22UZA40QuPYHyWyJ6leI.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ADVENTURE"
+      ],
+      "director": "Edward Drake",
+      "description": "In the year 2524, four centuries after humans started colonizing the outer planets, retired General James Ford gets called back into service when a hostile alien fleet attacks soldiers on a remote planet. The threat against mankind soon escalates into an interstellar war as Ford and a team of elite soldiers try to stop the imminent attack before it's too late.",
+      "runtime": 88,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1027,
+      "title": "Cosmic Sin",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg",
+      "year": 2018,
+      "genres": [
+        "SCI_FI",
+        "ANIMATION",
+        "ACTION",
+        "DRAMA",
+        "DRAMA"
+      ],
+      "director": "Jake Castorena",
+      "description": "When a hulking monster arrives on Earth and begins a mindless rampage, the Justice League is quickly called in to stop it. But it soon becomes apparent that only Superman can stand against the monstrosity.",
+      "runtime": 81,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1028,
+      "title": "The Death of Superman",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/f88O2AkBe7KXhQznFs6zOdpClcs.jpg",
+      "year": 2017,
+      "genres": [
+        "SCI_FI",
+        "DRAMA",
+        "THRILLER",
+        "ROMANCE"
+      ],
+      "director": "Paul Currie",
+      "description": "Two planes almost collide after a blinding flash of light paralyzes air traffic controller Dylan Branson for a few seconds. Suspended from his job, Dylan starts to notice an ominous pattern of sounds and events that repeats itself in exactly the same manner every day, ending precisely at 2:22 p.m. Also drawn into a complex relationship with a woman, Dylan must figure out a way to break the power of the past and take control of time itself.",
+      "runtime": 99,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1030,
+      "title": "2:22",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ayPSqlpYIbeq1RiDekx6W9WUqrL.jpg",
+      "year": 2019,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Grant Sputore",
+      "description": "A teenage girl is raised underground by a robot \"Mother\", designed to repopulate the earth following an extinction event. But their unique bond is threatened when an inexplicable stranger arrives with alarming news.",
+      "runtime": 113,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1039,
+      "title": "I Am Mother",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/ktjbGsGm5GKlHDvvwQajXvDW2BN.jpg",
+      "year": 2016,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "ANIMATION",
+        "ADVENTURE",
+        "CRIME"
+      ],
+      "director": "Jay Oliva",
+      "description": "When Batman goes missing, it takes the entire Bat \"family\" - including Batwoman and Batwing - to keep the peace in Gotham and unravel the mystery behind the Dark Knight's disappearance.",
+      "runtime": 74,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1041,
+      "title": "Batman: Bad Blood",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/kl80N1g69v9QXe1wvkFza31WhD4.jpg",
+      "year": 2021,
+      "genres": [
+        "SCI_FI",
+        "HORROR",
+        "ACTION"
+      ],
+      "director": "Lin Zhenzhao",
+      "description": "When a drug to replicate plant cells creates a sentient form of flower, the planet is over taken by flora and humankind is depleted. A Chinese task force, a widowed father and his young daughter fight to survive in a mission to inject an antidote to the core of the plants to reverse their growth.",
+      "runtime": 89,
+      "language": "zh",
+      "avgRating": 0,
+      "id": 1047,
+      "title": "Restart the Earth",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg",
+      "year": 2022,
+      "genres": [
+        "SCI_FI",
+        "DRAMA"
+      ],
+      "director": "Kogonada",
+      "description": "When his young daughter's beloved companion \u2014 an android named Yang \u2014 malfunctions, Jake searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife and daughter across a distance he didn't know was there.",
+      "runtime": 96,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1048,
+      "title": "After Yang",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/rYGsvMKjIBU5CAQrfHOv9xIfYhn.jpg",
+      "year": 1966,
+      "genres": [
+        "SCI_FI",
+        "ACTION",
+        "DRAMA"
+      ],
+      "director": "Jun Fukuda",
+      "description": "Searching for his brother, Ryota stows away on a boat belonging to a criminal alongside two other teenagers. The group shipwrecks on Letchi island and discover the Infant Island natives have been enslaved by a terrorist organization controlling a crustacean monster. Finding a sleeping Godzilla, they decide to awaken him to defeat the terrorists and liberate the natives.",
+      "runtime": 87,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1049,
+      "title": "Ebirah, Horror of the Deep",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/4FBSFz8wLpxd4o6hnvKOJJ8WSIz.jpg",
+      "year": 1971,
+      "genres": [
+        "SCI_FI",
+        "THRILLER"
+      ],
+      "director": "Robert Wise",
+      "description": "When virtually all of the residents of Piedmont, New Mexico, are found dead after the return to Earth of a space satellite, the head of the US Air Force's Project Scoop declares an emergency. A group of eminent scientists led by Dr. Jeremy Stone scramble to a secure laboratory and try to first isolate the life form while determining why two people from Piedmont - an old alcoholic and a six-month-old baby - survived. The scientists methodically study the alien life form unaware that it has already mutated and presents a far greater danger in the lab, which is equipped with a nuclear self-destruct device designed to prevent the escape of dangerous biological agents.",
+      "runtime": 131,
+      "language": "en",
+      "avgRating": 0,
+      "id": 1051,
+      "title": "The Andromeda Strain",
+      "ratingCount": 0
+    },
+    {
+      "posterUrl": "https://image.tmdb.org/t/p/w300/eLd31emY3jann7JV0AkSPJ06Xep.jpg",
+      "year": 2015,
+      "genres": [
+        "SCI_FI",
+        "ANIMATION"
+      ],
+      "director": "Kazuya Nomura",
+      "description": "When a ghost-infecting virus known as Fire-Starter begins spreading through the system resulting in the assassination of the Japanese Prime Minister, Major Motoko Kusanagi and her elite team of special operatives are called in to track down its source.",
+      "runtime": 100,
+      "language": "ja",
+      "avgRating": 0,
+      "id": 1052,
+      "title": "Ghost in the Shell: The New Movie",
+      "ratingCount": 0
+    }
+  ],
+  "genre": "SCI_FI"
+}

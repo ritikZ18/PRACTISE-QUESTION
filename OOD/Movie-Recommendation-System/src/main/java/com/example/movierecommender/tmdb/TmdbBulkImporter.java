@@ -15,7 +15,7 @@ public class TmdbBulkImporter {
     private final TmdbClient client;
     private final com.example.movierecommender.tmdb.CatalogManager catalog;
 
-    public TmdbBulkImporter() {
+    public TmdbBulkImporter() throws Exception {
         this.client = new TmdbClient();
         this.catalog = new com.example.movierecommender.tmdb.CatalogManager();
     }
