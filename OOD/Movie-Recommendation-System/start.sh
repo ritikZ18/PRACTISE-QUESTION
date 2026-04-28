@@ -70,6 +70,63 @@ start_frontend() {
   fi
 }
 
+stop_backend() {
+  echo "[start] Stopping backend..."
+  local pids
+  pids=$(pgrep -f 'com.example.movierecommender.api.APIServer' || true)
+  if [ -n "$pids" ]; then
+    echo "[start] Killing backend PIDs: $pids"
+    kill $pids || true
+    sleep 1
+  else
+    local lpid
+    lpid=$(lsof -t -i:8080 2>/dev/null || true)
+    if [ -n "$lpid" ]; then
+      echo "[start] Killing PID listening on 8080: $lpid"
+      kill $lpid || true
+      sleep 1
+    else
+      echo "[start] No backend process found"
+    fi
+  fi
+}
+
+stop_frontend() {
+  echo "[start] Stopping frontend..."
+  local pids
+  pids=$(pgrep -f 'vite' || true)
+  if [ -n "$pids" ]; then
+    echo "[start] Killing frontend PIDs: $pids"
+    kill $pids || true
+    sleep 1
+  else
+    local lpid
+    lpid=$(lsof -t -i:3000 2>/dev/null || true)
+    if [ -n "$lpid" ]; then
+      echo "[start] Killing PID listening on 3000: $lpid"
+      kill $lpid || true
+      sleep 1
+    else
+      echo "[start] No frontend process found"
+    fi
+  fi
+}
+
+stop_all() {
+  stop_frontend
+  stop_backend
+  echo "[start] All services stopped"
+}
+
+restart_all() {
+  echo "[start] Restarting services..."
+  stop_all
+  ensure_java_compile
+  start_backend
+  start_frontend
+  echo "[start] Restart complete"
+}
+
 run_ingest() {
   local mode="$1"; shift
   case "$mode" in
@@ -95,21 +152,39 @@ run_ingest() {
 if [ "${1:-}" = "--help" ] || [ "${1:-}" = "-h" ]; then
   usage
 fi
-
-ensure_java_compile
-start_backend
-start_frontend
-
-if [ "${1:-}" = "--ingest" ]; then
-  if [ -z "${2:-}" ]; then usage; fi
-  if [ "${2}" = "ids" ]; then
-    run_ingest ids "${3:-}"
-  elif [ "${2}" = "discover" ]; then
-    run_ingest discover "${3:-}"
-  else
-    echo "Invalid ingest option"; usage
-  fi
-else
-  echo "[start] Services ensured. Open http://localhost:3000 and http://localhost:8080"
-fi
+case "${1:-}" in
+  --ingest)
+    ensure_java_compile
+    start_backend
+    start_frontend
+    if [ -z "${2:-}" ]; then usage; fi
+    if [ "${2}" = "ids" ]; then
+      run_ingest ids "${3:-}"
+    elif [ "${2}" = "discover" ]; then
+      # support optional start/end pages
+      run_ingest discover "${3:-}"
+    else
+      echo "Invalid ingest option"; usage
+    fi
+    ;;
+  --stop)
+    stop_all
+    ;;
+  --restart)
+    restart_all
+    ;;
+  --status)
+    echo "Backend on 8080: $(is_port_open 8080 && echo up || echo down)"
+    echo "Frontend on 3000: $(is_port_open 3000 && echo up || echo down)"
+    ;;
+  "" )
+    ensure_java_compile
+    start_backend
+    start_frontend
+    echo "[start] Services ensured. Open http://localhost:3000 and http://localhost:8080"
+    ;;
+  *)
+    usage
+    ;;
+esac
 
