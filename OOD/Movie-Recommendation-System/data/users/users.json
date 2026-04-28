@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "users": {
+    "1": {
+      "id": 1,
+      "name": "Alice",
+      "preferredGenres": ["SCI_FI", "THRILLER"],
+      "watchHistory": [1, 2, 3, 7]
+    },
+    "2": {
+      "id": 2,
+      "name": "Bob",
+      "preferredGenres": ["ACTION", "CRIME"],
+      "watchHistory": [2, 8, 12, 19]
+    },
+    "3": {
+      "id": 3,
+      "name": "Carol",
+      "preferredGenres": ["DRAMA"],
+      "watchHistory": [4, 6, 11, 18]
+    },
+    "4": {
+      "id": 4,
+      "name": "David",
+      "preferredGenres": ["HORROR", "THRILLER"],
+      "watchHistory": [5, 9, 14, 16, 22]
+    },
+    "5": {
+      "id": 5,
+      "name": "Emma",
+      "preferredGenres": ["COMEDY", "ROMANCE"],
+      "watchHistory": [10, 13, 20, 25]
+    }
+  },
+  "nextId": 6
+}

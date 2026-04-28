@@ -1,0 +1,38 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+.classpath
+.project
+.settings/
+bin/
+target/
+*.iml
+.idea/
+
+# Node/npm
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# IDE
+.vscode/
+.sublime-project
+.sublime-workspace
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Misc
+.env
+.env.local
+.DS_Store
+*.log

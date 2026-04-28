@@ -1,0 +1,44 @@
+{
+  "genre": "ANIMATION",
+  "movies": [
+    {
+      "id": 36,
+      "title": "Spirited Away",
+      "year": 2001,
+      "director": "Hayao Miyazaki",
+      "genres": ["ANIMATION", "ADVENTURE", "FANTASY"],
+      "runtime": 125,
+      "language": "Japanese",
+      "description": "During her family's move to the suburbs, a sullen girl wanders into a world ruled by gods, witches, and spirits, and meets a mysterious boy who claims to know her.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Spirited+Away",
+      "avgRating": 4.7,
+      "ratingCount": 0
+    },
+    {
+      "id": 46,
+      "title": "Your Name",
+      "year": 2016,
+      "director": "Makoto Shinkai",
+      "genres": ["ANIMATION", "ROMANCE", "DRAMA"],
+      "runtime": 107,
+      "language": "Japanese",
+      "description": "Two strangers find themselves mysteriously swapping bodies, leading to a magical love story.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Your+Name",
+      "avgRating": 4.5,
+      "ratingCount": 0
+    },
+    {
+      "id": 47,
+      "title": "Coco",
+      "year": 2017,
+      "director": "Lee Unkrich",
+      "genres": ["ANIMATION", "FAMILY", "FANTASY"],
+      "runtime": 105,
+      "language": "English",
+      "description": "Aspiring musician Miguel, faced with his family's ban on music, enters the Land of the Dead to find his great-great-grandfather.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Coco",
+      "avgRating": 4.6,
+      "ratingCount": 0
+    }
+  ]
+}

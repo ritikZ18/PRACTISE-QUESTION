@@ -1,0 +1,96 @@
+{
+  "genre": "DRAMA",
+  "movies": [
+    {
+      "id": 4,
+      "title": "Parasite",
+      "year": 2019,
+      "director": "Bong Joon-ho",
+      "genres": ["DRAMA", "THRILLER"],
+      "runtime": 132,
+      "language": "Korean",
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Parasite",
+      "avgRating": 4.8,
+      "ratingCount": 0
+    },
+    {
+      "id": 6,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "director": "Frank Darabont",
+      "genres": ["DRAMA", "CRIME"],
+      "runtime": 142,
+      "language": "English",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Shawshank",
+      "avgRating": 4.9,
+      "ratingCount": 0
+    },
+    {
+      "id": 11,
+      "title": "The Godfather",
+      "year": 1972,
+      "director": "Francis Ford Coppola",
+      "genres": ["DRAMA", "CRIME"],
+      "runtime": 175,
+      "language": "English",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his youngest son.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Godfather",
+      "avgRating": 4.9,
+      "ratingCount": 0
+    },
+    {
+      "id": 18,
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "director": "Gabriele Muccino",
+      "genres": ["DRAMA"],
+      "runtime": 117,
+      "language": "English",
+      "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Pursuit+Happiness",
+      "avgRating": 4.5,
+      "ratingCount": 0
+    },
+    {
+      "id": 27,
+      "title": "Moonlight",
+      "year": 2016,
+      "director": "Barry Jenkins",
+      "genres": ["DRAMA"],
+      "runtime": 111,
+      "language": "English",
+      "description": "A chronicle of the childhood, adolescence, and adulthood of a Black man growing up in Miami.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Moonlight",
+      "avgRating": 4.4,
+      "ratingCount": 0
+    },
+    {
+      "id": 30,
+      "title": "Nomadland",
+      "year": 2020,
+      "director": "Chloé Zhao",
+      "genres": ["DRAMA"],
+      "runtime": 107,
+      "language": "English",
+      "description": "A woman in her sixties embarks on a journey through the American West after losing everything in the economic collapse.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Nomadland",
+      "avgRating": 4.3,
+      "ratingCount": 0
+    },
+    {
+      "id": 37,
+      "title": "A Beautiful Mind",
+      "year": 2001,
+      "director": "Ron Howard",
+      "genres": ["DRAMA", "BIOGRAPHY"],
+      "runtime": 135,
+      "language": "English",
+      "description": "The life and struggles of mathematician John Nash, a pioneer in game theory.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Beautiful+Mind",
+      "avgRating": 4.5,
+      "ratingCount": 0
+    }
+  ]
+}

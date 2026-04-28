@@ -1,0 +1,57 @@
+{
+  "genre": "ROMANCE",
+  "movies": [
+    {
+      "id": 17,
+      "title": "The Notebook",
+      "year": 2004,
+      "director": "Nick Cassavetes",
+      "genres": ["ROMANCE", "DRAMA"],
+      "runtime": 123,
+      "language": "English",
+      "description": "A poor yet passionate man falls in love with a rich young woman, giving her a sense of freedom.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=The+Notebook",
+      "avgRating": 4.2,
+      "ratingCount": 0
+    },
+    {
+      "id": 24,
+      "title": "La La Land",
+      "year": 2016,
+      "director": "Damien Chazelle",
+      "genres": ["ROMANCE", "DRAMA"],
+      "runtime": 128,
+      "language": "English",
+      "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while pursuing their dreams.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=La+La+Land",
+      "avgRating": 4.4,
+      "ratingCount": 0
+    },
+    {
+      "id": 33,
+      "title": "Pride and Prejudice",
+      "year": 2005,
+      "director": "Joe Wright",
+      "genres": ["ROMANCE", "DRAMA"],
+      "runtime": 127,
+      "language": "English",
+      "description": "Spanning from 1811 to 1817, the six Bennet sisters from Longbourn estate seek advantageous marriages.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Pride+Prejudice",
+      "avgRating": 4.3,
+      "ratingCount": 0
+    },
+    {
+      "id": 41,
+      "title": "Titanic",
+      "year": 1997,
+      "director": "James Cameron",
+      "genres": ["ROMANCE", "DRAMA"],
+      "runtime": 194,
+      "language": "English",
+      "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Titanic",
+      "avgRating": 4.3,
+      "ratingCount": 0
+    }
+  ]
+}

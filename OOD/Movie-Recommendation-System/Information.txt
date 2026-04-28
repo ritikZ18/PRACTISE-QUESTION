@@ -1,0 +1,97 @@
+We are making a Movie Recommendation System based on the User Rating
+
+Questions : 
+1. how user will rate the movie ?? 
+--> scale, 1 to 5 
+
+2. how the Recommendation to users will be done ?
+--> based on the ratings by other users, related to same movies user rated 
+
+3. what if the movie ratings are equal which will be recomended ? 
+--> if tie recomended any movie from the top movie
+
+4. what is the user has not rated any movies ? 
+--> then the same logic of 3rd question solutions 
+
+
+HLD : 
+we will use the package based folder structure to make the Single Resposnibilty SOLID pricinciple,where every object is one job 
+
+1. `Movie` class to encapsulate the work of the Movie info (id, title, genre, year, avg rating)
+2. `User` class to encapsulate the user behaviours (id, name, watch history, preferences)
+3. `Movierating` , `Genre` enum to store the behaviours to store ratings and categories movies and CB filtering
+4. `WatchEvent` class to represent, user eatching movie( userId, movieId, watchedPresent, timestamp)
+5. `RatingRegister` class as centra data store, holds maps of users -> ratings and movies -> rating, plus all users and movie 
+6. `RecommendationStrategy` interface so algorithm are swappable(modifiable)
+7. `CollaborativeFilteringStrategy` class that finds similiar users use Cosine Similiarity and recomend what they watch
+8. `ContentBasedStrategy` class that recomends mvoies with overlapping genreor metadata
+9. HybridStrategy class blend both above strategy 
+10. MovieRecommender class that holds ref to ratingRegister, selects strategy and exposes recomend() methoid 
+
+
+
+A good Java folder structure for this movie recommendation system:
+
+```text
+movie-recommender/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/example/movierecommender/
+│               ├── Main.java
+│               │
+│               ├── model/
+│               │   ├── Movie.java
+│               │   ├── User.java
+│               │   ├── WatchEvent.java
+│               │   ├── Genre.java
+│               │   └── MovieRating.java
+│               │
+│               ├── repository/
+│               │   └── RatingRegister.java
+│               │
+│               ├── strategy/
+│               │   ├── RecommendationStrategy.java
+│               │   ├── CollaborativeFilteringStrategy.java
+│               │   ├── ContentBasedStrategy.java
+│               │   └── HybridStrategy.java
+│               │
+│               └── service/
+│                   └── MovieRecommender.java
+│
+└── README.md
+```
+
+Use packages like this:
+
+```java
+package com.example.movierecommender.model;
+```
+
+For example:
+
+```text
+model
+```
+
+contains data objects like `Movie`, `User`, enums, and `WatchEvent`.
+
+```text
+repository
+```
+
+contains storage/data access logic like `RatingRegister`.
+
+```text
+strategy
+```
+
+contains recommendation algorithms.
+
+```text
+service
+```
+
+contains the main business-facing class, `MovieRecommender`.
+
+`Main.java` can stay at the root package because it is only used to run/demo the app.

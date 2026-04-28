@@ -1,0 +1,96 @@
+{
+  "genre": "THRILLER",
+  "movies": [
+    {
+      "id": 5,
+      "title": "Get Out",
+      "year": 2017,
+      "director": "Jordan Peele",
+      "genres": ["HORROR", "THRILLER"],
+      "runtime": 104,
+      "language": "English",
+      "description": "A young Black man visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Get+Out",
+      "avgRating": 4.6,
+      "ratingCount": 0
+    },
+    {
+      "id": 9,
+      "title": "Se7en",
+      "year": 1995,
+      "director": "David Fincher",
+      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "runtime": 127,
+      "language": "English",
+      "description": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Se7en",
+      "avgRating": 4.7,
+      "ratingCount": 0
+    },
+    {
+      "id": 14,
+      "title": "Zodiac",
+      "year": 2007,
+      "director": "David Fincher",
+      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "runtime": 158,
+      "language": "English",
+      "description": "A chronicle of the hunt for the Zodiac killer, one of the most elusive and mysterious killers in American history.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Zodiac",
+      "avgRating": 4.5,
+      "ratingCount": 0
+    },
+    {
+      "id": 21,
+      "title": "Prisoners",
+      "year": 2013,
+      "director": "Denis Villeneuve",
+      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "runtime": 153,
+      "language": "English",
+      "description": "When his daughter goes missing, a man takes matters into his own hands with the help of his neighbor.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Prisoners",
+      "avgRating": 4.4,
+      "ratingCount": 0
+    },
+    {
+      "id": 26,
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "director": "Jonathan Demme",
+      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "runtime": 118,
+      "language": "English",
+      "description": "A young FBI cadet seeks the advice of an incarcerated and manipulative cannibal killer to help catch another serial killer.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Silence+Lambs",
+      "avgRating": 4.8,
+      "ratingCount": 0
+    },
+    {
+      "id": 34,
+      "title": "Gone Girl",
+      "year": 2014,
+      "director": "David Fincher",
+      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "runtime": 149,
+      "language": "English",
+      "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Gone+Girl",
+      "avgRating": 4.5,
+      "ratingCount": 0
+    },
+    {
+      "id": 43,
+      "title": "Memories of Murder",
+      "year": 2003,
+      "director": "Bong Joon-ho",
+      "genres": ["THRILLER", "CRIME", "DRAMA"],
+      "runtime": 131,
+      "language": "Korean",
+      "description": "Two detectives hunt a serial killer in South Korea while carrying personal demons.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Memories+Murder",
+      "avgRating": 4.6,
+      "ratingCount": 0
+    }
+  ]
+}

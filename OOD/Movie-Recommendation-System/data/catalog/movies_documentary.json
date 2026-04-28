@@ -1,0 +1,44 @@
+{
+  "genre": "DOCUMENTARY",
+  "movies": [
+    {
+      "id": 48,
+      "title": "Planet Earth",
+      "year": 2016,
+      "director": "Alastair Fothergill",
+      "genres": ["DOCUMENTARY"],
+      "runtime": 550,
+      "language": "English",
+      "description": "A breathtaking journey across the planet to experience the majesty and variety of the natural world.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Planet+Earth",
+      "avgRating": 4.8,
+      "ratingCount": 0
+    },
+    {
+      "id": 49,
+      "title": "Free Solo",
+      "year": 2018,
+      "director": "Jimmy Chin",
+      "genres": ["DOCUMENTARY", "THRILLER"],
+      "runtime": 97,
+      "language": "English",
+      "description": "A documentary about a professional climber's attempt to climb the nearly vertical 3,000-foot El Capitan with no safety rope.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Free+Solo",
+      "avgRating": 4.6,
+      "ratingCount": 0
+    },
+    {
+      "id": 50,
+      "title": "My Octopus Teacher",
+      "year": 2020,
+      "director": "Pippa Ehrlich",
+      "genres": ["DOCUMENTARY"],
+      "runtime": 85,
+      "language": "English",
+      "description": "A filmmaker forges an unusual friendship with an octopus living in a South African kelp forest.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Octopus+Teacher",
+      "avgRating": 4.7,
+      "ratingCount": 0
+    }
+  ]
+}

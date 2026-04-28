@@ -1,0 +1,83 @@
+{
+  "genre": "COMEDY",
+  "movies": [
+    {
+      "id": 10,
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "director": "Wes Anderson",
+      "genres": ["COMEDY", "ADVENTURE"],
+      "runtime": 99,
+      "language": "English",
+      "description": "A writer encounters the owner of an aging high-class hotel, who tells of his early years serving as a lobby boy under an exceptional concierge.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Grand+Budapest",
+      "avgRating": 4.4,
+      "ratingCount": 0
+    },
+    {
+      "id": 13,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "director": "Robert Zemeckis",
+      "genres": ["COMEDY", "DRAMA"],
+      "runtime": 142,
+      "language": "English",
+      "description": "The presidencies of Kennedy and Johnson unfold from the perspective of an Alabama man with an IQ of 75.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Forrest+Gump",
+      "avgRating": 4.6,
+      "ratingCount": 0
+    },
+    {
+      "id": 20,
+      "title": "Superbad",
+      "year": 2007,
+      "director": "Greg Mottola",
+      "genres": ["COMEDY"],
+      "runtime": 113,
+      "language": "English",
+      "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Superbad",
+      "avgRating": 4.3,
+      "ratingCount": 0
+    },
+    {
+      "id": 25,
+      "title": "The Hangover",
+      "year": 2009,
+      "director": "Todd Phillips",
+      "genres": ["COMEDY"],
+      "runtime": 100,
+      "language": "English",
+      "description": "Three buddies wake up from a bachelor party in Vegas with no memory of the previous night and the bachelor missing.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=The+Hangover",
+      "avgRating": 4.2,
+      "ratingCount": 0
+    },
+    {
+      "id": 28,
+      "title": "Knives Out",
+      "year": 2019,
+      "director": "Rian Johnson",
+      "genres": ["COMEDY", "CRIME", "DRAMA"],
+      "runtime": 130,
+      "language": "English",
+      "description": "A detective investigates the death of a patriarch of an eccentric, combative family.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Knives+Out",
+      "avgRating": 4.5,
+      "ratingCount": 0
+    },
+    {
+      "id": 40,
+      "title": "Tropic Thunder",
+      "year": 2008,
+      "director": "Ben Stiller",
+      "genres": ["COMEDY", "ACTION"],
+      "runtime": 107,
+      "language": "English",
+      "description": "During the filming of an action movie, fake war film crew find themselves in a real combat situation.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Tropic+Thunder",
+      "avgRating": 4.1,
+      "ratingCount": 0
+    }
+  ]
+}

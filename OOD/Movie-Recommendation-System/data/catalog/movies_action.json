@@ -1,0 +1,96 @@
+{
+  "genre": "ACTION",
+  "movies": [
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "genres": ["ACTION", "CRIME", "THRILLER"],
+      "runtime": 152,
+      "language": "English",
+      "description": "When the menace known as the Joker wreaks havoc on Gotham, Batman must accept one of the greatest psychological tests.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Dark+Knight",
+      "avgRating": 4.9,
+      "ratingCount": 0
+    },
+    {
+      "id": 8,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "director": "George Miller",
+      "genres": ["ACTION", "THRILLER"],
+      "runtime": 120,
+      "language": "English",
+      "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Mad+Max",
+      "avgRating": 4.5,
+      "ratingCount": 0
+    },
+    {
+      "id": 12,
+      "title": "John Wick",
+      "year": 2014,
+      "director": "Chad Stahelski",
+      "genres": ["ACTION", "THRILLER", "CRIME"],
+      "runtime": 101,
+      "language": "English",
+      "description": "An ex-assassin comes out of retirement to track down the gangsters that took everything from him.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=John+Wick",
+      "avgRating": 4.7,
+      "ratingCount": 0
+    },
+    {
+      "id": 19,
+      "title": "The Fast and the Furious",
+      "year": 2009,
+      "director": "Justin Lin",
+      "genres": ["ACTION", "CRIME"],
+      "runtime": 107,
+      "language": "English",
+      "description": "Dominic Toretto and his crew join forces with federal agent Brian O'Connor.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Fast+Furious",
+      "avgRating": 4.2,
+      "ratingCount": 0
+    },
+    {
+      "id": 23,
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018,
+      "director": "Christopher McQuarrie",
+      "genres": ["ACTION", "THRILLER"],
+      "runtime": 147,
+      "language": "English",
+      "description": "Ethan Hunt and his team must stop a nuclear weapons trade before an unknown threat emerges.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Mission+Impossible",
+      "avgRating": 4.4,
+      "ratingCount": 0
+    },
+    {
+      "id": 35,
+      "title": "Top Gun: Maverick",
+      "year": 2022,
+      "director": "Joseph Kosinski",
+      "genres": ["ACTION", "DRAMA"],
+      "runtime": 131,
+      "language": "English",
+      "description": "After 30 years, Maverick is back to train a new generation of fighters in one last, dangerous mission.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Top+Gun",
+      "avgRating": 4.6,
+      "ratingCount": 0
+    },
+    {
+      "id": 44,
+      "title": "The Expendables",
+      "year": 2010,
+      "director": "Sylvester Stallone",
+      "genres": ["ACTION", "THRILLER"],
+      "runtime": 103,
+      "language": "English",
+      "description": "A team of elite mercenaries reunite to fight an unstoppable force.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Expendables",
+      "avgRating": 3.9,
+      "ratingCount": 0
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "genre": "HORROR",
+  "movies": [
+    {
+      "id": 16,
+      "title": "The Shining",
+      "year": 1980,
+      "director": "Stanley Kubrick",
+      "genres": ["HORROR", "DRAMA"],
+      "runtime": 146,
+      "language": "English",
+      "description": "A family isolated by heavy snow in a remote hotel descends into madness and violence.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=The+Shining",
+      "avgRating": 4.7,
+      "ratingCount": 0
+    },
+    {
+      "id": 22,
+      "title": "Hereditary",
+      "year": 2018,
+      "director": "Ari Aster",
+      "genres": ["HORROR", "DRAMA", "THRILLER"],
+      "runtime": 127,
+      "language": "English",
+      "description": "A family unravels after the death of their grandmother and discovers dark secrets lurking beneath.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Hereditary",
+      "avgRating": 4.4,
+      "ratingCount": 0
+    },
+    {
+      "id": 29,
+      "title": "The Ring",
+      "year": 2002,
+      "director": "Gore Verbinski",
+      "genres": ["HORROR", "THRILLER"],
+      "runtime": 115,
+      "language": "English",
+      "description": "A journalist must stop a deadly curse that kills anyone who watches a mysterious videotape.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=The+Ring",
+      "avgRating": 4.1,
+      "ratingCount": 0
+    },
+    {
+      "id": 32,
+      "title": "A Quiet Place",
+      "year": 2018,
+      "director": "John Krasinski",
+      "genres": ["HORROR", "THRILLER", "DRAMA"],
+      "runtime": 90,
+      "language": "English",
+      "description": "In a world where creatures hunt by sound, a family must survive in silence.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=Quiet+Place",
+      "avgRating": 4.5,
+      "ratingCount": 0
+    },
+    {
+      "id": 38,
+      "title": "The Exorcist",
+      "year": 1973,
+      "director": "William Friedkin",
+      "genres": ["HORROR", "DRAMA"],
+      "runtime": 132,
+      "language": "English",
+      "description": "When a young girl becomes possessed by a demonic entity, her mother seeks help from a pair of priests.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=The+Exorcist",
+      "avgRating": 4.7,
+      "ratingCount": 0
+    },
+    {
+      "id": 45,
+      "title": "It Follows",
+      "year": 2014,
+      "director": "David Robert Mitchell",
+      "genres": ["HORROR", "THRILLER"],
+      "runtime": 100,
+      "language": "English",
+      "description": "A group of friends must survive the night against a supernatural entity that never stops coming.",
+      "posterUrl": "https://via.placeholder.com/300x450?text=It+Follows",
+      "avgRating": 4.2,
+      "ratingCount": 0
+    }
+  ]
+}
